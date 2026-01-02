@@ -1,0 +1,14 @@
+6. Quais medicamentos exigem maior investimento para reabastecimento do estoque mínimo?
+
+Medicamentos com maior déficit de unidades e custo unitário elevado exigem maior investimento para reposição, com destaque para o Clonazepam.
+
+SELECT
+    nome_medicamento,
+    municipio,
+    ROUND(
+        (estoque_minimo - quantidade_estoque) * custo_unitario,
+        2
+    ) AS custo_reposicao
+FROM medicamentos_estoque
+WHERE quantidade_estoque < estoque_minimo
+ORDER BY custo_reposicao DESC;
