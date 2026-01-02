@@ -1,0 +1,11 @@
+Pergunta 7: Existe um equilíbrio operacional entre o número de Médicos e Enfermeiros em todas as unidades, ou alguma unidade está subdimensionada?
+
+Nem todas as unidades apresentam equilíbrio entre médicos e enfermeiros, indicando possível subdimensionamento de equipes.
+
+SELECT
+    unidade,
+    SUM(CASE WHEN cargo = 'MEDICO' THEN 1 ELSE 0 END) AS qtd_medicos,
+    SUM(CASE WHEN cargo = 'ENFERMEIRO' THEN 1 ELSE 0 END) AS qtd_enfermeiros
+FROM salarios_profissionais
+GROUP BY unidade
+ORDER BY unidade;
