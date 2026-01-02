@@ -1,0 +1,15 @@
+1. Qual a participação percentual de cada origem de atendimento?
+
+O SUS concentra a maior parte dos atendimentos (54,18%), seguido por Convênio (30,72%) e Particular (15,10%).
+
+SELECT
+    origem,
+    COUNT(*) AS total_atendimentos,
+    ROUND(
+        (COUNT(*) * 100.0) / (SELECT COUNT(*) FROM atendimentos),
+        2
+    ) AS percentual
+FROM atendimentos
+GROUP BY origem;
+
+---------------------------------------------------------------------------------------------------------------------
