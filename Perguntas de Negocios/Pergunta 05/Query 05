@@ -1,0 +1,7 @@
+5. Qual é o valor financeiro total parado em estoque atualmente?
+
+O valor total parado em estoque é de aproximadamente R$ 3,28 milhões.
+
+SELECT
+    ROUND(SUM(quantidade_estoque * custo_unitario), 2) AS valor_total_estoque
+FROM medicamentos_estoque;
