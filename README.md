@@ -18,22 +18,22 @@ O foco está na análise de **custos operacionais, estoque de medicamentos, recu
 
 ## 🧱 Estrutura do Projeto
 
-📦 gestao_hospitalar
-┣ 📂 daw
-┃ ┣ 📄 atendimentos.csv
-┃ ┣ 📄 custos_fixos.csv
-┃ ┣ 📄 faturamento.csv
-┃ ┣ 📄 medicamentos_estoque.csv
-┃ ┣ 📄 pacientes.csv
-┃ ┣ 📄 salarios_profissionais.csv
-┃ ┗ 📄 dim_unidade.csv
-┣ 📂 sql
-┃ ┗ 📄 consultas.sql
-┣ 📂 python
-┃ ┗ 📄 geracao_dados.py
-┣ 📂 powerbi
-┃ ┗ 📄 dashboard.pbix
-┗ 📄 README.md
+📦 gestao_hospitalar   
+┣ 📂 daw   
+┃ ┣ 📄 atendimentos.csv    
+┃ ┣ 📄 custos_fixos.csv   
+┃ ┣ 📄 faturamento.csv   
+┃ ┣ 📄 medicamentos_estoque.csv   
+┃ ┣ 📄 pacientes.csv   
+┃ ┣ 📄 salarios_profissionais.csv   
+┃ ┗ 📄 dim_unidade.csv   
+┣ 📂 sql   
+┃ ┗ 📄 consultas.sql   
+┣ 📂 python   
+┃ ┗ 📄 geracao_dados.py   
+┣ 📂 powerbi   
+┃ ┗ 📄 dashboard.pbix   
+┗ 📄 README.md   
 
 ---
 
