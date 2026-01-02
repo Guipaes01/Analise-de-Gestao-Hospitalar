@@ -1,0 +1,12 @@
+Pergunta 12: Qual município apresenta a maior demanda potencial para serviços pediátricos (pacientes entre 0 e 12 anos)?
+
+Dourados apresenta a maior demanda pediátrica entre os municípios analisados.
+
+SELECT
+    municipio,
+    COUNT(*) AS total_pacientes_pediatricos
+FROM pacientes
+WHERE idade BETWEEN 0 AND 12
+GROUP BY municipio
+ORDER BY total_pacientes_pediatricos DESC
+LIMIT 1;
