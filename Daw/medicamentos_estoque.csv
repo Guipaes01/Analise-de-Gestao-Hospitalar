@@ -1,0 +1,61 @@
+medicamento_id,nome_medicamento,medicamento_controlado,municipio,quantidade_estoque,estoque_minimo,custo_unitario
+1,Paracetamol,Não,Campo Grande,278,83,134.13
+2,Paracetamol,Não,Dourados,551,108,27.27
+3,Paracetamol,Não,Três Lagoas,259,166,133.97
+4,Paracetamol,Não,Corumbá,1166,91,107.31
+5,Dipirona,Não,Campo Grande,115,83,19.13
+6,Dipirona,Não,Dourados,526,144,109.36
+7,Dipirona,Não,Três Lagoas,1199,105,129.59
+8,Dipirona,Não,Corumbá,1166,133,41.63
+9,Amoxicilina,Não,Campo Grande,619,183,156.8
+10,Amoxicilina,Não,Dourados,376,169,77.51
+11,Amoxicilina,Não,Três Lagoas,619,99,40.72
+12,Amoxicilina,Não,Corumbá,739,93,18.96
+13,Azitromicina,Não,Campo Grande,248,125,152.93
+14,Azitromicina,Não,Dourados,591,183,10.21
+15,Azitromicina,Não,Três Lagoas,990,148,24.66
+16,Azitromicina,Não,Corumbá,825,90,100.49
+17,Ibuprofeno,Não,Campo Grande,790,153,36.63
+18,Ibuprofeno,Não,Dourados,192,85,119.87
+19,Ibuprofeno,Não,Três Lagoas,642,90,154.32
+20,Ibuprofeno,Não,Corumbá,256,128,51.84
+21,Omeprazol,Não,Campo Grande,797,100,68.21
+22,Omeprazol,Não,Dourados,479,165,49.89
+23,Omeprazol,Não,Três Lagoas,196,157,115.21
+24,Omeprazol,Não,Corumbá,1143,173,45.95
+25,Insulina,Sim,Campo Grande,996,128,50.42
+26,Insulina,Sim,Dourados,1190,108,124.02
+27,Insulina,Sim,Três Lagoas,164,109,148.37
+28,Insulina,Sim,Corumbá,696,131,50.02
+29,Morfina,Sim,Campo Grande,482,196,169.87
+30,Morfina,Sim,Dourados,694,107,118.84
+31,Morfina,Sim,Três Lagoas,860,193,164.83
+32,Morfina,Sim,Corumbá,989,98,49.52
+33,Diazepam,Sim,Campo Grande,555,175,102.14
+34,Diazepam,Sim,Dourados,588,175,106.26
+35,Diazepam,Sim,Três Lagoas,867,126,41.43
+36,Diazepam,Sim,Corumbá,333,145,90.1
+37,Clonazepam,Sim,Campo Grande,146,190,21.96
+38,Clonazepam,Sim,Dourados,377,181,123.29
+39,Clonazepam,Sim,Três Lagoas,180,129,70.24
+40,Clonazepam,Sim,Corumbá,1008,147,47.13
+41,Losartana,Não,Campo Grande,1183,190,169.78
+42,Losartana,Não,Dourados,284,167,159.55
+43,Losartana,Não,Três Lagoas,596,178,116.27
+44,Losartana,Não,Corumbá,278,117,79.67
+45,AAS,Não,Campo Grande,979,80,171.8
+46,AAS,Não,Dourados,589,144,137.75
+47,AAS,Não,Três Lagoas,1089,196,21.39
+48,AAS,Não,Corumbá,661,187,115.91
+49,Metformina,Não,Campo Grande,457,99,68.87
+50,Metformina,Não,Dourados,380,149,171.75
+51,Metformina,Não,Três Lagoas,1136,197,2.6
+52,Metformina,Não,Corumbá,713,142,5.96
+53,Atorvastatina,Não,Campo Grande,793,192,177.39
+54,Atorvastatina,Não,Dourados,679,110,12.78
+55,Atorvastatina,Não,Três Lagoas,211,90,132.41
+56,Atorvastatina,Não,Corumbá,191,177,97.06
+57,Tramadol,Sim,Campo Grande,307,96,119.61
+58,Tramadol,Sim,Dourados,1175,101,49.55
+59,Tramadol,Sim,Três Lagoas,916,107,167.38
+60,Tramadol,Sim,Corumbá,461,171,57.83

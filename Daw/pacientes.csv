@@ -1,0 +1,301 @@
+paciente_id,nome,sexo,data_nascimento,idade,faixa_etaria,municipio,possui_plano_saude
+1,Natália Duarte,Masculino,1969-09-11,56,Adulto,Campo Grande,Não
+2,Emanuelly Pinto,Masculino,1978-08-22,47,Adulto,Dourados,Sim
+3,Levi da Paz,Masculino,1995-04-08,30,Adulto,Campo Grande,Não
+4,Raquel Vieira,Masculino,1992-08-25,33,Adulto,Campo Grande,Sim
+5,Matheus Correia,Masculino,1959-08-28,66,Idoso,Campo Grande,Não
+6,Ana Julia Silva,Feminino,1981-11-30,44,Adulto,Dourados,Sim
+7,Arthur Miguel Rodrigues,Feminino,1963-02-04,62,Idoso,Campo Grande,Não
+8,Laís Moreira,Masculino,2018-05-02,7,Criança,Corumbá,Sim
+9,Sr. João Felipe Silveira,Masculino,1994-01-24,31,Adulto,Dourados,Não
+10,Matheus Barbosa,Feminino,1983-07-01,42,Adulto,Campo Grande,Sim
+11,Sra. Valentina Pastor,Masculino,1975-08-14,50,Adulto,Três Lagoas,Não
+12,Raul Nascimento,Feminino,1994-06-07,31,Adulto,Campo Grande,Não
+13,Luiz Henrique da Mata,Masculino,2003-12-29,22,Adulto,Corumbá,Sim
+14,Pedro Fogaça,Feminino,1982-04-23,43,Adulto,Três Lagoas,Não
+15,Renan Vasconcelos,Masculino,2005-01-30,20,Adulto,Campo Grande,Não
+16,Otávio Almeida,Feminino,1939-04-05,86,Idoso,Campo Grande,Não
+17,Milena Garcia,Masculino,1977-07-10,48,Adulto,Corumbá,Sim
+18,Sra. Jade Dias,Feminino,1970-02-20,55,Adulto,Dourados,Sim
+19,João Vitor Jesus,Masculino,1936-01-31,89,Idoso,Três Lagoas,Não
+20,José Machado,Masculino,1978-12-06,47,Adulto,Dourados,Não
+21,Laís Barbosa,Masculino,1951-06-13,74,Idoso,Dourados,Não
+22,Giovanna Gomes,Feminino,1935-11-26,90,Idoso,Dourados,Não
+23,Marcelo Dias,Masculino,2000-09-12,25,Adulto,Dourados,Não
+24,Ravi da Rocha,Feminino,2025-05-23,0,Criança,Corumbá,Sim
+25,Nathan Costa,Masculino,1944-08-07,81,Idoso,Três Lagoas,Sim
+26,Yago da Paz,Feminino,1973-06-15,52,Adulto,Corumbá,Não
+27,Luísa Sá,Feminino,1977-10-27,48,Adulto,Dourados,Sim
+28,Bruna Ramos,Masculino,2017-04-06,8,Criança,Três Lagoas,Não
+29,Sra. Rebeca Sousa,Feminino,2019-06-08,6,Criança,Corumbá,Sim
+30,Ana Liz Duarte,Masculino,1952-03-10,73,Idoso,Corumbá,Sim
+31,Raul Azevedo,Masculino,1962-05-01,63,Idoso,Campo Grande,Sim
+32,Lara Vieira,Masculino,1995-03-10,30,Adulto,Corumbá,Não
+33,Amanda Souza,Feminino,2003-06-28,22,Adulto,Corumbá,Não
+34,Marcela Novaes,Feminino,2022-04-21,3,Criança,Três Lagoas,Não
+35,Ana Júlia Fogaça,Masculino,2003-06-14,22,Adulto,Campo Grande,Não
+36,Ana Clara Barbosa,Feminino,1960-11-06,65,Idoso,Três Lagoas,Sim
+37,Dra. Stephany da Rosa,Feminino,2024-04-12,1,Criança,Dourados,Não
+38,Joaquim Vargas,Feminino,1939-10-04,86,Idoso,Dourados,Não
+39,Fernando Duarte,Masculino,2023-10-03,2,Criança,Três Lagoas,Não
+40,Caroline Pereira,Masculino,2024-08-01,1,Criança,Dourados,Sim
+41,Srta. Marcela Lima,Masculino,1943-05-08,82,Idoso,Campo Grande,Não
+42,Maria Flor Martins,Feminino,1978-06-29,47,Adulto,Campo Grande,Sim
+43,Ravy Andrade,Feminino,1941-02-09,84,Idoso,Três Lagoas,Sim
+44,Sr. Otávio Dias,Masculino,1941-12-24,84,Idoso,Campo Grande,Sim
+45,Kevin da Cunha,Feminino,2021-07-15,4,Criança,Campo Grande,Não
+46,Yan Rezende,Masculino,1956-01-23,69,Idoso,Dourados,Não
+47,Maysa Nascimento,Masculino,1986-08-06,39,Adulto,Três Lagoas,Não
+48,Daniela Mendes,Feminino,1959-08-16,66,Idoso,Dourados,Não
+49,Srta. Ester Gomes,Masculino,1977-12-30,48,Adulto,Três Lagoas,Sim
+50,Sara da Rocha,Feminino,1978-08-17,47,Adulto,Corumbá,Não
+51,Giovanna Ferreira,Feminino,1977-02-22,48,Adulto,Campo Grande,Sim
+52,Dr. Ryan Machado,Masculino,2009-06-07,16,Adolescente,Três Lagoas,Sim
+53,Helena Sampaio,Masculino,1995-02-08,30,Adulto,Dourados,Sim
+54,Ana Freitas,Masculino,1987-08-12,38,Adulto,Dourados,Sim
+55,Dr. Gael Macedo,Masculino,2012-08-23,13,Adolescente,Três Lagoas,Sim
+56,Lara Moreira,Masculino,2001-07-29,24,Adulto,Três Lagoas,Não
+57,Guilherme Pimenta,Masculino,1934-12-08,91,Idoso,Dourados,Não
+58,Cecilia Mendonça,Feminino,1970-09-10,55,Adulto,Dourados,Não
+59,Eduarda Carvalho,Feminino,1995-12-11,30,Adulto,Dourados,Sim
+60,Ana Sophia Sousa,Feminino,1985-02-27,40,Adulto,Três Lagoas,Sim
+61,Melina Casa Grande,Feminino,1968-11-11,57,Adulto,Campo Grande,Não
+62,Dra. Raquel Cardoso,Masculino,2000-07-25,25,Adulto,Campo Grande,Sim
+63,Caroline Aragão,Feminino,1978-07-31,47,Adulto,Campo Grande,Sim
+64,Amanda Correia,Masculino,2012-10-28,13,Adolescente,Corumbá,Sim
+65,Sr. Rafael Barbosa,Masculino,1997-07-22,28,Adulto,Três Lagoas,Não
+66,Enzo Jesus,Masculino,1996-06-03,29,Adulto,Corumbá,Não
+67,Theodoro Melo,Masculino,1941-04-26,84,Idoso,Campo Grande,Não
+68,Enzo Gabriel Garcia,Masculino,1980-11-05,45,Adulto,Campo Grande,Não
+69,Luara Rodrigues,Masculino,1937-08-10,88,Idoso,Dourados,Sim
+70,Aurora Cassiano,Feminino,1943-02-26,82,Idoso,Dourados,Não
+71,Antonella Cavalcanti,Masculino,2013-05-13,12,Criança,Dourados,Sim
+72,Melissa Castro,Feminino,2024-12-26,1,Criança,Três Lagoas,Não
+73,Sr. Luiz Henrique Pereira,Feminino,1962-06-12,63,Idoso,Três Lagoas,Sim
+74,Ana Júlia Moura,Feminino,1983-08-09,42,Adulto,Dourados,Sim
+75,Maria Fernanda da Luz,Masculino,1967-01-24,58,Adulto,Campo Grande,Não
+76,Julia Garcia,Masculino,1945-04-29,80,Idoso,Três Lagoas,Sim
+77,Natália Nogueira,Feminino,1952-09-06,73,Idoso,Dourados,Sim
+78,Ana Carolina Guerra,Masculino,1975-05-07,50,Adulto,Dourados,Sim
+79,Ana Lívia Martins,Masculino,1962-06-24,63,Idoso,Dourados,Sim
+80,Matteo Azevedo,Masculino,1992-01-12,33,Adulto,Campo Grande,Não
+81,Erick Sousa,Feminino,1944-09-24,81,Idoso,Três Lagoas,Não
+82,Caroline Machado,Masculino,1995-06-20,30,Adulto,Três Lagoas,Sim
+83,Luiz Fernando Farias,Feminino,1961-12-27,64,Idoso,Dourados,Não
+84,Davi Miguel da Cruz,Feminino,2025-09-24,0,Criança,Corumbá,Sim
+85,Sabrina Rodrigues,Masculino,1998-10-11,27,Adulto,Campo Grande,Não
+86,Francisco Abreu,Masculino,2011-06-25,14,Adolescente,Campo Grande,Não
+87,Gabrielly Machado,Feminino,1963-02-03,62,Idoso,Dourados,Não
+88,Ana Julia Ramos,Masculino,2024-10-23,1,Criança,Dourados,Sim
+89,Bianca Gonçalves,Masculino,2004-12-26,21,Adulto,Corumbá,Não
+90,Maria Luiza Ribeiro,Feminino,2013-10-25,12,Criança,Campo Grande,Não
+91,Allana Farias,Feminino,1992-09-28,33,Adulto,Campo Grande,Não
+92,Calebe Fogaça,Masculino,1933-09-16,92,Idoso,Três Lagoas,Sim
+93,Maysa Barbosa,Masculino,2019-03-22,6,Criança,Dourados,Sim
+94,Benicio Fonseca,Masculino,1930-03-06,95,Idoso,Três Lagoas,Sim
+95,Luara das Neves,Feminino,2023-10-09,2,Criança,Corumbá,Sim
+96,Leandro Souza,Masculino,2010-02-26,15,Adolescente,Campo Grande,Não
+97,Sr. Lucas Gabriel da Rosa,Feminino,1997-12-04,28,Adulto,Campo Grande,Sim
+98,Clarice Monteiro,Masculino,2018-05-21,7,Criança,Três Lagoas,Sim
+99,Nina da Rosa,Feminino,1938-02-20,87,Idoso,Corumbá,Não
+100,Sara Fogaça,Masculino,1950-08-12,75,Idoso,Campo Grande,Não
+101,Ana Júlia Viana,Masculino,1973-09-10,52,Adulto,Campo Grande,Não
+102,Kevin da Mata,Masculino,2000-02-05,25,Adulto,Corumbá,Sim
+103,Maria Isis Jesus,Feminino,1984-06-25,41,Adulto,Três Lagoas,Não
+104,Yan Campos,Masculino,1984-03-04,41,Adulto,Três Lagoas,Sim
+105,Otávio Jesus,Masculino,1953-10-30,72,Idoso,Campo Grande,Sim
+106,Giovanna Teixeira,Feminino,2007-06-14,18,Adulto,Dourados,Não
+107,Jade Pimenta,Masculino,1938-12-15,87,Idoso,Dourados,Não
+108,Emilly Martins,Masculino,2016-02-11,9,Criança,Corumbá,Sim
+109,Ana Sophia Abreu,Feminino,1972-04-12,53,Adulto,Corumbá,Não
+110,Maria Julia Nogueira,Masculino,1987-03-15,38,Adulto,Três Lagoas,Sim
+111,Sr. Rhavi Camargo,Masculino,1966-03-30,59,Adulto,Corumbá,Não
+112,Juan das Neves,Feminino,2013-06-05,12,Criança,Dourados,Sim
+113,Emanuella Sampaio,Feminino,1941-10-17,84,Idoso,Três Lagoas,Sim
+114,Sra. Catarina das Neves,Masculino,2018-09-07,7,Criança,Dourados,Sim
+115,Ana Carolina Brito,Masculino,1942-11-05,83,Idoso,Corumbá,Sim
+116,Maysa Novaes,Masculino,1963-08-26,62,Idoso,Três Lagoas,Sim
+117,Isabel Aragão,Feminino,1993-09-19,32,Adulto,Três Lagoas,Não
+118,Dr. Benjamin Silveira,Masculino,2024-08-18,1,Criança,Três Lagoas,Sim
+119,Henrique Souza,Feminino,2023-04-18,2,Criança,Campo Grande,Sim
+120,Cecília Correia,Feminino,1937-07-24,88,Idoso,Três Lagoas,Não
+121,Luiz Gustavo Moreira,Feminino,1938-09-05,87,Idoso,Corumbá,Não
+122,Dra. Alícia Sá,Masculino,1934-02-05,91,Idoso,Corumbá,Não
+123,Catarina Marques,Masculino,1940-06-11,85,Idoso,Três Lagoas,Sim
+124,Ayla Aparecida,Feminino,1995-05-27,30,Adulto,Campo Grande,Não
+125,Letícia Cavalcante,Masculino,1940-07-23,85,Idoso,Três Lagoas,Sim
+126,Beatriz Santos,Feminino,2023-10-08,2,Criança,Três Lagoas,Não
+127,Raul Casa Grande,Masculino,2001-04-18,24,Adulto,Três Lagoas,Não
+128,Alexandre Fonseca,Feminino,1959-12-03,66,Idoso,Três Lagoas,Sim
+129,Sra. Hellena Câmara,Feminino,1992-06-01,33,Adulto,Dourados,Sim
+130,Antonella Peixoto,Feminino,1953-05-04,72,Idoso,Dourados,Não
+131,Srta. Isadora Vasconcelos,Feminino,1955-09-04,70,Idoso,Corumbá,Não
+132,Aylla Pinto,Masculino,2013-10-28,12,Criança,Três Lagoas,Sim
+133,Melissa Nogueira,Feminino,1949-10-10,76,Idoso,Três Lagoas,Não
+134,Lara Gomes,Feminino,1935-07-26,90,Idoso,Dourados,Não
+135,Sra. Evelyn Araújo,Masculino,1988-03-19,37,Adulto,Campo Grande,Sim
+136,Henry Gabriel Borges,Feminino,1981-08-04,44,Adulto,Campo Grande,Não
+137,Srta. Bruna Carvalho,Masculino,1953-01-18,72,Idoso,Três Lagoas,Sim
+138,Bruno Nogueira,Masculino,1990-01-04,35,Adulto,Dourados,Sim
+139,Melina Jesus,Masculino,1972-11-04,53,Adulto,Corumbá,Não
+140,Nicole Rezende,Masculino,1960-08-04,65,Idoso,Corumbá,Sim
+141,Benicio Pacheco,Masculino,1990-01-15,35,Adulto,Corumbá,Não
+142,Carolina da Paz,Masculino,1954-11-04,71,Idoso,Dourados,Não
+143,Rael Lima,Masculino,1951-10-13,74,Idoso,Campo Grande,Não
+144,Emanuel Montenegro,Masculino,2024-06-28,1,Criança,Dourados,Não
+145,Emanuella Camargo,Feminino,1995-03-12,30,Adulto,Campo Grande,Não
+146,Maria Clara Siqueira,Masculino,1957-11-16,68,Idoso,Corumbá,Sim
+147,Aurora Ribeiro,Feminino,1979-02-24,46,Adulto,Três Lagoas,Não
+148,Dr. Dante Sales,Feminino,1956-10-14,69,Idoso,Corumbá,Não
+149,Luiz Felipe Campos,Feminino,1996-06-24,29,Adulto,Dourados,Não
+150,Ana Júlia Freitas,Feminino,1936-01-28,89,Idoso,Corumbá,Sim
+151,Cecília Silveira,Masculino,2004-04-08,21,Adulto,Três Lagoas,Não
+152,Manuela Silva,Feminino,2023-03-28,2,Criança,Dourados,Sim
+153,Dr. Nathan Almeida,Masculino,1971-07-27,54,Adulto,Três Lagoas,Sim
+154,Dra. Maria Eduarda Cunha,Feminino,2020-02-19,5,Criança,Três Lagoas,Não
+155,Murilo Nascimento,Masculino,1939-09-14,86,Idoso,Dourados,Sim
+156,Dr. Yago Nunes,Feminino,2021-10-12,4,Criança,Dourados,Não
+157,Maria Alice Mendes,Masculino,1970-08-28,55,Adulto,Corumbá,Sim
+158,Joaquim Monteiro,Feminino,1952-11-23,73,Idoso,Corumbá,Sim
+159,Lucca Sousa,Feminino,1934-12-01,91,Idoso,Corumbá,Não
+160,Gael Henrique Sales,Masculino,1993-08-07,32,Adulto,Corumbá,Não
+161,Alice Monteiro,Feminino,2002-09-09,23,Adulto,Três Lagoas,Não
+162,Melina Rocha,Feminino,1988-08-15,37,Adulto,Dourados,Não
+163,Maitê Sousa,Feminino,2000-08-17,25,Adulto,Corumbá,Não
+164,Otávio Dias,Feminino,2000-08-29,25,Adulto,Três Lagoas,Não
+165,Lívia Andrade,Feminino,1950-11-22,75,Idoso,Dourados,Não
+166,Maria Luiza Pinto,Masculino,1982-05-19,43,Adulto,Campo Grande,Não
+167,Stephany Gomes,Masculino,2001-03-01,24,Adulto,Campo Grande,Não
+168,Ana Júlia Moreira,Masculino,1989-03-10,36,Adulto,Corumbá,Sim
+169,Matteo Sampaio,Feminino,1940-10-10,85,Idoso,Corumbá,Sim
+170,Mariana da Luz,Feminino,1992-07-29,33,Adulto,Três Lagoas,Sim
+171,Davi Lucas Mendes,Feminino,1987-08-11,38,Adulto,Três Lagoas,Não
+172,Hadassa Moraes,Feminino,2014-04-19,11,Criança,Três Lagoas,Não
+173,Esther Campos,Feminino,2009-03-22,16,Adolescente,Campo Grande,Não
+174,Felipe Campos,Masculino,2003-10-22,22,Adulto,Três Lagoas,Sim
+175,Ryan Oliveira,Masculino,1979-05-01,46,Adulto,Campo Grande,Não
+176,Rafaela Fernandes,Masculino,2014-01-26,11,Criança,Dourados,Não
+177,Carolina Monteiro,Masculino,2011-02-25,14,Adolescente,Dourados,Sim
+178,Zoe Andrade,Masculino,1937-06-24,88,Idoso,Dourados,Não
+179,Ana Lívia Mendes,Feminino,1963-07-01,62,Idoso,Três Lagoas,Sim
+180,Yan Caldeira,Masculino,1998-11-21,27,Adulto,Dourados,Não
+181,Mariana Santos,Masculino,1996-04-15,29,Adulto,Campo Grande,Não
+182,Raquel Sousa,Feminino,1959-11-14,66,Idoso,Corumbá,Não
+183,Maria Vitória Cavalcante,Masculino,1962-12-08,63,Idoso,Campo Grande,Não
+184,Davi Lucas da Rosa,Masculino,2007-04-02,18,Adulto,Campo Grande,Não
+185,Hellena Monteiro,Feminino,2019-01-10,6,Criança,Campo Grande,Não
+186,Maria Luísa Carvalho,Masculino,2009-05-10,16,Adolescente,Três Lagoas,Não
+187,Henrique Aragão,Feminino,1958-06-26,67,Idoso,Campo Grande,Não
+188,Sr. Oliver Souza,Feminino,2000-04-08,25,Adulto,Campo Grande,Não
+189,Sophie Vargas,Feminino,1930-10-13,95,Idoso,Campo Grande,Sim
+190,Luara Melo,Feminino,2007-11-25,18,Adulto,Corumbá,Não
+191,Isabelly Macedo,Feminino,1995-03-15,30,Adulto,Dourados,Não
+192,Luiza Castro,Feminino,1961-08-14,64,Idoso,Corumbá,Não
+193,Giovanna Vargas,Feminino,1938-08-30,87,Idoso,Três Lagoas,Não
+194,Ian Silva,Masculino,1990-06-09,35,Adulto,Três Lagoas,Não
+195,Larissa Marques,Masculino,1971-03-17,54,Adulto,Corumbá,Não
+196,Rodrigo Caldeira,Feminino,1973-03-21,52,Adulto,Três Lagoas,Sim
+197,Gael Siqueira,Feminino,2013-10-13,12,Criança,Dourados,Não
+198,Daniela Câmara,Feminino,1952-01-19,73,Idoso,Três Lagoas,Sim
+199,Eduarda Santos,Feminino,2018-09-12,7,Criança,Campo Grande,Não
+200,Anna Liz Guerra,Masculino,2003-09-01,22,Adulto,Campo Grande,Sim
+201,Ravy Caldeira,Feminino,1967-06-06,58,Adulto,Corumbá,Não
+202,Giovanna Jesus,Masculino,1998-01-13,27,Adulto,Corumbá,Não
+203,Yasmin Moreira,Feminino,1937-07-09,88,Idoso,Corumbá,Não
+204,Isabelly Sousa,Masculino,1961-10-08,64,Idoso,Três Lagoas,Sim
+205,Mirella Mendes,Masculino,1964-08-28,61,Idoso,Três Lagoas,Não
+206,Emilly Vasconcelos,Feminino,1975-06-25,50,Adulto,Corumbá,Não
+207,Eloah Cunha,Feminino,1931-07-30,94,Idoso,Corumbá,Não
+208,Júlia Pacheco,Feminino,1969-05-04,56,Adulto,Três Lagoas,Não
+209,Felipe Caldeira,Feminino,2005-09-27,20,Adulto,Três Lagoas,Sim
+210,Stephany Campos,Masculino,1976-05-24,49,Adulto,Dourados,Sim
+211,Vitória Abreu,Masculino,2004-09-28,21,Adulto,Dourados,Sim
+212,Mateus Sousa,Feminino,2006-10-16,19,Adulto,Três Lagoas,Não
+213,Srta. Cecília Pires,Feminino,1961-01-24,64,Idoso,Campo Grande,Não
+214,Ísis Novais,Feminino,1963-02-06,62,Idoso,Dourados,Sim
+215,Lucas Gabriel Vieira,Feminino,2010-05-15,15,Adolescente,Campo Grande,Não
+216,Ryan Sá,Masculino,1981-10-09,44,Adulto,Três Lagoas,Sim
+217,Dr. Cauê Fernandes,Masculino,1989-08-06,36,Adulto,Três Lagoas,Não
+218,Hellena Monteiro,Masculino,2019-04-07,6,Criança,Corumbá,Sim
+219,Maria Alice Ramos,Masculino,1962-12-30,63,Idoso,Três Lagoas,Não
+220,Calebe Aragão,Feminino,1989-07-05,36,Adulto,Três Lagoas,Sim
+221,Allana Moreira,Masculino,1940-07-10,85,Idoso,Três Lagoas,Não
+222,Júlia Santos,Feminino,2003-11-05,22,Adulto,Campo Grande,Não
+223,Esther Araújo,Feminino,1984-09-14,41,Adulto,Corumbá,Sim
+224,Leandro Guerra,Masculino,1963-04-07,62,Idoso,Dourados,Sim
+225,Francisco Câmara,Feminino,1942-04-28,83,Idoso,Campo Grande,Não
+226,Sara Moura,Masculino,1994-05-18,31,Adulto,Corumbá,Não
+227,Lucas Pacheco,Masculino,1938-10-26,87,Idoso,Corumbá,Não
+228,Sr. João Lucas Alves,Feminino,1930-10-11,95,Idoso,Três Lagoas,Não
+229,Isabella Mendonça,Feminino,1944-10-10,81,Idoso,Três Lagoas,Não
+230,Allana Pires,Masculino,1995-02-03,30,Adulto,Campo Grande,Não
+231,Daniel Novaes,Masculino,1955-12-20,70,Idoso,Dourados,Sim
+232,Maria Clara Nunes,Masculino,1949-05-23,76,Idoso,Dourados,Sim
+233,Rafael da Mata,Masculino,1977-11-24,48,Adulto,Dourados,Sim
+234,Vinicius Melo,Feminino,1994-07-11,31,Adulto,Corumbá,Sim
+235,Srta. Brenda Pinto,Masculino,1960-09-06,65,Idoso,Três Lagoas,Não
+236,Mathias Cardoso,Feminino,1993-10-05,32,Adulto,Campo Grande,Não
+237,Sr. Renan Sá,Feminino,2023-12-02,2,Criança,Dourados,Sim
+238,Gael Henrique Almeida,Masculino,1958-04-13,67,Idoso,Dourados,Não
+239,Rafael Moreira,Masculino,2019-09-09,6,Criança,Campo Grande,Sim
+240,João Vitor Sousa,Feminino,1931-02-13,94,Idoso,Três Lagoas,Sim
+241,Mateus Silva,Feminino,2021-04-15,4,Criança,Três Lagoas,Não
+242,Anthony Abreu,Feminino,1961-03-13,64,Idoso,Corumbá,Sim
+243,Caroline Silveira,Masculino,2010-10-11,15,Adolescente,Corumbá,Não
+244,Maria Fernanda Mendonça,Feminino,1971-04-06,54,Adulto,Campo Grande,Sim
+245,Camila Abreu,Masculino,1944-11-03,81,Idoso,Três Lagoas,Não
+246,Pedro Miguel Garcia,Masculino,1968-12-03,57,Adulto,Corumbá,Não
+247,Gabriela Moreira,Feminino,2025-09-13,0,Criança,Três Lagoas,Sim
+248,Yasmin da Rosa,Feminino,1987-11-09,38,Adulto,Corumbá,Não
+249,Sra. Stella Sampaio,Feminino,2018-06-20,7,Criança,Três Lagoas,Sim
+250,Sr. João Felipe Caldeira,Feminino,1979-04-11,46,Adulto,Campo Grande,Não
+251,Gustavo Henrique Ribeiro,Feminino,1971-12-14,54,Adulto,Corumbá,Não
+252,Alice Rodrigues,Feminino,1962-08-08,63,Idoso,Corumbá,Não
+253,Leonardo Borges,Masculino,1962-07-06,63,Idoso,Corumbá,Sim
+254,Ísis Pires,Feminino,1961-09-20,64,Idoso,Três Lagoas,Sim
+255,Daniela Sales,Feminino,1936-04-03,89,Idoso,Campo Grande,Não
+256,Fernanda Cunha,Feminino,2002-01-24,23,Adulto,Corumbá,Sim
+257,Alexandre Alves,Feminino,2020-10-11,5,Criança,Corumbá,Não
+258,Natália Almeida,Masculino,2006-05-17,19,Adulto,Dourados,Sim
+259,Mariana da Mota,Masculino,2025-03-08,0,Criança,Três Lagoas,Sim
+260,Ryan Câmara,Feminino,1987-06-28,38,Adulto,Campo Grande,Sim
+261,Gustavo Henrique Fernandes,Masculino,1939-07-04,86,Idoso,Dourados,Sim
+262,Vicente da Rocha,Masculino,1996-07-08,29,Adulto,Corumbá,Sim
+263,Caleb Caldeira,Masculino,2017-04-12,8,Criança,Corumbá,Não
+264,Maria Flor Montenegro,Masculino,2001-07-28,24,Adulto,Corumbá,Não
+265,Brenda Barros,Feminino,2022-07-25,3,Criança,Três Lagoas,Sim
+266,Henry da Costa,Feminino,2023-04-01,2,Criança,Corumbá,Sim
+267,Asafe Leão,Masculino,1938-07-06,87,Idoso,Corumbá,Sim
+268,Sr. Anthony Gabriel Jesus,Masculino,1987-05-07,38,Adulto,Campo Grande,Sim
+269,Sarah Nogueira,Feminino,1931-03-12,94,Idoso,Três Lagoas,Não
+270,Leandro Guerra,Feminino,1976-07-12,49,Adulto,Campo Grande,Sim
+271,Henrique Pimenta,Feminino,1955-10-11,70,Idoso,Corumbá,Não
+272,Luiz Miguel Camargo,Feminino,1976-06-04,49,Adulto,Corumbá,Sim
+273,Lara da Mota,Feminino,2023-06-03,2,Criança,Corumbá,Não
+274,Srta. Maria Laura Gomes,Masculino,1985-12-25,40,Adulto,Dourados,Não
+275,Mariah Moraes,Masculino,1977-08-31,48,Adulto,Corumbá,Sim
+276,Srta. Manuela das Neves,Feminino,1998-05-10,27,Adulto,Corumbá,Sim
+277,Evelyn Peixoto,Masculino,1981-05-31,44,Adulto,Corumbá,Não
+278,Vitória Peixoto,Masculino,1997-02-05,28,Adulto,Três Lagoas,Não
+279,Dr. Murilo Cassiano,Feminino,1988-09-21,37,Adulto,Campo Grande,Não
+280,Arthur Gabriel Santos,Feminino,1931-09-20,94,Idoso,Campo Grande,Não
+281,Pedro Moreira,Feminino,1952-06-07,73,Idoso,Dourados,Sim
+282,Antônio Duarte,Feminino,1951-04-22,74,Idoso,Três Lagoas,Não
+283,Emilly Pinto,Feminino,1957-06-05,68,Idoso,Campo Grande,Não
+284,Ana Lívia Câmara,Feminino,1977-06-06,48,Adulto,Três Lagoas,Não
+285,Alice Machado,Feminino,1983-05-16,42,Adulto,Campo Grande,Não
+286,Dr. Fernando Moreira,Masculino,2015-12-11,10,Criança,Três Lagoas,Não
+287,Stella Barbosa,Masculino,1990-05-04,35,Adulto,Corumbá,Não
+288,Levi Cunha,Masculino,2000-05-29,25,Adulto,Corumbá,Sim
+289,Sr. Otto Azevedo,Feminino,1945-11-29,80,Idoso,Campo Grande,Sim
+290,Dr. Matheus Sousa,Masculino,1931-04-12,94,Idoso,Três Lagoas,Sim
+291,Vitor Gabriel Fonseca,Feminino,1954-11-25,71,Idoso,Dourados,Sim
+292,Valentim da Luz,Feminino,1967-09-20,58,Adulto,Dourados,Sim
+293,Dom Cirino,Masculino,1952-06-21,73,Idoso,Corumbá,Não
+294,Leandro Farias,Masculino,1935-04-16,90,Idoso,Corumbá,Não
+295,Ana Cecília Fernandes,Masculino,1993-08-27,32,Adulto,Dourados,Não
+296,Daniel Teixeira,Feminino,1986-02-24,39,Adulto,Corumbá,Sim
+297,Sra. Camila Guerra,Masculino,1999-12-10,26,Adulto,Corumbá,Não
+298,Lucas Gabriel Almeida,Masculino,1950-12-21,75,Idoso,Campo Grande,Sim
+299,Nicolas Cardoso,Feminino,1977-06-11,48,Adulto,Três Lagoas,Não
+300,Caleb Pinto,Feminino,1993-06-17,32,Adulto,Três Lagoas,Não

@@ -1,0 +1,2260 @@
+atendimento_id,paciente_id,data_atendimento,tipo_atendimento,especialidade,municipio,custo_atendimento,origem
+1,1,2023-08-27,Consulta,Pediatria,Campo Grande,104.49,Convênio
+2,1,2021-03-20,Emergência,Clínica Médica,Campo Grande,744.4,SUS
+3,1,2023-11-25,Emergência,Pediatria,Campo Grande,317.88,SUS
+4,1,2022-02-11,Consulta,Pediatria,Campo Grande,82.65,SUS
+5,1,2022-11-11,Emergência,Pediatria,Campo Grande,626.96,Convênio
+6,1,2021-09-04,Exame,Clínica Médica,Campo Grande,352.36,Convênio
+7,1,2023-12-24,Consulta,Pediatria,Campo Grande,114.03,Convênio
+8,1,2022-02-17,Consulta,Clínica Médica,Campo Grande,113.66,Particular
+9,1,2022-02-08,Exame,Ortopedia,Campo Grande,361.87,SUS
+10,1,2022-10-07,Consulta,Cardiologia,Campo Grande,133.62,Convênio
+11,1,2021-05-27,Consulta,Ortopedia,Campo Grande,162.94,Convênio
+12,2,2022-05-20,Emergência,Ortopedia,Dourados,696.76,SUS
+13,2,2022-03-18,Consulta,Cardiologia,Dourados,166.65,Particular
+14,2,2022-05-17,Exame,Pediatria,Dourados,358.53,SUS
+15,2,2021-02-19,Exame,Clínica Médica,Dourados,317.54,SUS
+16,2,2021-05-17,Emergência,Pediatria,Dourados,620.48,Convênio
+17,2,2022-04-08,Consulta,Pediatria,Dourados,106.99,SUS
+18,2,2022-10-29,Emergência,Clínica Médica,Dourados,760.99,SUS
+19,2,2022-05-18,Consulta,Cardiologia,Dourados,160.5,Convênio
+20,2,2022-05-14,Exame,Ortopedia,Dourados,378.28,SUS
+21,2,2021-09-26,Consulta,Cardiologia,Dourados,119.56,Convênio
+22,3,2022-04-10,Consulta,Ortopedia,Três Lagoas,136.14,SUS
+23,3,2022-08-17,Emergência,Cardiologia,Três Lagoas,838.69,Convênio
+24,3,2023-06-16,Exame,Cardiologia,Três Lagoas,399.38,SUS
+25,4,2023-01-03,Consulta,Cardiologia,Campo Grande,96.0,SUS
+26,4,2022-09-27,Emergência,Cardiologia,Campo Grande,528.97,SUS
+27,5,2021-10-02,Emergência,Clínica Médica,Três Lagoas,306.89,Particular
+28,5,2021-06-08,Emergência,Ortopedia,Três Lagoas,750.53,Particular
+29,5,2022-09-19,Consulta,Clínica Médica,Três Lagoas,95.82,SUS
+30,5,2021-12-03,Emergência,Pediatria,Três Lagoas,458.03,Particular
+31,5,2022-06-12,Emergência,Ortopedia,Três Lagoas,822.31,Particular
+32,5,2021-10-21,Emergência,Ortopedia,Três Lagoas,419.35,SUS
+33,5,2022-03-09,Consulta,Clínica Médica,Três Lagoas,157.86,SUS
+34,5,2023-10-05,Emergência,Ortopedia,Três Lagoas,311.69,SUS
+35,5,2023-05-15,Exame,Clínica Médica,Três Lagoas,210.22,SUS
+36,6,2022-07-27,Consulta,Pediatria,Corumbá,133.27,Particular
+37,6,2023-09-04,Consulta,Pediatria,Corumbá,174.68,Convênio
+38,7,2022-08-13,Consulta,Pediatria,Corumbá,155.53,Particular
+39,7,2023-09-12,Emergência,Ortopedia,Corumbá,897.09,SUS
+40,7,2023-02-26,Exame,Pediatria,Corumbá,262.87,Particular
+41,7,2021-01-27,Consulta,Pediatria,Corumbá,82.1,SUS
+42,7,2022-03-02,Emergência,Clínica Médica,Corumbá,342.6,SUS
+43,8,2022-05-05,Consulta,Pediatria,Campo Grande,87.09,Particular
+44,8,2022-07-03,Exame,Pediatria,Campo Grande,203.56,Convênio
+45,8,2021-02-07,Emergência,Cardiologia,Campo Grande,642.63,Particular
+46,8,2022-08-13,Consulta,Pediatria,Campo Grande,160.75,Convênio
+47,9,2023-04-04,Emergência,Cardiologia,Campo Grande,554.15,SUS
+48,9,2022-05-16,Emergência,Clínica Médica,Campo Grande,692.07,SUS
+49,10,2023-09-22,Emergência,Pediatria,Corumbá,817.0,SUS
+50,11,2023-03-08,Emergência,Ortopedia,Dourados,553.13,SUS
+51,11,2021-07-15,Exame,Cardiologia,Dourados,380.82,SUS
+52,11,2021-01-12,Emergência,Clínica Médica,Dourados,691.29,SUS
+53,11,2021-08-25,Consulta,Pediatria,Dourados,164.87,Particular
+54,12,2023-04-01,Exame,Clínica Médica,Corumbá,250.26,SUS
+55,12,2021-08-10,Consulta,Ortopedia,Corumbá,178.53,SUS
+56,12,2022-10-04,Exame,Cardiologia,Corumbá,324.15,SUS
+57,12,2022-02-27,Consulta,Clínica Médica,Corumbá,101.77,SUS
+58,12,2023-02-15,Emergência,Ortopedia,Corumbá,336.57,Convênio
+59,12,2023-04-28,Consulta,Pediatria,Corumbá,127.68,SUS
+60,12,2023-09-02,Consulta,Pediatria,Corumbá,88.01,Particular
+61,13,2022-12-26,Emergência,Pediatria,Campo Grande,542.27,Particular
+62,13,2022-09-02,Emergência,Cardiologia,Campo Grande,671.63,Convênio
+63,14,2023-08-10,Exame,Pediatria,Três Lagoas,329.05,SUS
+64,14,2022-10-03,Exame,Ortopedia,Três Lagoas,317.92,SUS
+65,14,2023-03-08,Exame,Clínica Médica,Três Lagoas,337.97,SUS
+66,14,2021-04-21,Consulta,Clínica Médica,Três Lagoas,179.85,SUS
+67,14,2023-01-27,Consulta,Pediatria,Três Lagoas,130.59,SUS
+68,14,2022-11-26,Exame,Ortopedia,Três Lagoas,369.82,Particular
+69,14,2022-05-22,Exame,Ortopedia,Três Lagoas,358.44,SUS
+70,14,2021-11-26,Emergência,Clínica Médica,Três Lagoas,784.26,Particular
+71,14,2021-11-19,Emergência,Clínica Médica,Três Lagoas,479.63,Convênio
+72,14,2023-08-23,Consulta,Pediatria,Três Lagoas,168.97,SUS
+73,14,2023-01-18,Exame,Ortopedia,Três Lagoas,202.66,SUS
+74,15,2023-05-10,Emergência,Clínica Médica,Três Lagoas,843.2,SUS
+75,15,2021-04-12,Consulta,Clínica Médica,Três Lagoas,162.93,Convênio
+76,15,2023-12-13,Consulta,Ortopedia,Três Lagoas,93.08,SUS
+77,15,2022-07-30,Consulta,Cardiologia,Três Lagoas,135.17,Convênio
+78,16,2022-06-26,Consulta,Pediatria,Campo Grande,168.31,SUS
+79,16,2023-08-08,Emergência,Pediatria,Campo Grande,521.53,SUS
+80,16,2023-04-23,Exame,Clínica Médica,Campo Grande,227.06,SUS
+81,16,2022-10-06,Exame,Clínica Médica,Campo Grande,212.38,SUS
+82,16,2023-07-02,Exame,Cardiologia,Campo Grande,371.03,Convênio
+83,16,2023-10-24,Emergência,Pediatria,Campo Grande,855.46,Convênio
+84,16,2021-04-12,Consulta,Cardiologia,Campo Grande,161.08,Particular
+85,16,2023-06-20,Consulta,Cardiologia,Campo Grande,172.45,SUS
+86,16,2022-09-26,Emergência,Ortopedia,Campo Grande,786.45,Particular
+87,17,2021-08-21,Exame,Pediatria,Campo Grande,364.65,Particular
+88,17,2022-02-09,Consulta,Ortopedia,Campo Grande,126.03,Convênio
+89,17,2023-03-25,Consulta,Cardiologia,Campo Grande,146.0,SUS
+90,18,2023-06-29,Consulta,Cardiologia,Três Lagoas,107.91,Particular
+91,18,2022-09-11,Emergência,Clínica Médica,Três Lagoas,621.73,Particular
+92,18,2022-05-09,Consulta,Ortopedia,Três Lagoas,106.12,Particular
+93,18,2022-04-13,Consulta,Ortopedia,Três Lagoas,123.46,SUS
+94,18,2021-06-21,Exame,Cardiologia,Três Lagoas,277.86,Convênio
+95,18,2021-04-20,Emergência,Cardiologia,Três Lagoas,326.63,SUS
+96,19,2023-01-22,Exame,Ortopedia,Dourados,387.22,SUS
+97,20,2022-06-02,Emergência,Ortopedia,Três Lagoas,731.85,Convênio
+98,20,2021-02-06,Emergência,Cardiologia,Três Lagoas,545.04,SUS
+99,20,2023-08-27,Emergência,Cardiologia,Três Lagoas,376.37,SUS
+100,20,2023-02-24,Emergência,Pediatria,Três Lagoas,706.39,Particular
+101,20,2021-02-12,Emergência,Clínica Médica,Três Lagoas,543.65,Convênio
+102,20,2022-12-01,Exame,Ortopedia,Três Lagoas,257.47,SUS
+103,20,2022-01-10,Exame,Cardiologia,Três Lagoas,318.91,SUS
+104,20,2021-06-13,Emergência,Ortopedia,Três Lagoas,350.88,SUS
+105,20,2023-12-14,Consulta,Ortopedia,Três Lagoas,155.11,Convênio
+106,20,2022-11-16,Consulta,Clínica Médica,Três Lagoas,94.74,Convênio
+107,21,2023-07-19,Emergência,Cardiologia,Corumbá,343.7,Convênio
+108,21,2021-12-18,Emergência,Cardiologia,Corumbá,731.01,Convênio
+109,21,2023-08-01,Exame,Clínica Médica,Corumbá,186.89,SUS
+110,21,2021-04-24,Consulta,Cardiologia,Corumbá,101.88,Convênio
+111,22,2022-10-25,Consulta,Ortopedia,Dourados,160.14,SUS
+112,23,2023-03-09,Emergência,Cardiologia,Corumbá,835.21,Convênio
+113,23,2021-11-22,Emergência,Cardiologia,Corumbá,395.49,SUS
+114,23,2021-05-27,Exame,Ortopedia,Corumbá,211.81,SUS
+115,23,2023-05-24,Emergência,Cardiologia,Corumbá,443.55,SUS
+116,23,2021-09-05,Consulta,Ortopedia,Corumbá,103.45,Convênio
+117,23,2023-01-21,Exame,Pediatria,Corumbá,170.14,Particular
+118,23,2022-01-14,Consulta,Pediatria,Corumbá,95.28,SUS
+119,23,2021-02-07,Consulta,Cardiologia,Corumbá,113.09,SUS
+120,23,2023-03-02,Exame,Cardiologia,Corumbá,358.22,SUS
+121,23,2023-12-25,Emergência,Cardiologia,Corumbá,311.72,Particular
+122,23,2023-06-25,Exame,Cardiologia,Corumbá,237.94,SUS
+123,23,2023-07-31,Exame,Pediatria,Corumbá,333.66,SUS
+124,23,2023-02-28,Exame,Clínica Médica,Corumbá,258.96,SUS
+125,24,2021-05-09,Emergência,Pediatria,Três Lagoas,542.59,Convênio
+126,24,2023-05-03,Exame,Clínica Médica,Três Lagoas,395.18,Particular
+127,24,2023-12-30,Exame,Clínica Médica,Três Lagoas,315.75,Convênio
+128,24,2022-04-13,Emergência,Pediatria,Três Lagoas,820.11,SUS
+129,24,2021-01-01,Consulta,Cardiologia,Três Lagoas,112.74,SUS
+130,24,2021-10-05,Exame,Ortopedia,Três Lagoas,369.91,SUS
+131,24,2021-08-06,Exame,Clínica Médica,Três Lagoas,170.48,SUS
+132,25,2023-08-18,Exame,Clínica Médica,Campo Grande,167.15,SUS
+133,25,2023-04-11,Consulta,Clínica Médica,Campo Grande,99.94,Particular
+134,25,2023-09-06,Emergência,Clínica Médica,Campo Grande,375.73,SUS
+135,25,2022-10-02,Emergência,Ortopedia,Campo Grande,579.02,Particular
+136,25,2022-11-07,Exame,Clínica Médica,Campo Grande,301.81,SUS
+137,25,2023-01-30,Consulta,Clínica Médica,Campo Grande,90.81,Particular
+138,25,2023-11-02,Exame,Cardiologia,Campo Grande,377.01,Convênio
+139,25,2022-11-22,Exame,Pediatria,Campo Grande,199.58,Particular
+140,25,2022-02-27,Consulta,Clínica Médica,Campo Grande,110.16,Convênio
+141,25,2023-04-30,Emergência,Cardiologia,Campo Grande,508.32,Convênio
+142,25,2021-12-03,Emergência,Ortopedia,Campo Grande,603.58,SUS
+143,25,2023-01-19,Consulta,Clínica Médica,Campo Grande,162.23,Convênio
+144,26,2021-03-18,Emergência,Pediatria,Três Lagoas,575.84,Particular
+145,26,2021-07-02,Exame,Ortopedia,Três Lagoas,280.44,SUS
+146,26,2021-08-01,Emergência,Cardiologia,Três Lagoas,622.9,Convênio
+147,26,2021-05-06,Exame,Ortopedia,Três Lagoas,332.76,SUS
+148,26,2021-10-04,Exame,Clínica Médica,Três Lagoas,357.68,Particular
+149,26,2023-11-07,Exame,Cardiologia,Três Lagoas,210.97,Particular
+150,26,2023-11-07,Emergência,Clínica Médica,Três Lagoas,527.39,Convênio
+151,27,2022-02-07,Consulta,Ortopedia,Três Lagoas,115.48,SUS
+152,27,2023-07-25,Exame,Ortopedia,Três Lagoas,299.04,SUS
+153,27,2022-07-19,Emergência,Clínica Médica,Três Lagoas,868.84,SUS
+154,27,2021-11-03,Consulta,Pediatria,Três Lagoas,128.86,Convênio
+155,27,2021-02-25,Emergência,Cardiologia,Três Lagoas,727.11,SUS
+156,27,2023-08-01,Consulta,Pediatria,Três Lagoas,102.16,SUS
+157,27,2023-08-15,Exame,Ortopedia,Três Lagoas,242.26,Convênio
+158,27,2021-09-04,Exame,Ortopedia,Três Lagoas,287.6,Particular
+159,28,2022-03-08,Exame,Pediatria,Corumbá,207.63,SUS
+160,28,2021-11-17,Exame,Pediatria,Corumbá,283.97,SUS
+161,28,2023-12-16,Consulta,Ortopedia,Corumbá,128.42,SUS
+162,28,2022-11-06,Consulta,Ortopedia,Corumbá,109.62,Convênio
+163,28,2021-07-09,Consulta,Pediatria,Corumbá,150.8,SUS
+164,28,2022-07-13,Exame,Ortopedia,Corumbá,163.63,SUS
+165,28,2022-04-11,Emergência,Cardiologia,Corumbá,682.72,Particular
+166,28,2021-01-27,Consulta,Cardiologia,Corumbá,137.41,Particular
+167,28,2021-08-26,Exame,Clínica Médica,Corumbá,196.09,SUS
+168,28,2022-01-16,Exame,Clínica Médica,Corumbá,269.43,Particular
+169,28,2022-10-13,Exame,Clínica Médica,Corumbá,294.26,SUS
+170,28,2021-05-20,Consulta,Ortopedia,Corumbá,136.28,SUS
+171,29,2021-04-04,Consulta,Pediatria,Dourados,121.62,Convênio
+172,29,2023-01-19,Emergência,Ortopedia,Dourados,845.1,SUS
+173,30,2022-02-15,Exame,Clínica Médica,Corumbá,165.06,Convênio
+174,30,2021-07-31,Consulta,Clínica Médica,Corumbá,106.46,Convênio
+175,30,2023-10-01,Consulta,Pediatria,Corumbá,135.2,SUS
+176,30,2023-02-24,Consulta,Cardiologia,Corumbá,148.94,SUS
+177,30,2022-08-27,Exame,Ortopedia,Corumbá,222.03,SUS
+178,30,2022-04-16,Emergência,Pediatria,Corumbá,342.71,Particular
+179,30,2021-05-18,Exame,Pediatria,Corumbá,306.26,Convênio
+180,30,2021-03-24,Exame,Pediatria,Corumbá,206.2,SUS
+181,30,2023-01-18,Exame,Pediatria,Corumbá,167.85,Convênio
+182,30,2022-03-26,Exame,Ortopedia,Corumbá,356.06,Convênio
+183,30,2023-02-16,Exame,Cardiologia,Corumbá,322.17,SUS
+184,30,2021-10-15,Exame,Clínica Médica,Corumbá,273.45,SUS
+185,30,2022-11-28,Emergência,Ortopedia,Corumbá,559.22,SUS
+186,30,2021-06-04,Emergência,Clínica Médica,Corumbá,354.8,SUS
+187,31,2022-09-07,Emergência,Cardiologia,Três Lagoas,753.76,SUS
+188,31,2021-07-09,Emergência,Pediatria,Três Lagoas,849.64,Convênio
+189,31,2023-08-28,Emergência,Clínica Médica,Três Lagoas,788.55,SUS
+190,31,2022-12-31,Exame,Clínica Médica,Três Lagoas,233.33,SUS
+191,31,2021-04-05,Consulta,Ortopedia,Três Lagoas,149.37,SUS
+192,31,2023-02-23,Emergência,Clínica Médica,Três Lagoas,788.14,Particular
+193,31,2021-05-11,Exame,Clínica Médica,Três Lagoas,213.1,SUS
+194,31,2022-02-19,Exame,Clínica Médica,Três Lagoas,356.23,Particular
+195,31,2021-02-17,Emergência,Clínica Médica,Três Lagoas,577.19,Particular
+196,31,2021-10-13,Consulta,Cardiologia,Três Lagoas,142.26,SUS
+197,31,2022-06-21,Emergência,Ortopedia,Três Lagoas,330.97,SUS
+198,31,2023-06-28,Emergência,Cardiologia,Três Lagoas,472.82,SUS
+199,31,2023-11-02,Consulta,Pediatria,Três Lagoas,143.0,SUS
+200,32,2021-06-02,Exame,Clínica Médica,Dourados,288.06,Convênio
+201,32,2022-10-02,Consulta,Cardiologia,Dourados,171.29,Particular
+202,32,2022-07-01,Consulta,Ortopedia,Dourados,95.4,Convênio
+203,32,2023-10-22,Emergência,Cardiologia,Dourados,549.29,Convênio
+204,32,2023-12-02,Exame,Cardiologia,Dourados,287.82,SUS
+205,32,2022-06-11,Consulta,Pediatria,Dourados,130.82,Particular
+206,32,2022-01-22,Consulta,Cardiologia,Dourados,159.0,SUS
+207,32,2021-08-11,Exame,Clínica Médica,Dourados,276.93,Particular
+208,32,2021-11-30,Exame,Cardiologia,Dourados,359.37,Convênio
+209,32,2023-04-02,Consulta,Ortopedia,Dourados,128.43,SUS
+210,32,2023-09-09,Emergência,Ortopedia,Dourados,526.33,Convênio
+211,32,2021-04-01,Consulta,Cardiologia,Dourados,103.88,Particular
+212,33,2023-08-01,Consulta,Cardiologia,Corumbá,127.3,SUS
+213,33,2023-03-25,Exame,Pediatria,Corumbá,348.1,Particular
+214,33,2021-05-15,Exame,Ortopedia,Corumbá,181.56,Particular
+215,33,2021-09-06,Consulta,Cardiologia,Corumbá,124.03,Particular
+216,34,2021-01-08,Exame,Clínica Médica,Dourados,392.49,Particular
+217,35,2021-04-01,Exame,Clínica Médica,Três Lagoas,249.37,Convênio
+218,35,2022-04-09,Exame,Cardiologia,Três Lagoas,364.84,Particular
+219,35,2022-08-22,Exame,Cardiologia,Três Lagoas,371.86,Convênio
+220,35,2022-02-23,Emergência,Ortopedia,Três Lagoas,341.05,SUS
+221,35,2023-10-01,Consulta,Clínica Médica,Três Lagoas,123.4,Convênio
+222,35,2022-03-27,Emergência,Pediatria,Três Lagoas,360.3,Convênio
+223,35,2023-01-09,Emergência,Ortopedia,Três Lagoas,317.37,SUS
+224,35,2021-06-15,Consulta,Pediatria,Três Lagoas,117.48,SUS
+225,36,2023-09-13,Emergência,Pediatria,Corumbá,408.03,Convênio
+226,36,2022-07-13,Consulta,Pediatria,Corumbá,118.25,Convênio
+227,36,2022-04-28,Exame,Cardiologia,Corumbá,185.78,Particular
+228,36,2021-04-27,Emergência,Clínica Médica,Corumbá,453.2,SUS
+229,37,2023-05-11,Exame,Cardiologia,Corumbá,189.49,Convênio
+230,37,2023-11-19,Exame,Cardiologia,Corumbá,224.79,Particular
+231,37,2023-04-01,Emergência,Pediatria,Corumbá,807.18,SUS
+232,37,2022-04-09,Exame,Cardiologia,Corumbá,176.66,Particular
+233,37,2023-05-04,Emergência,Ortopedia,Corumbá,477.52,SUS
+234,37,2021-09-14,Consulta,Ortopedia,Corumbá,145.82,Particular
+235,37,2021-03-03,Consulta,Clínica Médica,Corumbá,148.58,Convênio
+236,37,2022-09-11,Emergência,Ortopedia,Corumbá,799.7,Convênio
+237,37,2021-09-04,Consulta,Pediatria,Corumbá,115.23,Convênio
+238,37,2022-11-17,Emergência,Pediatria,Corumbá,753.35,SUS
+239,37,2023-09-17,Emergência,Clínica Médica,Corumbá,676.47,SUS
+240,37,2022-01-31,Exame,Ortopedia,Corumbá,158.34,Convênio
+241,37,2023-04-07,Emergência,Ortopedia,Corumbá,845.78,SUS
+242,37,2023-08-08,Emergência,Ortopedia,Corumbá,420.48,SUS
+243,37,2022-11-14,Emergência,Pediatria,Corumbá,463.52,SUS
+244,38,2023-11-25,Exame,Clínica Médica,Corumbá,234.68,Convênio
+245,38,2023-10-16,Exame,Pediatria,Corumbá,185.19,Particular
+246,38,2023-03-14,Emergência,Ortopedia,Corumbá,887.97,Convênio
+247,38,2021-10-22,Consulta,Clínica Médica,Corumbá,81.39,Convênio
+248,38,2022-06-26,Exame,Ortopedia,Corumbá,337.25,SUS
+249,39,2021-01-19,Emergência,Pediatria,Corumbá,365.01,Particular
+250,39,2021-06-12,Exame,Ortopedia,Corumbá,371.06,SUS
+251,39,2021-04-10,Emergência,Cardiologia,Corumbá,337.93,SUS
+252,39,2023-06-25,Emergência,Pediatria,Corumbá,544.98,SUS
+253,39,2021-03-30,Consulta,Cardiologia,Corumbá,110.44,Particular
+254,39,2023-03-18,Consulta,Pediatria,Corumbá,168.73,SUS
+255,39,2022-04-28,Exame,Cardiologia,Corumbá,317.62,SUS
+256,39,2021-09-13,Emergência,Cardiologia,Corumbá,392.71,Convênio
+257,39,2021-07-28,Emergência,Cardiologia,Corumbá,593.61,SUS
+258,39,2022-03-06,Exame,Cardiologia,Corumbá,242.63,SUS
+259,40,2021-07-17,Exame,Ortopedia,Dourados,321.42,SUS
+260,40,2023-02-10,Consulta,Clínica Médica,Dourados,98.98,SUS
+261,40,2023-05-01,Exame,Clínica Médica,Dourados,203.03,SUS
+262,40,2023-04-29,Consulta,Pediatria,Dourados,104.36,Convênio
+263,40,2021-12-07,Emergência,Pediatria,Dourados,797.89,SUS
+264,40,2023-05-14,Emergência,Ortopedia,Dourados,821.82,SUS
+265,40,2022-11-02,Consulta,Ortopedia,Dourados,139.6,Convênio
+266,40,2022-12-27,Consulta,Pediatria,Dourados,134.02,Particular
+267,41,2022-01-19,Consulta,Pediatria,Campo Grande,159.0,SUS
+268,41,2023-05-08,Emergência,Clínica Médica,Campo Grande,404.55,SUS
+269,42,2023-07-25,Emergência,Cardiologia,Corumbá,338.13,SUS
+270,42,2021-11-02,Exame,Pediatria,Corumbá,177.26,SUS
+271,42,2023-02-08,Emergência,Ortopedia,Corumbá,769.94,SUS
+272,43,2022-05-07,Consulta,Cardiologia,Campo Grande,164.73,Particular
+273,43,2023-01-29,Emergência,Cardiologia,Campo Grande,727.44,SUS
+274,43,2022-05-09,Consulta,Pediatria,Campo Grande,112.21,Particular
+275,43,2023-02-27,Consulta,Ortopedia,Campo Grande,142.43,SUS
+276,43,2021-08-01,Exame,Cardiologia,Campo Grande,282.64,Particular
+277,43,2022-02-01,Emergência,Clínica Médica,Campo Grande,359.51,Convênio
+278,43,2021-03-18,Emergência,Pediatria,Campo Grande,761.38,Convênio
+279,43,2021-12-28,Exame,Ortopedia,Campo Grande,207.12,SUS
+280,44,2021-05-20,Exame,Cardiologia,Corumbá,173.77,SUS
+281,44,2023-03-26,Exame,Pediatria,Corumbá,243.58,Convênio
+282,44,2023-09-21,Emergência,Clínica Médica,Corumbá,340.28,Particular
+283,44,2022-01-13,Consulta,Ortopedia,Corumbá,154.46,SUS
+284,44,2021-08-09,Consulta,Ortopedia,Corumbá,138.65,Convênio
+285,44,2023-04-30,Emergência,Cardiologia,Corumbá,512.16,SUS
+286,44,2021-11-17,Emergência,Ortopedia,Corumbá,472.58,SUS
+287,44,2023-10-09,Exame,Pediatria,Corumbá,276.85,SUS
+288,44,2021-09-10,Emergência,Ortopedia,Corumbá,808.36,SUS
+289,44,2023-10-08,Emergência,Pediatria,Corumbá,757.56,SUS
+290,44,2023-01-17,Exame,Clínica Médica,Corumbá,393.64,Convênio
+291,44,2021-11-15,Emergência,Ortopedia,Corumbá,797.68,Particular
+292,44,2022-01-14,Consulta,Ortopedia,Corumbá,150.27,SUS
+293,44,2021-02-05,Exame,Pediatria,Corumbá,195.35,SUS
+294,45,2021-06-22,Consulta,Clínica Médica,Corumbá,143.32,SUS
+295,45,2023-07-13,Consulta,Cardiologia,Corumbá,101.51,Convênio
+296,45,2021-09-04,Exame,Ortopedia,Corumbá,242.51,SUS
+297,45,2023-11-15,Emergência,Pediatria,Corumbá,830.01,Convênio
+298,45,2023-03-20,Consulta,Clínica Médica,Corumbá,84.98,Convênio
+299,45,2021-05-27,Exame,Cardiologia,Corumbá,256.0,SUS
+300,45,2023-02-22,Exame,Clínica Médica,Corumbá,338.74,SUS
+301,45,2021-09-04,Exame,Cardiologia,Corumbá,220.81,SUS
+302,45,2022-05-08,Emergência,Cardiologia,Corumbá,327.25,Convênio
+303,45,2022-12-07,Emergência,Pediatria,Corumbá,422.65,SUS
+304,46,2021-07-09,Exame,Cardiologia,Dourados,180.0,SUS
+305,46,2021-09-04,Emergência,Pediatria,Dourados,377.51,SUS
+306,46,2022-08-17,Emergência,Ortopedia,Dourados,700.83,Convênio
+307,46,2023-09-27,Consulta,Cardiologia,Dourados,154.2,SUS
+308,46,2021-10-01,Consulta,Ortopedia,Dourados,87.79,SUS
+309,46,2022-08-24,Emergência,Cardiologia,Dourados,542.65,SUS
+310,46,2022-05-07,Exame,Ortopedia,Dourados,155.21,SUS
+311,46,2023-05-02,Consulta,Ortopedia,Dourados,141.81,Convênio
+312,46,2022-05-10,Consulta,Cardiologia,Dourados,90.59,SUS
+313,46,2021-05-20,Emergência,Ortopedia,Dourados,347.19,SUS
+314,46,2022-07-22,Emergência,Pediatria,Dourados,499.84,SUS
+315,46,2022-06-05,Consulta,Pediatria,Dourados,91.4,SUS
+316,46,2023-04-05,Exame,Pediatria,Dourados,389.56,SUS
+317,47,2022-04-27,Consulta,Pediatria,Campo Grande,97.35,SUS
+318,47,2022-10-11,Emergência,Cardiologia,Campo Grande,870.78,SUS
+319,47,2023-04-13,Exame,Cardiologia,Campo Grande,339.97,Convênio
+320,47,2023-05-16,Emergência,Ortopedia,Campo Grande,638.7,Particular
+321,48,2023-09-21,Consulta,Ortopedia,Três Lagoas,126.89,SUS
+322,48,2021-03-12,Exame,Clínica Médica,Três Lagoas,237.99,Convênio
+323,48,2021-04-10,Exame,Ortopedia,Três Lagoas,159.4,SUS
+324,48,2023-01-20,Exame,Clínica Médica,Três Lagoas,366.06,SUS
+325,48,2021-06-25,Emergência,Clínica Médica,Três Lagoas,530.69,Convênio
+326,48,2023-07-19,Exame,Pediatria,Três Lagoas,292.91,Particular
+327,48,2021-05-22,Exame,Clínica Médica,Três Lagoas,275.34,Convênio
+328,48,2022-05-09,Exame,Ortopedia,Três Lagoas,374.78,SUS
+329,48,2022-10-08,Emergência,Clínica Médica,Três Lagoas,687.68,SUS
+330,48,2022-08-14,Consulta,Pediatria,Três Lagoas,179.1,Convênio
+331,48,2023-06-01,Exame,Cardiologia,Três Lagoas,220.72,SUS
+332,48,2021-03-28,Exame,Ortopedia,Três Lagoas,163.09,Convênio
+333,48,2022-05-01,Consulta,Cardiologia,Três Lagoas,135.8,SUS
+334,48,2021-05-30,Exame,Pediatria,Três Lagoas,362.89,SUS
+335,49,2021-10-28,Emergência,Ortopedia,Campo Grande,850.05,Convênio
+336,49,2021-12-19,Emergência,Clínica Médica,Campo Grande,535.17,Convênio
+337,49,2021-01-26,Exame,Ortopedia,Campo Grande,310.87,Convênio
+338,49,2022-09-12,Consulta,Clínica Médica,Campo Grande,162.9,Convênio
+339,49,2021-01-28,Emergência,Clínica Médica,Campo Grande,605.09,Convênio
+340,49,2022-06-21,Exame,Ortopedia,Campo Grande,387.79,SUS
+341,50,2021-09-17,Consulta,Clínica Médica,Corumbá,93.76,SUS
+342,50,2022-02-03,Exame,Clínica Médica,Corumbá,175.29,Convênio
+343,50,2023-02-18,Emergência,Pediatria,Corumbá,759.78,SUS
+344,50,2022-03-03,Emergência,Pediatria,Corumbá,397.35,SUS
+345,50,2021-02-07,Emergência,Pediatria,Corumbá,546.52,SUS
+346,50,2023-10-25,Exame,Cardiologia,Corumbá,338.1,Convênio
+347,50,2023-11-18,Consulta,Cardiologia,Corumbá,110.95,SUS
+348,50,2023-07-07,Consulta,Cardiologia,Corumbá,174.71,SUS
+349,50,2021-04-18,Exame,Cardiologia,Corumbá,344.53,Convênio
+350,50,2023-11-23,Consulta,Pediatria,Corumbá,160.13,Convênio
+351,50,2021-07-29,Exame,Ortopedia,Corumbá,270.15,SUS
+352,50,2022-09-05,Emergência,Clínica Médica,Corumbá,726.84,Particular
+353,50,2023-08-06,Exame,Cardiologia,Corumbá,190.08,SUS
+354,51,2023-02-28,Exame,Cardiologia,Dourados,377.63,SUS
+355,51,2022-12-16,Exame,Cardiologia,Dourados,253.72,Particular
+356,51,2023-09-16,Emergência,Clínica Médica,Dourados,531.7,SUS
+357,51,2023-04-19,Exame,Clínica Médica,Dourados,229.67,SUS
+358,51,2023-10-03,Emergência,Pediatria,Dourados,774.83,Convênio
+359,51,2023-08-21,Consulta,Pediatria,Dourados,162.98,SUS
+360,51,2023-08-11,Emergência,Clínica Médica,Dourados,669.21,SUS
+361,51,2023-03-07,Consulta,Cardiologia,Dourados,163.5,SUS
+362,51,2021-12-22,Consulta,Clínica Médica,Dourados,103.76,Convênio
+363,51,2023-06-16,Consulta,Cardiologia,Dourados,143.9,SUS
+364,51,2021-09-08,Consulta,Clínica Médica,Dourados,170.51,SUS
+365,51,2023-07-22,Emergência,Pediatria,Dourados,445.16,SUS
+366,51,2021-12-27,Exame,Pediatria,Dourados,303.7,SUS
+367,51,2021-09-11,Emergência,Clínica Médica,Dourados,698.62,SUS
+368,51,2022-05-20,Emergência,Clínica Médica,Dourados,340.61,Particular
+369,52,2021-04-16,Consulta,Ortopedia,Corumbá,178.1,Convênio
+370,52,2022-06-29,Emergência,Ortopedia,Corumbá,773.11,SUS
+371,52,2023-05-16,Consulta,Ortopedia,Corumbá,142.83,Convênio
+372,52,2023-03-13,Consulta,Pediatria,Corumbá,134.6,SUS
+373,52,2022-07-31,Emergência,Pediatria,Corumbá,717.23,SUS
+374,52,2023-04-12,Consulta,Cardiologia,Corumbá,157.62,SUS
+375,52,2022-03-15,Consulta,Pediatria,Corumbá,84.38,SUS
+376,53,2023-06-11,Exame,Cardiologia,Campo Grande,278.85,Particular
+377,53,2021-11-13,Exame,Ortopedia,Campo Grande,311.73,SUS
+378,53,2022-11-20,Exame,Ortopedia,Campo Grande,161.95,Particular
+379,53,2021-11-14,Exame,Cardiologia,Campo Grande,242.0,SUS
+380,53,2023-10-31,Emergência,Ortopedia,Campo Grande,873.89,SUS
+381,53,2021-06-10,Consulta,Ortopedia,Campo Grande,129.75,SUS
+382,53,2023-09-21,Consulta,Pediatria,Campo Grande,87.89,Convênio
+383,53,2021-07-04,Emergência,Ortopedia,Campo Grande,361.56,SUS
+384,53,2023-07-08,Emergência,Cardiologia,Campo Grande,567.55,SUS
+385,53,2023-02-09,Consulta,Clínica Médica,Campo Grande,115.15,Convênio
+386,53,2022-03-23,Emergência,Cardiologia,Campo Grande,511.54,Particular
+387,53,2023-09-02,Exame,Clínica Médica,Campo Grande,347.87,Convênio
+388,53,2021-12-08,Consulta,Pediatria,Campo Grande,120.62,Convênio
+389,53,2021-09-06,Consulta,Cardiologia,Campo Grande,140.76,SUS
+390,53,2023-02-08,Consulta,Ortopedia,Campo Grande,103.6,SUS
+391,54,2022-09-22,Emergência,Cardiologia,Corumbá,392.06,SUS
+392,54,2023-12-23,Exame,Pediatria,Corumbá,340.77,SUS
+393,54,2021-03-11,Emergência,Ortopedia,Corumbá,488.63,SUS
+394,54,2023-05-21,Consulta,Pediatria,Corumbá,82.59,Particular
+395,54,2022-02-27,Exame,Clínica Médica,Corumbá,378.39,SUS
+396,54,2021-10-21,Exame,Pediatria,Corumbá,326.01,Convênio
+397,55,2021-11-21,Emergência,Clínica Médica,Três Lagoas,594.72,Particular
+398,55,2022-10-02,Consulta,Cardiologia,Três Lagoas,125.2,Particular
+399,55,2023-05-23,Consulta,Ortopedia,Três Lagoas,176.76,Convênio
+400,55,2021-07-13,Emergência,Ortopedia,Três Lagoas,338.96,SUS
+401,55,2023-12-09,Exame,Pediatria,Três Lagoas,327.95,Particular
+402,55,2021-06-13,Exame,Pediatria,Três Lagoas,180.34,SUS
+403,55,2021-10-31,Consulta,Ortopedia,Três Lagoas,129.4,SUS
+404,55,2023-01-20,Emergência,Pediatria,Três Lagoas,580.44,Convênio
+405,55,2021-05-18,Emergência,Cardiologia,Três Lagoas,339.45,Particular
+406,55,2023-08-22,Emergência,Cardiologia,Três Lagoas,615.42,Convênio
+407,56,2022-01-23,Consulta,Cardiologia,Campo Grande,144.23,Particular
+408,56,2023-12-04,Exame,Pediatria,Campo Grande,236.13,Convênio
+409,56,2022-04-28,Consulta,Clínica Médica,Campo Grande,171.07,SUS
+410,56,2023-12-08,Consulta,Pediatria,Campo Grande,110.41,SUS
+411,56,2021-04-14,Exame,Ortopedia,Campo Grande,206.37,Particular
+412,56,2022-06-15,Consulta,Ortopedia,Campo Grande,143.51,SUS
+413,56,2021-11-16,Consulta,Clínica Médica,Campo Grande,141.44,Convênio
+414,56,2022-11-02,Emergência,Pediatria,Campo Grande,655.09,Convênio
+415,56,2022-12-20,Consulta,Ortopedia,Campo Grande,152.06,Convênio
+416,56,2023-06-05,Emergência,Clínica Médica,Campo Grande,818.27,SUS
+417,56,2023-10-05,Consulta,Ortopedia,Campo Grande,157.1,Particular
+418,56,2023-01-31,Emergência,Clínica Médica,Campo Grande,643.28,SUS
+419,56,2021-11-24,Exame,Ortopedia,Campo Grande,286.39,Particular
+420,56,2023-09-14,Exame,Cardiologia,Campo Grande,351.84,SUS
+421,57,2023-04-18,Consulta,Cardiologia,Corumbá,95.81,Convênio
+422,57,2021-11-27,Exame,Pediatria,Corumbá,235.05,SUS
+423,57,2023-11-01,Exame,Ortopedia,Corumbá,229.83,Particular
+424,57,2021-03-25,Exame,Clínica Médica,Corumbá,242.64,SUS
+425,57,2021-11-06,Exame,Cardiologia,Corumbá,180.63,SUS
+426,58,2021-07-21,Consulta,Cardiologia,Dourados,174.54,SUS
+427,58,2023-09-13,Consulta,Ortopedia,Dourados,170.23,Particular
+428,58,2023-11-27,Emergência,Pediatria,Dourados,413.9,Convênio
+429,58,2023-04-29,Exame,Ortopedia,Dourados,266.7,Particular
+430,59,2021-04-13,Consulta,Pediatria,Campo Grande,130.54,Particular
+431,59,2022-10-23,Consulta,Ortopedia,Campo Grande,84.87,Convênio
+432,59,2022-12-28,Exame,Cardiologia,Campo Grande,360.71,Convênio
+433,59,2021-06-01,Exame,Cardiologia,Campo Grande,361.79,SUS
+434,59,2022-01-13,Consulta,Cardiologia,Campo Grande,152.75,Particular
+435,59,2021-04-08,Exame,Pediatria,Campo Grande,162.79,SUS
+436,59,2022-07-10,Exame,Cardiologia,Campo Grande,168.38,Convênio
+437,59,2023-04-22,Emergência,Clínica Médica,Campo Grande,893.45,SUS
+438,60,2023-08-22,Exame,Ortopedia,Campo Grande,396.7,SUS
+439,60,2021-01-31,Consulta,Clínica Médica,Campo Grande,130.91,SUS
+440,60,2022-06-20,Consulta,Cardiologia,Campo Grande,151.36,SUS
+441,61,2021-12-01,Consulta,Ortopedia,Corumbá,131.55,Convênio
+442,61,2022-11-01,Emergência,Ortopedia,Corumbá,535.77,SUS
+443,61,2021-11-12,Emergência,Cardiologia,Corumbá,796.97,SUS
+444,61,2022-09-05,Emergência,Clínica Médica,Corumbá,584.94,Convênio
+445,61,2022-06-13,Exame,Cardiologia,Corumbá,177.4,SUS
+446,61,2021-01-18,Emergência,Clínica Médica,Corumbá,839.26,SUS
+447,61,2021-04-08,Emergência,Pediatria,Corumbá,880.24,SUS
+448,61,2022-01-13,Emergência,Cardiologia,Corumbá,588.27,SUS
+449,61,2021-11-21,Consulta,Clínica Médica,Corumbá,104.22,Convênio
+450,62,2021-01-26,Exame,Pediatria,Campo Grande,187.86,SUS
+451,62,2021-06-01,Exame,Cardiologia,Campo Grande,302.87,SUS
+452,62,2021-08-25,Emergência,Pediatria,Campo Grande,723.47,Convênio
+453,62,2021-10-29,Emergência,Cardiologia,Campo Grande,697.34,SUS
+454,63,2021-12-14,Exame,Ortopedia,Dourados,235.58,Particular
+455,63,2021-04-14,Emergência,Ortopedia,Dourados,732.55,Convênio
+456,63,2021-08-29,Emergência,Ortopedia,Dourados,874.4,SUS
+457,63,2023-06-27,Emergência,Ortopedia,Dourados,864.89,SUS
+458,63,2022-11-23,Exame,Cardiologia,Dourados,322.56,Convênio
+459,63,2021-01-16,Exame,Ortopedia,Dourados,290.12,SUS
+460,64,2023-09-18,Emergência,Cardiologia,Campo Grande,527.82,Convênio
+461,64,2023-12-29,Exame,Ortopedia,Campo Grande,351.15,Particular
+462,64,2022-08-09,Consulta,Ortopedia,Campo Grande,151.41,SUS
+463,64,2021-09-01,Exame,Pediatria,Campo Grande,336.83,Convênio
+464,64,2021-06-21,Consulta,Ortopedia,Campo Grande,107.11,Convênio
+465,65,2023-04-08,Emergência,Clínica Médica,Campo Grande,443.57,Convênio
+466,65,2022-01-27,Emergência,Pediatria,Campo Grande,435.4,Particular
+467,65,2022-05-23,Consulta,Cardiologia,Campo Grande,113.03,SUS
+468,66,2023-10-08,Consulta,Pediatria,Dourados,177.79,Particular
+469,66,2023-10-19,Exame,Cardiologia,Dourados,370.16,Convênio
+470,67,2021-04-16,Exame,Clínica Médica,Dourados,311.47,SUS
+471,67,2022-02-02,Emergência,Clínica Médica,Dourados,621.09,Convênio
+472,67,2021-09-24,Consulta,Clínica Médica,Dourados,163.76,SUS
+473,67,2021-03-09,Exame,Ortopedia,Dourados,196.58,Convênio
+474,67,2022-04-13,Consulta,Clínica Médica,Dourados,136.8,SUS
+475,67,2023-12-21,Exame,Cardiologia,Dourados,397.27,SUS
+476,67,2021-07-29,Consulta,Pediatria,Dourados,126.8,Particular
+477,67,2022-08-25,Consulta,Ortopedia,Dourados,153.11,SUS
+478,68,2023-07-27,Consulta,Pediatria,Dourados,159.08,Convênio
+479,68,2021-05-02,Consulta,Cardiologia,Dourados,143.87,Convênio
+480,68,2021-01-25,Exame,Clínica Médica,Dourados,171.68,SUS
+481,68,2023-03-25,Consulta,Pediatria,Dourados,127.75,Particular
+482,68,2022-03-20,Consulta,Ortopedia,Dourados,103.55,SUS
+483,68,2023-04-16,Exame,Clínica Médica,Dourados,330.72,SUS
+484,68,2021-04-24,Exame,Clínica Médica,Dourados,323.19,Convênio
+485,68,2021-05-26,Emergência,Cardiologia,Dourados,484.08,SUS
+486,68,2021-05-13,Emergência,Ortopedia,Dourados,837.07,SUS
+487,68,2022-03-04,Emergência,Ortopedia,Dourados,849.68,SUS
+488,68,2022-02-05,Exame,Pediatria,Dourados,204.78,Convênio
+489,68,2022-01-18,Exame,Ortopedia,Dourados,336.93,SUS
+490,69,2021-10-24,Emergência,Pediatria,Corumbá,795.36,Convênio
+491,69,2022-07-20,Emergência,Clínica Médica,Corumbá,823.88,Convênio
+492,69,2023-09-18,Emergência,Clínica Médica,Corumbá,722.26,SUS
+493,69,2023-11-15,Emergência,Pediatria,Corumbá,797.26,SUS
+494,69,2022-03-02,Emergência,Cardiologia,Corumbá,398.72,SUS
+495,69,2022-02-04,Consulta,Cardiologia,Corumbá,151.69,Convênio
+496,69,2023-07-15,Consulta,Clínica Médica,Corumbá,124.55,Particular
+497,70,2023-01-27,Emergência,Cardiologia,Dourados,638.35,SUS
+498,70,2022-05-25,Emergência,Cardiologia,Dourados,733.97,Convênio
+499,70,2022-05-27,Exame,Clínica Médica,Dourados,336.45,Convênio
+500,70,2022-03-12,Consulta,Clínica Médica,Dourados,150.04,SUS
+501,70,2023-08-20,Consulta,Ortopedia,Dourados,127.21,Particular
+502,70,2021-03-03,Exame,Cardiologia,Dourados,183.86,SUS
+503,70,2023-10-05,Exame,Cardiologia,Dourados,245.62,Particular
+504,70,2023-07-12,Exame,Pediatria,Dourados,391.04,SUS
+505,71,2022-07-01,Consulta,Pediatria,Três Lagoas,133.73,SUS
+506,71,2022-01-08,Emergência,Clínica Médica,Três Lagoas,800.89,Particular
+507,71,2023-08-19,Exame,Cardiologia,Três Lagoas,329.77,SUS
+508,71,2023-12-11,Emergência,Cardiologia,Três Lagoas,437.8,SUS
+509,71,2022-12-03,Exame,Clínica Médica,Três Lagoas,197.12,SUS
+510,71,2022-10-22,Consulta,Clínica Médica,Três Lagoas,121.92,Convênio
+511,71,2022-07-25,Consulta,Clínica Médica,Três Lagoas,90.09,SUS
+512,71,2021-03-20,Exame,Clínica Médica,Três Lagoas,325.82,Convênio
+513,71,2023-02-08,Consulta,Pediatria,Três Lagoas,120.23,Convênio
+514,71,2021-12-25,Emergência,Clínica Médica,Três Lagoas,818.24,SUS
+515,71,2021-07-08,Consulta,Ortopedia,Três Lagoas,108.93,SUS
+516,72,2021-07-07,Consulta,Pediatria,Três Lagoas,94.33,SUS
+517,72,2021-02-07,Exame,Pediatria,Três Lagoas,165.24,SUS
+518,72,2023-03-01,Emergência,Clínica Médica,Três Lagoas,633.51,Convênio
+519,72,2022-03-22,Exame,Ortopedia,Três Lagoas,317.84,Particular
+520,72,2021-01-28,Emergência,Cardiologia,Três Lagoas,389.53,SUS
+521,72,2023-04-15,Consulta,Pediatria,Três Lagoas,127.35,Convênio
+522,72,2022-12-08,Exame,Cardiologia,Três Lagoas,186.09,Particular
+523,72,2023-01-09,Consulta,Pediatria,Três Lagoas,176.78,Convênio
+524,72,2021-01-26,Exame,Clínica Médica,Três Lagoas,200.83,SUS
+525,72,2021-07-11,Exame,Pediatria,Três Lagoas,173.12,Convênio
+526,73,2021-04-03,Exame,Clínica Médica,Três Lagoas,300.73,Convênio
+527,74,2023-01-27,Exame,Ortopedia,Dourados,376.76,SUS
+528,74,2021-11-20,Consulta,Clínica Médica,Dourados,99.0,SUS
+529,74,2021-04-23,Emergência,Pediatria,Dourados,587.35,Particular
+530,74,2021-01-05,Emergência,Pediatria,Dourados,422.71,Convênio
+531,75,2022-10-27,Exame,Ortopedia,Três Lagoas,283.41,SUS
+532,75,2022-07-01,Exame,Cardiologia,Três Lagoas,278.2,SUS
+533,75,2023-05-31,Exame,Cardiologia,Três Lagoas,395.33,SUS
+534,75,2023-03-18,Exame,Cardiologia,Três Lagoas,242.68,Particular
+535,75,2022-12-03,Consulta,Pediatria,Três Lagoas,102.13,Convênio
+536,75,2022-11-29,Consulta,Cardiologia,Três Lagoas,173.48,SUS
+537,75,2023-11-13,Exame,Cardiologia,Três Lagoas,232.47,SUS
+538,75,2021-04-28,Emergência,Ortopedia,Três Lagoas,599.58,Convênio
+539,75,2023-08-11,Exame,Cardiologia,Três Lagoas,272.16,Convênio
+540,76,2021-06-14,Emergência,Cardiologia,Dourados,401.56,Convênio
+541,76,2023-12-12,Consulta,Clínica Médica,Dourados,134.21,Particular
+542,76,2021-06-22,Emergência,Clínica Médica,Dourados,808.02,SUS
+543,76,2023-01-24,Consulta,Pediatria,Dourados,164.25,SUS
+544,76,2022-08-11,Consulta,Cardiologia,Dourados,80.91,Convênio
+545,76,2021-12-27,Exame,Cardiologia,Dourados,309.43,SUS
+546,76,2023-09-25,Emergência,Cardiologia,Dourados,303.97,SUS
+547,76,2021-06-09,Consulta,Ortopedia,Dourados,152.22,SUS
+548,77,2022-07-07,Consulta,Pediatria,Corumbá,89.63,SUS
+549,78,2022-06-24,Emergência,Ortopedia,Dourados,789.13,SUS
+550,78,2023-04-08,Exame,Cardiologia,Dourados,389.82,SUS
+551,78,2022-03-10,Emergência,Ortopedia,Dourados,718.34,SUS
+552,78,2022-02-04,Emergência,Clínica Médica,Dourados,348.37,Convênio
+553,79,2022-02-10,Exame,Clínica Médica,Corumbá,269.0,SUS
+554,79,2022-07-04,Emergência,Cardiologia,Corumbá,599.92,SUS
+555,80,2022-12-20,Emergência,Clínica Médica,Três Lagoas,884.3,Particular
+556,80,2023-07-12,Consulta,Cardiologia,Três Lagoas,166.81,SUS
+557,80,2022-08-30,Exame,Ortopedia,Três Lagoas,168.59,SUS
+558,80,2022-07-14,Emergência,Ortopedia,Três Lagoas,319.74,Convênio
+559,80,2021-08-06,Consulta,Cardiologia,Três Lagoas,138.7,Particular
+560,80,2022-06-18,Consulta,Cardiologia,Três Lagoas,136.4,SUS
+561,80,2021-11-25,Emergência,Pediatria,Três Lagoas,499.04,Particular
+562,80,2023-01-25,Emergência,Ortopedia,Três Lagoas,600.48,Convênio
+563,80,2023-02-27,Consulta,Clínica Médica,Três Lagoas,103.21,SUS
+564,80,2021-12-07,Exame,Cardiologia,Três Lagoas,303.47,Convênio
+565,80,2022-06-21,Exame,Cardiologia,Três Lagoas,218.33,SUS
+566,81,2022-06-30,Exame,Pediatria,Dourados,243.86,Convênio
+567,81,2023-07-26,Emergência,Ortopedia,Dourados,528.04,Convênio
+568,81,2023-12-28,Consulta,Pediatria,Dourados,88.2,Convênio
+569,81,2023-10-09,Exame,Cardiologia,Dourados,308.48,Convênio
+570,81,2022-07-16,Exame,Ortopedia,Dourados,172.88,SUS
+571,81,2023-01-20,Exame,Pediatria,Dourados,217.44,SUS
+572,81,2023-07-18,Consulta,Cardiologia,Dourados,124.88,SUS
+573,81,2023-10-19,Consulta,Clínica Médica,Dourados,115.39,SUS
+574,82,2023-02-12,Exame,Clínica Médica,Três Lagoas,253.45,SUS
+575,82,2023-09-02,Emergência,Pediatria,Três Lagoas,843.12,Particular
+576,82,2023-01-06,Emergência,Pediatria,Três Lagoas,711.19,SUS
+577,82,2023-10-03,Consulta,Pediatria,Três Lagoas,106.84,SUS
+578,82,2021-11-03,Consulta,Ortopedia,Três Lagoas,107.6,SUS
+579,82,2023-03-08,Exame,Pediatria,Três Lagoas,240.28,Convênio
+580,82,2023-04-01,Emergência,Pediatria,Três Lagoas,656.28,Convênio
+581,82,2022-09-05,Exame,Cardiologia,Três Lagoas,226.16,SUS
+582,82,2022-07-19,Exame,Ortopedia,Três Lagoas,244.97,Convênio
+583,82,2023-11-24,Exame,Pediatria,Três Lagoas,353.87,SUS
+584,83,2021-11-15,Emergência,Ortopedia,Três Lagoas,420.51,Particular
+585,83,2023-03-10,Consulta,Ortopedia,Três Lagoas,176.87,Particular
+586,83,2021-02-22,Emergência,Pediatria,Três Lagoas,594.6,Convênio
+587,83,2021-01-27,Exame,Cardiologia,Três Lagoas,354.12,SUS
+588,83,2022-08-17,Exame,Pediatria,Três Lagoas,290.96,SUS
+589,84,2021-09-02,Emergência,Cardiologia,Campo Grande,725.02,SUS
+590,84,2021-02-15,Exame,Cardiologia,Campo Grande,167.29,Convênio
+591,84,2023-01-27,Emergência,Pediatria,Campo Grande,680.0,SUS
+592,84,2022-11-17,Exame,Cardiologia,Campo Grande,328.81,Convênio
+593,84,2023-02-07,Consulta,Cardiologia,Campo Grande,139.79,SUS
+594,84,2022-01-18,Emergência,Cardiologia,Campo Grande,852.24,SUS
+595,84,2021-05-12,Emergência,Clínica Médica,Campo Grande,881.06,SUS
+596,84,2021-07-07,Consulta,Ortopedia,Campo Grande,145.76,Convênio
+597,84,2021-03-05,Consulta,Cardiologia,Campo Grande,84.43,Convênio
+598,84,2022-03-11,Exame,Clínica Médica,Campo Grande,257.61,Particular
+599,84,2021-02-13,Consulta,Pediatria,Campo Grande,131.07,SUS
+600,85,2021-04-06,Exame,Pediatria,Três Lagoas,319.89,SUS
+601,85,2021-01-19,Exame,Ortopedia,Três Lagoas,270.69,Particular
+602,85,2022-01-26,Exame,Pediatria,Três Lagoas,171.46,Particular
+603,85,2022-04-13,Exame,Pediatria,Três Lagoas,263.83,SUS
+604,85,2023-10-31,Emergência,Cardiologia,Três Lagoas,585.7,SUS
+605,85,2021-12-21,Emergência,Ortopedia,Três Lagoas,491.35,Convênio
+606,85,2022-01-22,Consulta,Ortopedia,Três Lagoas,91.51,Convênio
+607,85,2021-02-27,Emergência,Pediatria,Três Lagoas,780.03,SUS
+608,86,2021-03-16,Emergência,Cardiologia,Dourados,635.91,SUS
+609,86,2023-05-14,Consulta,Pediatria,Dourados,142.98,Convênio
+610,86,2021-05-16,Emergência,Pediatria,Dourados,537.35,Convênio
+611,86,2023-01-07,Exame,Pediatria,Dourados,247.21,Convênio
+612,86,2022-06-17,Consulta,Clínica Médica,Dourados,150.38,SUS
+613,86,2021-08-17,Emergência,Pediatria,Dourados,823.19,SUS
+614,86,2022-05-14,Exame,Ortopedia,Dourados,264.39,SUS
+615,86,2023-03-11,Emergência,Ortopedia,Dourados,616.63,Particular
+616,86,2021-05-09,Emergência,Clínica Médica,Dourados,535.53,SUS
+617,87,2023-02-28,Exame,Ortopedia,Três Lagoas,353.43,Convênio
+618,87,2023-01-26,Emergência,Ortopedia,Três Lagoas,703.27,Convênio
+619,87,2023-08-04,Consulta,Ortopedia,Três Lagoas,91.69,SUS
+620,87,2023-02-13,Emergência,Pediatria,Três Lagoas,533.08,SUS
+621,87,2023-09-10,Emergência,Pediatria,Três Lagoas,411.45,SUS
+622,87,2022-01-18,Emergência,Pediatria,Três Lagoas,473.3,SUS
+623,88,2022-06-29,Emergência,Clínica Médica,Corumbá,515.42,SUS
+624,88,2021-10-24,Exame,Cardiologia,Corumbá,353.8,SUS
+625,88,2021-05-01,Exame,Cardiologia,Corumbá,253.91,Convênio
+626,88,2021-06-18,Exame,Pediatria,Corumbá,291.35,SUS
+627,88,2021-11-15,Exame,Ortopedia,Corumbá,206.21,SUS
+628,88,2021-03-22,Consulta,Cardiologia,Corumbá,136.57,Convênio
+629,89,2021-02-07,Emergência,Ortopedia,Campo Grande,765.07,SUS
+630,89,2023-06-17,Emergência,Cardiologia,Campo Grande,324.97,Convênio
+631,89,2021-03-21,Emergência,Pediatria,Campo Grande,555.09,SUS
+632,89,2022-09-11,Exame,Ortopedia,Campo Grande,158.06,Particular
+633,89,2022-11-11,Exame,Clínica Médica,Campo Grande,171.75,Particular
+634,89,2021-07-21,Consulta,Ortopedia,Campo Grande,153.76,SUS
+635,89,2022-01-18,Emergência,Pediatria,Campo Grande,556.9,Convênio
+636,89,2022-11-14,Consulta,Ortopedia,Campo Grande,160.54,Convênio
+637,89,2023-01-30,Emergência,Ortopedia,Campo Grande,623.26,SUS
+638,90,2021-07-11,Exame,Clínica Médica,Três Lagoas,388.1,Convênio
+639,90,2023-09-22,Consulta,Clínica Médica,Três Lagoas,158.57,Particular
+640,90,2023-05-20,Exame,Pediatria,Três Lagoas,181.72,Particular
+641,90,2021-01-13,Consulta,Pediatria,Três Lagoas,112.21,SUS
+642,90,2021-12-19,Emergência,Ortopedia,Três Lagoas,385.3,SUS
+643,90,2023-02-20,Emergência,Clínica Médica,Três Lagoas,571.2,SUS
+644,90,2023-09-05,Exame,Ortopedia,Três Lagoas,219.56,SUS
+645,90,2021-07-28,Exame,Clínica Médica,Três Lagoas,231.82,Particular
+646,90,2022-10-04,Emergência,Ortopedia,Três Lagoas,883.29,SUS
+647,90,2021-07-22,Consulta,Cardiologia,Três Lagoas,119.77,Convênio
+648,90,2023-10-03,Consulta,Ortopedia,Três Lagoas,112.29,SUS
+649,90,2022-02-15,Exame,Cardiologia,Três Lagoas,182.65,SUS
+650,91,2021-08-25,Emergência,Cardiologia,Três Lagoas,327.57,Convênio
+651,91,2022-11-16,Consulta,Cardiologia,Três Lagoas,165.77,SUS
+652,91,2022-03-06,Exame,Pediatria,Três Lagoas,389.51,SUS
+653,91,2023-03-27,Emergência,Ortopedia,Três Lagoas,829.29,Particular
+654,91,2023-05-14,Consulta,Clínica Médica,Três Lagoas,167.66,Particular
+655,91,2022-09-23,Emergência,Pediatria,Três Lagoas,349.45,SUS
+656,91,2021-03-03,Consulta,Pediatria,Três Lagoas,110.55,SUS
+657,91,2021-04-07,Exame,Clínica Médica,Três Lagoas,325.92,Convênio
+658,91,2023-04-30,Consulta,Pediatria,Três Lagoas,93.27,SUS
+659,91,2023-12-18,Emergência,Ortopedia,Três Lagoas,305.57,Convênio
+660,91,2021-11-22,Consulta,Pediatria,Três Lagoas,122.23,Particular
+661,91,2023-01-26,Exame,Clínica Médica,Três Lagoas,245.77,SUS
+662,91,2021-03-22,Consulta,Pediatria,Três Lagoas,168.1,SUS
+663,92,2022-04-30,Emergência,Clínica Médica,Dourados,385.71,Particular
+664,92,2023-12-05,Emergência,Pediatria,Dourados,564.06,Convênio
+665,92,2022-09-25,Emergência,Cardiologia,Dourados,851.94,Convênio
+666,92,2023-01-02,Consulta,Clínica Médica,Dourados,90.05,SUS
+667,92,2022-12-17,Emergência,Cardiologia,Dourados,510.92,Convênio
+668,92,2023-06-28,Exame,Clínica Médica,Dourados,211.95,Convênio
+669,92,2023-10-30,Consulta,Ortopedia,Dourados,140.0,Convênio
+670,93,2021-11-16,Emergência,Pediatria,Campo Grande,423.27,Particular
+671,93,2022-01-04,Emergência,Pediatria,Campo Grande,687.7,SUS
+672,93,2021-12-16,Exame,Clínica Médica,Campo Grande,210.27,SUS
+673,93,2021-11-12,Emergência,Ortopedia,Campo Grande,307.24,Particular
+674,93,2023-08-04,Exame,Cardiologia,Campo Grande,365.2,SUS
+675,93,2021-11-15,Exame,Cardiologia,Campo Grande,193.19,SUS
+676,93,2023-10-06,Consulta,Ortopedia,Campo Grande,86.75,SUS
+677,93,2023-04-18,Consulta,Cardiologia,Campo Grande,86.05,SUS
+678,93,2022-09-07,Emergência,Cardiologia,Campo Grande,727.58,SUS
+679,93,2023-08-13,Exame,Pediatria,Campo Grande,170.61,Convênio
+680,93,2023-01-17,Exame,Pediatria,Campo Grande,169.76,SUS
+681,93,2022-10-04,Consulta,Clínica Médica,Campo Grande,119.07,SUS
+682,93,2021-03-26,Exame,Pediatria,Campo Grande,332.49,Convênio
+683,94,2022-08-15,Consulta,Clínica Médica,Dourados,91.6,Particular
+684,95,2021-05-26,Consulta,Clínica Médica,Dourados,93.72,SUS
+685,95,2023-09-13,Consulta,Ortopedia,Dourados,114.67,SUS
+686,95,2021-07-11,Consulta,Ortopedia,Dourados,154.98,SUS
+687,95,2023-11-04,Emergência,Clínica Médica,Dourados,762.86,Particular
+688,95,2021-03-31,Exame,Clínica Médica,Dourados,218.0,Convênio
+689,96,2023-03-29,Exame,Cardiologia,Campo Grande,240.03,SUS
+690,96,2021-11-13,Emergência,Clínica Médica,Campo Grande,394.39,SUS
+691,96,2023-01-02,Emergência,Clínica Médica,Campo Grande,369.2,Convênio
+692,96,2023-11-22,Consulta,Clínica Médica,Campo Grande,81.23,Particular
+693,96,2021-08-12,Exame,Pediatria,Campo Grande,380.06,SUS
+694,97,2023-07-13,Emergência,Cardiologia,Campo Grande,728.41,Convênio
+695,97,2022-08-11,Consulta,Ortopedia,Campo Grande,121.63,SUS
+696,97,2021-06-08,Exame,Clínica Médica,Campo Grande,292.88,Convênio
+697,97,2021-06-02,Emergência,Pediatria,Campo Grande,331.6,Convênio
+698,97,2023-06-27,Emergência,Clínica Médica,Campo Grande,872.45,Particular
+699,97,2022-08-01,Exame,Ortopedia,Campo Grande,343.38,Particular
+700,97,2022-02-26,Exame,Ortopedia,Campo Grande,264.19,SUS
+701,97,2021-06-09,Consulta,Pediatria,Campo Grande,158.45,SUS
+702,97,2022-09-10,Exame,Pediatria,Campo Grande,392.96,SUS
+703,97,2023-12-29,Emergência,Pediatria,Campo Grande,756.29,Particular
+704,97,2023-10-25,Consulta,Pediatria,Campo Grande,121.0,SUS
+705,97,2023-11-28,Emergência,Clínica Médica,Campo Grande,803.74,SUS
+706,97,2022-03-07,Exame,Ortopedia,Campo Grande,314.33,SUS
+707,97,2021-05-20,Consulta,Cardiologia,Campo Grande,178.31,SUS
+708,97,2021-09-08,Exame,Pediatria,Campo Grande,393.14,Particular
+709,98,2022-03-05,Consulta,Cardiologia,Três Lagoas,103.15,SUS
+710,98,2023-04-29,Emergência,Clínica Médica,Três Lagoas,575.07,Particular
+711,98,2023-05-02,Emergência,Cardiologia,Três Lagoas,380.11,SUS
+712,98,2022-11-14,Consulta,Pediatria,Três Lagoas,86.23,Convênio
+713,98,2022-10-05,Consulta,Cardiologia,Três Lagoas,165.09,SUS
+714,98,2021-09-08,Emergência,Cardiologia,Três Lagoas,495.75,Convênio
+715,98,2021-03-23,Exame,Pediatria,Três Lagoas,385.89,SUS
+716,98,2023-03-02,Emergência,Cardiologia,Três Lagoas,363.39,SUS
+717,98,2023-07-31,Exame,Ortopedia,Três Lagoas,180.18,SUS
+718,98,2023-04-30,Consulta,Clínica Médica,Três Lagoas,126.33,SUS
+719,98,2021-02-06,Consulta,Clínica Médica,Três Lagoas,148.61,SUS
+720,98,2023-03-28,Consulta,Clínica Médica,Três Lagoas,112.78,Convênio
+721,99,2023-01-05,Exame,Ortopedia,Dourados,162.24,SUS
+722,99,2022-03-23,Exame,Cardiologia,Dourados,193.47,Convênio
+723,99,2021-06-19,Exame,Clínica Médica,Dourados,287.53,Convênio
+724,99,2023-10-14,Exame,Clínica Médica,Dourados,348.45,SUS
+725,99,2023-09-19,Consulta,Pediatria,Dourados,158.1,SUS
+726,99,2022-11-25,Consulta,Clínica Médica,Dourados,120.06,SUS
+727,99,2023-03-31,Emergência,Clínica Médica,Dourados,850.46,Convênio
+728,99,2021-04-23,Consulta,Cardiologia,Dourados,99.78,Particular
+729,99,2022-06-15,Consulta,Ortopedia,Dourados,164.73,SUS
+730,99,2021-01-27,Consulta,Pediatria,Dourados,126.1,SUS
+731,99,2023-06-05,Emergência,Cardiologia,Dourados,734.66,SUS
+732,99,2021-07-16,Consulta,Ortopedia,Dourados,122.67,SUS
+733,100,2023-05-26,Exame,Clínica Médica,Dourados,370.86,SUS
+734,100,2021-06-21,Emergência,Ortopedia,Dourados,447.47,Convênio
+735,100,2021-08-15,Exame,Clínica Médica,Dourados,287.67,SUS
+736,100,2023-04-18,Consulta,Pediatria,Dourados,93.72,SUS
+737,101,2022-10-25,Emergência,Clínica Médica,Dourados,626.19,Particular
+738,101,2023-03-23,Exame,Cardiologia,Dourados,239.78,Convênio
+739,101,2022-07-27,Exame,Cardiologia,Dourados,275.6,Particular
+740,101,2023-01-16,Exame,Pediatria,Dourados,229.72,SUS
+741,101,2023-05-31,Consulta,Clínica Médica,Dourados,157.85,Particular
+742,101,2021-05-25,Exame,Pediatria,Dourados,341.71,SUS
+743,101,2022-02-22,Consulta,Ortopedia,Dourados,145.69,SUS
+744,101,2023-06-06,Emergência,Clínica Médica,Dourados,850.36,Convênio
+745,101,2022-06-04,Consulta,Cardiologia,Dourados,178.27,Convênio
+746,101,2023-02-23,Exame,Pediatria,Dourados,397.89,Particular
+747,101,2022-08-18,Consulta,Ortopedia,Dourados,111.8,SUS
+748,102,2021-11-12,Emergência,Pediatria,Campo Grande,868.54,Convênio
+749,102,2022-05-10,Emergência,Cardiologia,Campo Grande,802.02,Particular
+750,102,2023-07-08,Emergência,Clínica Médica,Campo Grande,594.26,SUS
+751,102,2023-12-17,Consulta,Cardiologia,Campo Grande,101.88,SUS
+752,102,2023-02-26,Consulta,Pediatria,Campo Grande,141.41,SUS
+753,102,2022-10-26,Exame,Ortopedia,Campo Grande,379.7,Convênio
+754,102,2022-12-19,Consulta,Pediatria,Campo Grande,138.66,SUS
+755,102,2021-03-22,Consulta,Clínica Médica,Campo Grande,166.07,Convênio
+756,102,2021-04-20,Exame,Clínica Médica,Campo Grande,315.53,Convênio
+757,102,2023-11-29,Exame,Pediatria,Campo Grande,184.11,SUS
+758,102,2022-01-28,Emergência,Cardiologia,Campo Grande,775.11,Particular
+759,102,2021-04-26,Emergência,Ortopedia,Campo Grande,724.31,SUS
+760,102,2023-12-25,Consulta,Cardiologia,Campo Grande,161.45,Convênio
+761,102,2021-02-27,Exame,Pediatria,Campo Grande,223.63,Convênio
+762,102,2023-11-29,Emergência,Cardiologia,Campo Grande,721.21,SUS
+763,103,2022-02-23,Consulta,Pediatria,Campo Grande,172.1,Convênio
+764,103,2023-01-27,Emergência,Pediatria,Campo Grande,862.01,Convênio
+765,103,2022-08-02,Exame,Ortopedia,Campo Grande,209.5,Convênio
+766,103,2021-10-18,Consulta,Ortopedia,Campo Grande,176.31,Convênio
+767,103,2023-05-01,Exame,Clínica Médica,Campo Grande,202.42,SUS
+768,103,2022-05-05,Exame,Clínica Médica,Campo Grande,177.01,SUS
+769,103,2021-05-27,Consulta,Pediatria,Campo Grande,153.26,SUS
+770,103,2022-04-03,Exame,Cardiologia,Campo Grande,244.68,SUS
+771,103,2021-01-27,Consulta,Pediatria,Campo Grande,158.87,Convênio
+772,103,2021-07-13,Consulta,Clínica Médica,Campo Grande,159.92,SUS
+773,103,2023-10-05,Exame,Clínica Médica,Campo Grande,215.28,SUS
+774,103,2023-07-18,Consulta,Pediatria,Campo Grande,168.79,SUS
+775,103,2023-05-30,Emergência,Clínica Médica,Campo Grande,865.1,SUS
+776,103,2023-02-26,Exame,Cardiologia,Campo Grande,303.41,Convênio
+777,104,2021-03-27,Exame,Cardiologia,Campo Grande,191.25,Particular
+778,104,2021-02-16,Consulta,Pediatria,Campo Grande,113.11,SUS
+779,104,2021-01-02,Exame,Ortopedia,Campo Grande,330.51,Convênio
+780,104,2021-08-17,Emergência,Clínica Médica,Campo Grande,442.53,SUS
+781,104,2023-12-24,Exame,Pediatria,Campo Grande,359.96,Convênio
+782,104,2022-05-24,Consulta,Ortopedia,Campo Grande,122.76,SUS
+783,104,2023-03-24,Emergência,Clínica Médica,Campo Grande,588.2,Convênio
+784,104,2021-01-20,Consulta,Clínica Médica,Campo Grande,143.82,SUS
+785,104,2021-09-13,Exame,Cardiologia,Campo Grande,227.09,Convênio
+786,104,2022-11-14,Exame,Clínica Médica,Campo Grande,315.26,SUS
+787,104,2021-05-01,Emergência,Cardiologia,Campo Grande,410.93,SUS
+788,104,2022-05-31,Exame,Cardiologia,Campo Grande,161.15,SUS
+789,105,2023-06-25,Consulta,Pediatria,Três Lagoas,136.42,Convênio
+790,105,2021-01-14,Emergência,Ortopedia,Três Lagoas,351.42,Convênio
+791,105,2021-06-22,Emergência,Pediatria,Três Lagoas,753.87,SUS
+792,105,2023-06-22,Emergência,Cardiologia,Três Lagoas,532.26,SUS
+793,105,2022-11-21,Emergência,Pediatria,Três Lagoas,861.82,Convênio
+794,105,2023-01-20,Exame,Clínica Médica,Três Lagoas,248.7,SUS
+795,105,2022-04-20,Emergência,Pediatria,Três Lagoas,610.09,Convênio
+796,105,2023-02-12,Consulta,Pediatria,Três Lagoas,124.9,Particular
+797,106,2023-09-03,Consulta,Cardiologia,Dourados,87.84,SUS
+798,106,2021-05-19,Consulta,Ortopedia,Dourados,142.72,Particular
+799,106,2022-06-03,Exame,Clínica Médica,Dourados,378.54,Particular
+800,106,2023-11-07,Consulta,Ortopedia,Dourados,119.74,SUS
+801,107,2021-10-07,Emergência,Cardiologia,Três Lagoas,824.08,SUS
+802,107,2022-05-05,Consulta,Clínica Médica,Três Lagoas,94.82,SUS
+803,107,2021-06-05,Consulta,Ortopedia,Três Lagoas,90.1,Convênio
+804,107,2022-03-07,Emergência,Ortopedia,Três Lagoas,826.74,Particular
+805,107,2023-06-19,Exame,Cardiologia,Três Lagoas,293.01,Convênio
+806,107,2023-06-07,Consulta,Cardiologia,Três Lagoas,120.3,SUS
+807,107,2022-03-07,Consulta,Pediatria,Três Lagoas,167.9,SUS
+808,107,2021-10-16,Consulta,Ortopedia,Três Lagoas,172.08,Convênio
+809,107,2022-10-08,Consulta,Ortopedia,Três Lagoas,159.37,SUS
+810,107,2021-02-19,Exame,Clínica Médica,Três Lagoas,364.56,Convênio
+811,107,2021-03-16,Consulta,Cardiologia,Três Lagoas,177.42,SUS
+812,107,2022-12-22,Exame,Clínica Médica,Três Lagoas,254.19,SUS
+813,107,2021-07-14,Consulta,Cardiologia,Três Lagoas,171.34,SUS
+814,107,2023-01-18,Emergência,Ortopedia,Três Lagoas,609.9,SUS
+815,108,2023-09-25,Emergência,Cardiologia,Campo Grande,339.37,Convênio
+816,108,2022-10-31,Consulta,Clínica Médica,Campo Grande,132.43,Convênio
+817,108,2021-11-23,Consulta,Clínica Médica,Campo Grande,163.29,SUS
+818,108,2023-05-10,Consulta,Ortopedia,Campo Grande,85.06,SUS
+819,108,2022-01-27,Emergência,Cardiologia,Campo Grande,521.01,SUS
+820,108,2023-11-04,Emergência,Clínica Médica,Campo Grande,853.84,SUS
+821,108,2022-03-21,Consulta,Pediatria,Campo Grande,139.4,SUS
+822,108,2022-12-16,Exame,Pediatria,Campo Grande,237.44,Convênio
+823,108,2022-08-19,Exame,Ortopedia,Campo Grande,322.21,Convênio
+824,108,2023-05-23,Consulta,Pediatria,Campo Grande,96.29,SUS
+825,108,2023-06-27,Consulta,Ortopedia,Campo Grande,147.77,Convênio
+826,108,2021-04-22,Emergência,Clínica Médica,Campo Grande,312.03,SUS
+827,108,2021-12-01,Exame,Clínica Médica,Campo Grande,311.84,Particular
+828,108,2021-01-17,Consulta,Ortopedia,Campo Grande,160.51,SUS
+829,109,2023-10-02,Exame,Cardiologia,Três Lagoas,362.9,Particular
+830,109,2022-10-26,Exame,Cardiologia,Três Lagoas,225.54,SUS
+831,109,2021-04-23,Emergência,Ortopedia,Três Lagoas,606.91,SUS
+832,109,2023-04-25,Emergência,Ortopedia,Três Lagoas,665.43,Convênio
+833,109,2022-05-13,Emergência,Ortopedia,Três Lagoas,338.3,SUS
+834,109,2021-11-18,Emergência,Ortopedia,Três Lagoas,466.13,SUS
+835,109,2022-09-24,Consulta,Clínica Médica,Três Lagoas,156.55,SUS
+836,109,2022-12-13,Emergência,Pediatria,Três Lagoas,491.75,SUS
+837,109,2021-10-17,Emergência,Ortopedia,Três Lagoas,598.42,SUS
+838,109,2022-10-09,Exame,Clínica Médica,Três Lagoas,251.15,Particular
+839,109,2022-11-15,Emergência,Pediatria,Três Lagoas,643.23,Convênio
+840,109,2023-02-20,Exame,Cardiologia,Três Lagoas,205.59,Convênio
+841,110,2022-09-24,Emergência,Pediatria,Três Lagoas,401.99,SUS
+842,110,2023-12-04,Exame,Ortopedia,Três Lagoas,181.99,SUS
+843,110,2023-04-19,Emergência,Pediatria,Três Lagoas,757.75,Convênio
+844,110,2023-03-11,Emergência,Pediatria,Três Lagoas,692.66,Particular
+845,110,2023-04-01,Exame,Cardiologia,Três Lagoas,367.86,SUS
+846,110,2021-08-23,Exame,Cardiologia,Três Lagoas,296.39,SUS
+847,110,2023-07-15,Consulta,Clínica Médica,Três Lagoas,166.64,SUS
+848,110,2022-01-18,Exame,Cardiologia,Três Lagoas,275.12,Particular
+849,110,2022-03-16,Emergência,Pediatria,Três Lagoas,332.44,SUS
+850,110,2021-07-22,Consulta,Cardiologia,Três Lagoas,114.27,Particular
+851,110,2022-11-11,Consulta,Clínica Médica,Três Lagoas,151.57,SUS
+852,110,2021-12-23,Exame,Ortopedia,Três Lagoas,396.66,SUS
+853,110,2022-10-18,Emergência,Pediatria,Três Lagoas,571.23,SUS
+854,110,2021-09-25,Consulta,Clínica Médica,Três Lagoas,95.84,Convênio
+855,110,2022-11-03,Consulta,Cardiologia,Três Lagoas,143.35,Convênio
+856,111,2021-10-09,Exame,Ortopedia,Corumbá,283.45,SUS
+857,111,2022-03-27,Consulta,Pediatria,Corumbá,155.68,Particular
+858,111,2022-10-21,Consulta,Pediatria,Corumbá,142.67,Convênio
+859,111,2023-11-08,Consulta,Pediatria,Corumbá,114.43,Convênio
+860,111,2022-06-05,Consulta,Pediatria,Corumbá,138.87,SUS
+861,111,2022-04-16,Consulta,Ortopedia,Corumbá,109.82,Convênio
+862,111,2022-03-19,Exame,Ortopedia,Corumbá,299.09,Convênio
+863,112,2021-03-30,Exame,Pediatria,Dourados,272.54,Particular
+864,112,2023-02-24,Consulta,Cardiologia,Dourados,171.82,Particular
+865,112,2023-03-07,Consulta,Pediatria,Dourados,152.72,SUS
+866,112,2021-01-11,Consulta,Pediatria,Dourados,138.97,Convênio
+867,112,2022-07-07,Consulta,Clínica Médica,Dourados,145.05,SUS
+868,112,2022-07-04,Exame,Clínica Médica,Dourados,213.95,Particular
+869,112,2022-11-08,Emergência,Clínica Médica,Dourados,697.18,Particular
+870,113,2021-12-20,Exame,Ortopedia,Campo Grande,180.9,SUS
+871,114,2023-06-18,Consulta,Ortopedia,Dourados,143.03,Convênio
+872,114,2023-12-26,Exame,Ortopedia,Dourados,315.62,Convênio
+873,114,2021-05-09,Emergência,Clínica Médica,Dourados,382.3,Convênio
+874,114,2023-11-11,Emergência,Clínica Médica,Dourados,370.64,Convênio
+875,114,2023-04-25,Consulta,Ortopedia,Dourados,140.9,SUS
+876,114,2023-07-04,Emergência,Cardiologia,Dourados,514.75,Particular
+877,114,2022-05-27,Exame,Pediatria,Dourados,287.03,SUS
+878,114,2023-12-15,Emergência,Clínica Médica,Dourados,498.36,Particular
+879,115,2023-11-25,Consulta,Pediatria,Campo Grande,146.9,Convênio
+880,116,2021-06-04,Emergência,Pediatria,Campo Grande,842.87,Convênio
+881,116,2022-12-06,Exame,Cardiologia,Campo Grande,224.01,Particular
+882,117,2021-06-20,Consulta,Ortopedia,Campo Grande,165.22,Particular
+883,118,2022-03-14,Exame,Clínica Médica,Três Lagoas,173.75,Convênio
+884,118,2022-08-18,Consulta,Pediatria,Três Lagoas,146.34,Particular
+885,118,2022-09-05,Exame,Ortopedia,Três Lagoas,259.43,SUS
+886,118,2023-11-06,Emergência,Pediatria,Três Lagoas,788.98,SUS
+887,118,2022-01-13,Consulta,Ortopedia,Três Lagoas,176.23,SUS
+888,118,2023-03-07,Exame,Cardiologia,Três Lagoas,269.56,Convênio
+889,118,2021-05-19,Emergência,Pediatria,Três Lagoas,400.07,Particular
+890,118,2022-03-23,Emergência,Pediatria,Três Lagoas,888.94,Convênio
+891,118,2021-06-20,Consulta,Cardiologia,Três Lagoas,139.08,SUS
+892,118,2021-08-02,Consulta,Clínica Médica,Três Lagoas,157.92,Convênio
+893,118,2022-11-23,Emergência,Pediatria,Três Lagoas,736.37,Particular
+894,118,2022-02-09,Exame,Cardiologia,Três Lagoas,178.23,Particular
+895,118,2023-04-22,Exame,Ortopedia,Três Lagoas,215.4,SUS
+896,119,2021-10-11,Emergência,Clínica Médica,Dourados,611.46,Particular
+897,120,2021-02-04,Exame,Cardiologia,Dourados,319.07,SUS
+898,120,2022-03-27,Consulta,Clínica Médica,Dourados,135.83,Convênio
+899,120,2023-12-04,Consulta,Cardiologia,Dourados,95.69,Convênio
+900,120,2021-09-15,Exame,Cardiologia,Dourados,168.72,Particular
+901,120,2022-05-02,Exame,Clínica Médica,Dourados,392.54,SUS
+902,120,2023-07-12,Emergência,Cardiologia,Dourados,685.99,SUS
+903,120,2023-05-14,Consulta,Cardiologia,Dourados,124.42,SUS
+904,121,2021-10-24,Exame,Clínica Médica,Corumbá,395.17,SUS
+905,121,2021-04-02,Consulta,Clínica Médica,Corumbá,83.58,SUS
+906,122,2021-11-17,Emergência,Pediatria,Campo Grande,682.52,Particular
+907,122,2022-08-13,Emergência,Ortopedia,Campo Grande,870.21,Convênio
+908,122,2021-10-23,Consulta,Ortopedia,Campo Grande,164.43,Convênio
+909,122,2022-03-11,Emergência,Ortopedia,Campo Grande,659.97,Convênio
+910,122,2023-12-30,Emergência,Pediatria,Campo Grande,358.46,SUS
+911,122,2023-03-09,Consulta,Ortopedia,Campo Grande,162.99,SUS
+912,122,2022-01-19,Emergência,Clínica Médica,Campo Grande,721.26,SUS
+913,122,2022-08-16,Consulta,Cardiologia,Campo Grande,162.18,SUS
+914,122,2022-10-14,Consulta,Clínica Médica,Campo Grande,99.59,SUS
+915,122,2022-12-09,Exame,Pediatria,Campo Grande,356.14,SUS
+916,122,2022-10-20,Emergência,Clínica Médica,Campo Grande,754.29,SUS
+917,122,2021-04-19,Emergência,Cardiologia,Campo Grande,653.29,Convênio
+918,122,2021-06-09,Exame,Pediatria,Campo Grande,389.05,Convênio
+919,122,2022-06-27,Exame,Cardiologia,Campo Grande,334.05,SUS
+920,123,2021-10-05,Emergência,Pediatria,Corumbá,846.11,Convênio
+921,123,2021-05-21,Emergência,Ortopedia,Corumbá,362.13,Convênio
+922,123,2021-01-17,Emergência,Pediatria,Corumbá,551.2,Particular
+923,123,2023-02-02,Exame,Ortopedia,Corumbá,235.71,SUS
+924,123,2022-06-29,Exame,Ortopedia,Corumbá,184.55,Convênio
+925,123,2022-10-29,Emergência,Pediatria,Corumbá,488.35,SUS
+926,123,2022-03-23,Consulta,Ortopedia,Corumbá,151.44,SUS
+927,123,2022-10-10,Emergência,Pediatria,Corumbá,726.24,SUS
+928,123,2021-05-31,Emergência,Clínica Médica,Corumbá,682.13,SUS
+929,123,2022-04-15,Exame,Cardiologia,Corumbá,295.7,Convênio
+930,123,2022-09-02,Emergência,Ortopedia,Corumbá,804.83,Convênio
+931,123,2022-04-16,Exame,Clínica Médica,Corumbá,280.68,Convênio
+932,123,2023-06-12,Exame,Pediatria,Corumbá,317.56,SUS
+933,123,2021-05-12,Exame,Ortopedia,Corumbá,190.23,Convênio
+934,124,2022-04-19,Consulta,Ortopedia,Três Lagoas,149.06,Convênio
+935,124,2023-10-27,Consulta,Cardiologia,Três Lagoas,83.23,Convênio
+936,124,2023-12-27,Consulta,Pediatria,Três Lagoas,147.55,Convênio
+937,124,2022-10-18,Emergência,Ortopedia,Três Lagoas,533.33,Convênio
+938,124,2021-05-26,Emergência,Cardiologia,Três Lagoas,855.89,Convênio
+939,124,2022-03-11,Exame,Ortopedia,Três Lagoas,393.96,Particular
+940,124,2021-12-13,Emergência,Pediatria,Três Lagoas,746.2,SUS
+941,124,2021-01-19,Emergência,Cardiologia,Três Lagoas,816.27,Particular
+942,124,2022-07-18,Consulta,Ortopedia,Três Lagoas,150.46,Particular
+943,124,2022-01-19,Emergência,Pediatria,Três Lagoas,662.03,SUS
+944,124,2022-11-22,Exame,Clínica Médica,Três Lagoas,395.86,SUS
+945,125,2022-11-04,Emergência,Cardiologia,Dourados,526.32,SUS
+946,125,2021-06-02,Exame,Ortopedia,Dourados,182.52,Convênio
+947,125,2021-09-08,Consulta,Pediatria,Dourados,150.97,SUS
+948,126,2023-08-01,Exame,Ortopedia,Dourados,343.42,Convênio
+949,127,2023-08-13,Consulta,Pediatria,Três Lagoas,111.79,Convênio
+950,127,2022-02-27,Consulta,Pediatria,Três Lagoas,158.63,SUS
+951,127,2021-09-18,Exame,Ortopedia,Três Lagoas,250.85,SUS
+952,127,2022-07-03,Consulta,Ortopedia,Três Lagoas,146.33,Particular
+953,127,2021-03-27,Exame,Cardiologia,Três Lagoas,387.58,SUS
+954,127,2023-05-16,Emergência,Clínica Médica,Três Lagoas,888.68,Convênio
+955,127,2023-01-14,Consulta,Pediatria,Três Lagoas,124.57,Convênio
+956,127,2021-06-06,Consulta,Clínica Médica,Três Lagoas,112.09,Convênio
+957,128,2021-12-16,Emergência,Ortopedia,Três Lagoas,314.82,Convênio
+958,128,2023-06-30,Emergência,Clínica Médica,Três Lagoas,567.33,Convênio
+959,128,2022-09-17,Exame,Clínica Médica,Três Lagoas,198.13,Particular
+960,128,2023-10-07,Consulta,Clínica Médica,Três Lagoas,175.63,SUS
+961,128,2021-09-08,Emergência,Pediatria,Três Lagoas,702.2,SUS
+962,128,2022-05-22,Emergência,Cardiologia,Três Lagoas,362.36,SUS
+963,128,2021-10-19,Emergência,Pediatria,Três Lagoas,343.27,Convênio
+964,129,2023-12-24,Emergência,Clínica Médica,Corumbá,352.51,SUS
+965,130,2021-11-24,Emergência,Ortopedia,Três Lagoas,792.97,SUS
+966,130,2022-04-30,Exame,Cardiologia,Três Lagoas,307.55,SUS
+967,130,2021-11-20,Exame,Clínica Médica,Três Lagoas,318.32,SUS
+968,131,2023-09-15,Emergência,Clínica Médica,Campo Grande,720.53,Convênio
+969,131,2023-09-30,Exame,Ortopedia,Campo Grande,176.53,Particular
+970,131,2021-07-01,Emergência,Cardiologia,Campo Grande,759.16,SUS
+971,131,2023-11-24,Exame,Cardiologia,Campo Grande,315.18,SUS
+972,131,2021-09-14,Consulta,Cardiologia,Campo Grande,93.64,SUS
+973,131,2022-08-27,Emergência,Ortopedia,Campo Grande,680.43,SUS
+974,131,2021-08-17,Emergência,Ortopedia,Campo Grande,879.22,Particular
+975,131,2022-07-31,Consulta,Clínica Médica,Campo Grande,135.51,Convênio
+976,131,2023-03-30,Consulta,Clínica Médica,Campo Grande,139.67,SUS
+977,131,2021-05-12,Exame,Ortopedia,Campo Grande,335.36,SUS
+978,131,2023-12-10,Consulta,Pediatria,Campo Grande,144.59,SUS
+979,132,2022-01-29,Consulta,Clínica Médica,Dourados,105.27,Convênio
+980,132,2021-12-27,Consulta,Clínica Médica,Dourados,136.73,Convênio
+981,132,2023-06-02,Emergência,Ortopedia,Dourados,629.8,SUS
+982,133,2022-12-05,Exame,Cardiologia,Campo Grande,331.4,SUS
+983,133,2021-03-13,Exame,Pediatria,Campo Grande,317.82,SUS
+984,133,2022-06-26,Consulta,Pediatria,Campo Grande,86.98,SUS
+985,133,2021-03-01,Exame,Ortopedia,Campo Grande,232.09,SUS
+986,133,2022-06-19,Emergência,Ortopedia,Campo Grande,639.33,Convênio
+987,133,2021-07-24,Exame,Ortopedia,Campo Grande,192.16,Particular
+988,133,2023-01-11,Consulta,Cardiologia,Campo Grande,151.22,Convênio
+989,133,2022-01-25,Exame,Ortopedia,Campo Grande,183.58,Convênio
+990,133,2023-11-12,Exame,Ortopedia,Campo Grande,239.69,SUS
+991,133,2021-03-05,Exame,Clínica Médica,Campo Grande,193.94,Convênio
+992,133,2022-06-15,Exame,Pediatria,Campo Grande,185.0,Particular
+993,134,2023-05-23,Emergência,Clínica Médica,Campo Grande,311.18,SUS
+994,134,2022-10-18,Emergência,Pediatria,Campo Grande,761.52,Convênio
+995,134,2023-05-15,Consulta,Cardiologia,Campo Grande,134.35,Convênio
+996,134,2023-09-04,Emergência,Pediatria,Campo Grande,519.49,Convênio
+997,134,2022-06-01,Emergência,Cardiologia,Campo Grande,474.6,Convênio
+998,135,2021-06-11,Exame,Pediatria,Campo Grande,152.65,SUS
+999,135,2023-12-15,Emergência,Pediatria,Campo Grande,754.32,Convênio
+1000,135,2021-05-08,Exame,Pediatria,Campo Grande,291.59,SUS
+1001,135,2021-01-24,Emergência,Clínica Médica,Campo Grande,863.51,Convênio
+1002,135,2022-01-27,Consulta,Ortopedia,Campo Grande,103.17,Convênio
+1003,135,2022-04-29,Exame,Ortopedia,Campo Grande,317.15,SUS
+1004,135,2022-04-08,Exame,Clínica Médica,Campo Grande,263.66,SUS
+1005,135,2022-11-19,Consulta,Ortopedia,Campo Grande,112.41,Particular
+1006,135,2023-10-09,Emergência,Pediatria,Campo Grande,626.61,SUS
+1007,136,2023-06-04,Exame,Clínica Médica,Corumbá,374.56,Convênio
+1008,136,2021-01-02,Emergência,Pediatria,Corumbá,883.6,SUS
+1009,136,2021-02-18,Emergência,Ortopedia,Corumbá,790.34,SUS
+1010,136,2023-05-30,Exame,Clínica Médica,Corumbá,371.79,Convênio
+1011,136,2022-05-16,Emergência,Pediatria,Corumbá,563.94,Particular
+1012,136,2022-07-25,Consulta,Pediatria,Corumbá,108.08,SUS
+1013,136,2021-05-17,Consulta,Clínica Médica,Corumbá,140.2,SUS
+1014,137,2023-08-13,Exame,Cardiologia,Dourados,330.06,Convênio
+1015,137,2021-11-19,Emergência,Pediatria,Dourados,426.42,SUS
+1016,137,2023-11-07,Emergência,Clínica Médica,Dourados,313.47,Convênio
+1017,137,2023-10-02,Consulta,Clínica Médica,Dourados,96.11,Convênio
+1018,137,2023-10-27,Emergência,Pediatria,Dourados,399.8,SUS
+1019,137,2021-08-07,Emergência,Clínica Médica,Dourados,659.61,Particular
+1020,137,2022-09-20,Emergência,Clínica Médica,Dourados,792.78,Convênio
+1021,137,2021-09-07,Consulta,Cardiologia,Dourados,179.28,SUS
+1022,137,2023-11-19,Consulta,Pediatria,Dourados,121.08,SUS
+1023,137,2021-06-25,Emergência,Ortopedia,Dourados,409.13,Convênio
+1024,137,2022-12-07,Consulta,Cardiologia,Dourados,114.27,Convênio
+1025,138,2023-05-09,Consulta,Clínica Médica,Campo Grande,93.22,SUS
+1026,138,2023-07-01,Consulta,Cardiologia,Campo Grande,170.93,SUS
+1027,138,2023-02-17,Consulta,Clínica Médica,Campo Grande,97.74,Convênio
+1028,138,2023-12-08,Emergência,Cardiologia,Campo Grande,370.51,SUS
+1029,138,2022-06-06,Emergência,Clínica Médica,Campo Grande,662.08,SUS
+1030,138,2021-02-22,Emergência,Ortopedia,Campo Grande,613.23,Convênio
+1031,138,2021-08-02,Consulta,Cardiologia,Campo Grande,122.9,Convênio
+1032,138,2021-06-10,Exame,Clínica Médica,Campo Grande,351.16,SUS
+1033,138,2021-12-06,Exame,Pediatria,Campo Grande,269.29,SUS
+1034,138,2023-05-04,Consulta,Cardiologia,Campo Grande,167.68,SUS
+1035,139,2021-10-17,Consulta,Clínica Médica,Dourados,158.94,Convênio
+1036,139,2023-09-05,Emergência,Ortopedia,Dourados,692.73,SUS
+1037,139,2023-11-22,Exame,Ortopedia,Dourados,188.69,SUS
+1038,139,2023-12-03,Exame,Ortopedia,Dourados,255.89,Particular
+1039,139,2023-05-10,Emergência,Pediatria,Dourados,708.36,SUS
+1040,140,2021-07-31,Consulta,Ortopedia,Corumbá,135.49,SUS
+1041,140,2023-12-03,Exame,Cardiologia,Corumbá,343.55,Convênio
+1042,140,2022-04-21,Emergência,Clínica Médica,Corumbá,818.3,SUS
+1043,140,2022-08-19,Emergência,Pediatria,Corumbá,769.87,SUS
+1044,140,2023-07-04,Consulta,Ortopedia,Corumbá,120.06,SUS
+1045,140,2022-03-16,Emergência,Clínica Médica,Corumbá,710.74,Convênio
+1046,140,2022-07-07,Consulta,Clínica Médica,Corumbá,143.59,SUS
+1047,141,2021-04-08,Exame,Clínica Médica,Dourados,258.84,Particular
+1048,141,2021-04-26,Exame,Clínica Médica,Dourados,170.01,SUS
+1049,141,2021-07-16,Emergência,Ortopedia,Dourados,890.67,SUS
+1050,141,2023-03-28,Emergência,Pediatria,Dourados,334.48,Particular
+1051,141,2021-06-19,Emergência,Ortopedia,Dourados,306.43,SUS
+1052,141,2022-02-02,Consulta,Pediatria,Dourados,139.95,SUS
+1053,141,2022-07-08,Emergência,Pediatria,Dourados,321.64,SUS
+1054,141,2021-10-23,Emergência,Ortopedia,Dourados,394.47,SUS
+1055,141,2023-01-01,Exame,Pediatria,Dourados,248.79,SUS
+1056,141,2022-08-12,Emergência,Clínica Médica,Dourados,722.17,SUS
+1057,141,2022-03-31,Emergência,Ortopedia,Dourados,797.86,SUS
+1058,141,2023-12-29,Exame,Pediatria,Dourados,219.13,Particular
+1059,141,2023-09-06,Exame,Ortopedia,Dourados,293.73,Particular
+1060,141,2021-07-22,Consulta,Clínica Médica,Dourados,90.65,SUS
+1061,142,2022-11-10,Exame,Ortopedia,Três Lagoas,350.74,Particular
+1062,142,2023-08-27,Emergência,Cardiologia,Três Lagoas,644.94,Convênio
+1063,142,2023-06-19,Exame,Ortopedia,Três Lagoas,342.49,Convênio
+1064,142,2021-07-01,Exame,Clínica Médica,Três Lagoas,374.13,Convênio
+1065,142,2021-08-19,Exame,Pediatria,Três Lagoas,166.89,SUS
+1066,142,2021-10-04,Emergência,Cardiologia,Três Lagoas,780.1,Convênio
+1067,142,2022-05-25,Exame,Ortopedia,Três Lagoas,152.43,SUS
+1068,142,2021-04-13,Consulta,Ortopedia,Três Lagoas,119.89,SUS
+1069,142,2023-06-17,Consulta,Ortopedia,Três Lagoas,97.85,Convênio
+1070,143,2021-08-06,Emergência,Pediatria,Dourados,868.27,SUS
+1071,143,2021-10-19,Exame,Pediatria,Dourados,208.72,Convênio
+1072,143,2021-08-24,Exame,Pediatria,Dourados,200.69,SUS
+1073,143,2022-10-06,Emergência,Clínica Médica,Dourados,767.36,SUS
+1074,143,2023-08-29,Consulta,Clínica Médica,Dourados,146.34,Convênio
+1075,143,2021-12-11,Emergência,Ortopedia,Dourados,808.81,Particular
+1076,144,2023-02-24,Exame,Ortopedia,Três Lagoas,370.25,Particular
+1077,144,2022-09-04,Exame,Ortopedia,Três Lagoas,341.07,SUS
+1078,144,2021-02-05,Exame,Clínica Médica,Três Lagoas,294.17,SUS
+1079,144,2021-03-25,Emergência,Clínica Médica,Três Lagoas,586.99,Convênio
+1080,144,2023-03-10,Emergência,Pediatria,Três Lagoas,816.24,SUS
+1081,144,2021-01-21,Exame,Cardiologia,Três Lagoas,324.56,Particular
+1082,144,2021-10-13,Exame,Pediatria,Três Lagoas,152.95,Convênio
+1083,144,2022-02-25,Exame,Ortopedia,Três Lagoas,231.36,Convênio
+1084,144,2022-08-26,Consulta,Cardiologia,Três Lagoas,103.71,SUS
+1085,144,2021-04-06,Emergência,Cardiologia,Três Lagoas,410.35,SUS
+1086,145,2023-08-09,Emergência,Cardiologia,Corumbá,519.05,Convênio
+1087,145,2021-10-08,Exame,Pediatria,Corumbá,292.85,SUS
+1088,145,2023-08-13,Consulta,Cardiologia,Corumbá,160.41,Convênio
+1089,145,2021-08-06,Exame,Pediatria,Corumbá,350.01,SUS
+1090,146,2023-11-11,Consulta,Ortopedia,Campo Grande,93.45,SUS
+1091,146,2022-03-01,Exame,Clínica Médica,Campo Grande,290.53,SUS
+1092,146,2022-08-22,Exame,Pediatria,Campo Grande,190.84,SUS
+1093,146,2022-03-09,Exame,Cardiologia,Campo Grande,307.47,SUS
+1094,146,2023-12-21,Emergência,Ortopedia,Campo Grande,516.58,SUS
+1095,146,2023-08-03,Exame,Pediatria,Campo Grande,180.31,SUS
+1096,146,2023-01-28,Emergência,Pediatria,Campo Grande,689.48,Convênio
+1097,146,2023-02-10,Exame,Cardiologia,Campo Grande,318.3,SUS
+1098,147,2023-05-10,Consulta,Pediatria,Corumbá,108.65,SUS
+1099,147,2021-01-30,Consulta,Cardiologia,Corumbá,172.86,Convênio
+1100,147,2023-01-04,Emergência,Clínica Médica,Corumbá,542.86,Convênio
+1101,147,2023-04-13,Consulta,Ortopedia,Corumbá,102.82,SUS
+1102,147,2022-09-27,Emergência,Cardiologia,Corumbá,460.48,SUS
+1103,147,2023-02-01,Exame,Ortopedia,Corumbá,345.24,Particular
+1104,147,2022-02-02,Emergência,Cardiologia,Corumbá,879.32,Convênio
+1105,147,2022-12-30,Consulta,Pediatria,Corumbá,82.31,SUS
+1106,147,2023-08-03,Emergência,Clínica Médica,Corumbá,746.33,SUS
+1107,147,2022-09-24,Consulta,Clínica Médica,Corumbá,90.3,SUS
+1108,147,2021-03-08,Exame,Cardiologia,Corumbá,156.59,SUS
+1109,147,2022-12-05,Emergência,Ortopedia,Corumbá,349.95,Convênio
+1110,147,2021-10-08,Emergência,Cardiologia,Corumbá,692.9,SUS
+1111,148,2022-08-21,Consulta,Pediatria,Dourados,124.32,Convênio
+1112,148,2023-07-07,Consulta,Clínica Médica,Dourados,97.06,SUS
+1113,148,2022-12-18,Emergência,Cardiologia,Dourados,849.16,SUS
+1114,148,2023-12-18,Exame,Ortopedia,Dourados,285.15,Particular
+1115,148,2021-11-25,Emergência,Pediatria,Dourados,881.73,SUS
+1116,149,2022-08-16,Emergência,Cardiologia,Corumbá,826.38,Convênio
+1117,149,2022-03-05,Emergência,Ortopedia,Corumbá,620.27,Convênio
+1118,149,2022-12-20,Exame,Cardiologia,Corumbá,351.18,SUS
+1119,149,2023-05-19,Exame,Ortopedia,Corumbá,214.95,SUS
+1120,149,2023-10-07,Consulta,Pediatria,Corumbá,161.54,SUS
+1121,149,2023-02-12,Exame,Cardiologia,Corumbá,283.77,SUS
+1122,149,2022-03-04,Exame,Ortopedia,Corumbá,341.47,SUS
+1123,149,2023-04-28,Emergência,Ortopedia,Corumbá,304.33,SUS
+1124,149,2023-03-15,Consulta,Cardiologia,Corumbá,136.06,SUS
+1125,149,2022-03-30,Consulta,Cardiologia,Corumbá,153.71,SUS
+1126,150,2021-11-13,Consulta,Pediatria,Corumbá,122.22,SUS
+1127,150,2021-09-26,Emergência,Ortopedia,Corumbá,845.97,Convênio
+1128,150,2021-10-03,Exame,Ortopedia,Corumbá,282.99,Convênio
+1129,150,2023-12-07,Exame,Pediatria,Corumbá,167.12,SUS
+1130,150,2023-05-01,Exame,Cardiologia,Corumbá,263.84,SUS
+1131,150,2021-02-18,Exame,Ortopedia,Corumbá,273.0,Convênio
+1132,150,2022-01-09,Consulta,Clínica Médica,Corumbá,176.97,SUS
+1133,150,2022-06-14,Consulta,Pediatria,Corumbá,108.21,Particular
+1134,150,2021-07-28,Emergência,Clínica Médica,Corumbá,304.92,SUS
+1135,150,2021-08-07,Consulta,Cardiologia,Corumbá,101.72,SUS
+1136,150,2023-05-13,Exame,Ortopedia,Corumbá,274.6,Convênio
+1137,150,2023-07-04,Exame,Clínica Médica,Corumbá,157.93,Convênio
+1138,150,2021-12-10,Consulta,Clínica Médica,Corumbá,157.57,SUS
+1139,150,2023-12-18,Emergência,Ortopedia,Corumbá,415.32,SUS
+1140,151,2023-05-09,Consulta,Pediatria,Corumbá,156.81,SUS
+1141,151,2023-07-14,Exame,Clínica Médica,Corumbá,260.74,Convênio
+1142,151,2021-02-14,Consulta,Pediatria,Corumbá,157.1,SUS
+1143,151,2022-12-11,Exame,Ortopedia,Corumbá,390.3,SUS
+1144,151,2022-02-27,Consulta,Clínica Médica,Corumbá,84.22,Convênio
+1145,151,2022-09-26,Exame,Ortopedia,Corumbá,224.7,SUS
+1146,151,2022-11-26,Consulta,Clínica Médica,Corumbá,101.78,Particular
+1147,151,2021-03-16,Consulta,Pediatria,Corumbá,112.45,Convênio
+1148,151,2023-05-11,Exame,Pediatria,Corumbá,248.95,Convênio
+1149,151,2023-09-12,Consulta,Cardiologia,Corumbá,138.11,Particular
+1150,151,2022-04-24,Emergência,Clínica Médica,Corumbá,522.84,Convênio
+1151,151,2021-11-30,Consulta,Ortopedia,Corumbá,89.14,SUS
+1152,151,2021-05-02,Emergência,Pediatria,Corumbá,513.31,SUS
+1153,151,2023-03-01,Emergência,Cardiologia,Corumbá,364.43,SUS
+1154,152,2022-10-07,Emergência,Cardiologia,Três Lagoas,754.02,Convênio
+1155,152,2023-04-25,Emergência,Ortopedia,Três Lagoas,713.55,SUS
+1156,152,2021-04-11,Emergência,Cardiologia,Três Lagoas,839.2,SUS
+1157,152,2023-05-13,Emergência,Cardiologia,Três Lagoas,476.83,SUS
+1158,153,2023-08-01,Emergência,Ortopedia,Dourados,739.44,SUS
+1159,153,2021-03-07,Emergência,Clínica Médica,Dourados,632.71,Particular
+1160,153,2021-12-18,Emergência,Ortopedia,Dourados,477.4,SUS
+1161,153,2022-10-18,Emergência,Cardiologia,Dourados,300.43,SUS
+1162,154,2022-03-07,Consulta,Pediatria,Dourados,116.41,Convênio
+1163,154,2023-02-15,Exame,Cardiologia,Dourados,314.57,Convênio
+1164,154,2021-11-14,Consulta,Pediatria,Dourados,129.75,SUS
+1165,154,2022-12-12,Emergência,Ortopedia,Dourados,545.88,SUS
+1166,154,2021-03-10,Consulta,Clínica Médica,Dourados,145.89,SUS
+1167,154,2022-09-05,Consulta,Clínica Médica,Dourados,83.13,SUS
+1168,154,2023-07-25,Exame,Cardiologia,Dourados,157.95,SUS
+1169,154,2023-05-11,Emergência,Ortopedia,Dourados,674.38,SUS
+1170,154,2023-08-10,Consulta,Clínica Médica,Dourados,140.6,SUS
+1171,154,2022-12-23,Consulta,Cardiologia,Dourados,100.87,Particular
+1172,154,2022-03-09,Consulta,Ortopedia,Dourados,143.89,SUS
+1173,154,2022-12-06,Emergência,Ortopedia,Dourados,834.26,Convênio
+1174,155,2021-05-14,Emergência,Clínica Médica,Campo Grande,324.39,SUS
+1175,155,2023-08-24,Exame,Clínica Médica,Campo Grande,203.98,SUS
+1176,155,2023-01-20,Consulta,Pediatria,Campo Grande,133.17,Convênio
+1177,155,2021-11-27,Consulta,Pediatria,Campo Grande,104.88,SUS
+1178,155,2023-06-11,Emergência,Clínica Médica,Campo Grande,549.11,Convênio
+1179,155,2023-05-06,Emergência,Cardiologia,Campo Grande,704.7,Convênio
+1180,155,2022-03-16,Consulta,Cardiologia,Campo Grande,98.04,SUS
+1181,155,2023-02-17,Emergência,Cardiologia,Campo Grande,394.91,SUS
+1182,155,2021-11-28,Exame,Ortopedia,Campo Grande,287.52,Particular
+1183,155,2023-09-21,Exame,Ortopedia,Campo Grande,308.31,SUS
+1184,155,2021-10-27,Emergência,Cardiologia,Campo Grande,627.38,SUS
+1185,155,2022-06-12,Emergência,Cardiologia,Campo Grande,452.45,Particular
+1186,155,2023-02-06,Exame,Clínica Médica,Campo Grande,150.05,Particular
+1187,156,2021-11-26,Emergência,Clínica Médica,Campo Grande,834.19,SUS
+1188,156,2022-06-27,Exame,Ortopedia,Campo Grande,203.71,Particular
+1189,156,2023-03-06,Consulta,Ortopedia,Campo Grande,174.33,Convênio
+1190,156,2021-11-04,Emergência,Pediatria,Campo Grande,642.4,SUS
+1191,156,2022-07-21,Consulta,Pediatria,Campo Grande,115.57,SUS
+1192,157,2021-09-28,Emergência,Ortopedia,Três Lagoas,453.75,SUS
+1193,157,2023-04-05,Consulta,Pediatria,Três Lagoas,136.91,Convênio
+1194,157,2022-10-21,Emergência,Cardiologia,Três Lagoas,494.82,SUS
+1195,157,2021-12-05,Consulta,Clínica Médica,Três Lagoas,169.9,SUS
+1196,157,2021-10-13,Emergência,Cardiologia,Três Lagoas,322.42,Convênio
+1197,158,2021-06-21,Exame,Cardiologia,Campo Grande,354.29,SUS
+1198,158,2022-05-16,Consulta,Clínica Médica,Campo Grande,102.67,Particular
+1199,159,2021-01-01,Consulta,Pediatria,Corumbá,84.12,SUS
+1200,159,2023-08-03,Exame,Clínica Médica,Corumbá,205.2,SUS
+1201,159,2023-02-07,Emergência,Cardiologia,Corumbá,535.73,Convênio
+1202,159,2021-12-27,Emergência,Cardiologia,Corumbá,354.05,Convênio
+1203,159,2021-06-15,Exame,Ortopedia,Corumbá,187.0,Convênio
+1204,159,2022-03-22,Consulta,Cardiologia,Corumbá,154.53,SUS
+1205,159,2023-10-16,Exame,Pediatria,Corumbá,275.46,SUS
+1206,159,2022-10-06,Consulta,Cardiologia,Corumbá,99.81,SUS
+1207,159,2021-05-04,Emergência,Pediatria,Corumbá,636.7,Convênio
+1208,159,2021-09-06,Consulta,Ortopedia,Corumbá,157.68,SUS
+1209,159,2021-12-03,Emergência,Cardiologia,Corumbá,353.76,Particular
+1210,160,2021-09-29,Exame,Clínica Médica,Três Lagoas,236.13,SUS
+1211,160,2021-04-15,Exame,Cardiologia,Três Lagoas,237.43,SUS
+1212,160,2021-12-26,Emergência,Pediatria,Três Lagoas,326.93,SUS
+1213,160,2021-05-02,Consulta,Clínica Médica,Três Lagoas,95.6,Convênio
+1214,160,2021-03-20,Consulta,Pediatria,Três Lagoas,104.3,Convênio
+1215,160,2023-01-14,Exame,Clínica Médica,Três Lagoas,323.45,SUS
+1216,160,2022-06-26,Exame,Pediatria,Três Lagoas,155.69,SUS
+1217,161,2022-03-24,Consulta,Cardiologia,Dourados,155.04,SUS
+1218,161,2023-10-18,Emergência,Clínica Médica,Dourados,384.81,Convênio
+1219,161,2022-07-11,Exame,Clínica Médica,Dourados,315.88,Convênio
+1220,161,2023-07-28,Exame,Ortopedia,Dourados,221.0,SUS
+1221,161,2021-10-08,Consulta,Clínica Médica,Dourados,174.52,SUS
+1222,161,2023-09-25,Exame,Ortopedia,Dourados,315.75,Convênio
+1223,161,2023-01-21,Consulta,Cardiologia,Dourados,166.74,SUS
+1224,161,2022-04-13,Consulta,Clínica Médica,Dourados,130.85,Particular
+1225,161,2023-04-18,Exame,Clínica Médica,Dourados,299.28,SUS
+1226,161,2021-09-13,Consulta,Clínica Médica,Dourados,176.68,SUS
+1227,161,2021-12-15,Consulta,Ortopedia,Dourados,132.94,SUS
+1228,161,2021-02-09,Exame,Ortopedia,Dourados,189.25,SUS
+1229,162,2021-07-19,Exame,Ortopedia,Três Lagoas,209.05,Convênio
+1230,162,2023-03-30,Consulta,Clínica Médica,Três Lagoas,167.87,Convênio
+1231,162,2021-03-06,Emergência,Ortopedia,Três Lagoas,435.35,Particular
+1232,162,2022-03-02,Exame,Cardiologia,Três Lagoas,171.95,Convênio
+1233,162,2022-06-05,Emergência,Pediatria,Três Lagoas,667.47,Particular
+1234,162,2021-05-29,Exame,Ortopedia,Três Lagoas,188.19,SUS
+1235,162,2021-03-01,Emergência,Pediatria,Três Lagoas,625.34,SUS
+1236,162,2023-02-09,Emergência,Pediatria,Três Lagoas,624.81,SUS
+1237,162,2021-08-17,Consulta,Pediatria,Três Lagoas,150.51,SUS
+1238,162,2021-08-21,Exame,Pediatria,Três Lagoas,393.94,Particular
+1239,162,2022-01-04,Emergência,Ortopedia,Três Lagoas,850.27,Particular
+1240,163,2023-01-09,Consulta,Clínica Médica,Campo Grande,167.96,SUS
+1241,163,2023-09-09,Exame,Cardiologia,Campo Grande,253.51,Particular
+1242,164,2023-02-17,Emergência,Ortopedia,Corumbá,836.48,Particular
+1243,164,2022-03-28,Consulta,Pediatria,Corumbá,90.68,Convênio
+1244,164,2023-07-19,Consulta,Ortopedia,Corumbá,141.2,Convênio
+1245,164,2023-10-08,Emergência,Pediatria,Corumbá,438.55,Convênio
+1246,164,2021-10-26,Consulta,Cardiologia,Corumbá,115.93,Convênio
+1247,165,2021-03-05,Emergência,Cardiologia,Corumbá,410.39,Convênio
+1248,165,2021-08-24,Exame,Pediatria,Corumbá,190.95,SUS
+1249,165,2022-03-25,Consulta,Ortopedia,Corumbá,176.88,SUS
+1250,166,2022-07-05,Emergência,Pediatria,Dourados,421.7,Convênio
+1251,166,2021-09-11,Consulta,Cardiologia,Dourados,175.47,SUS
+1252,166,2022-01-03,Emergência,Cardiologia,Dourados,494.94,SUS
+1253,166,2022-11-17,Consulta,Cardiologia,Dourados,157.62,SUS
+1254,166,2023-03-04,Emergência,Clínica Médica,Dourados,666.9,SUS
+1255,166,2022-05-18,Emergência,Clínica Médica,Dourados,574.14,SUS
+1256,166,2023-11-28,Consulta,Clínica Médica,Dourados,119.56,SUS
+1257,167,2021-01-15,Emergência,Pediatria,Corumbá,877.56,Convênio
+1258,167,2021-07-15,Exame,Ortopedia,Corumbá,371.1,SUS
+1259,167,2021-06-14,Exame,Clínica Médica,Corumbá,223.6,SUS
+1260,167,2023-04-14,Emergência,Cardiologia,Corumbá,385.34,SUS
+1261,167,2023-06-04,Consulta,Pediatria,Corumbá,91.32,Convênio
+1262,167,2021-04-28,Exame,Pediatria,Corumbá,262.72,SUS
+1263,167,2022-04-20,Exame,Pediatria,Corumbá,328.16,Convênio
+1264,167,2022-05-19,Exame,Pediatria,Corumbá,231.02,SUS
+1265,167,2021-07-01,Emergência,Cardiologia,Corumbá,354.71,Convênio
+1266,168,2023-11-16,Consulta,Pediatria,Três Lagoas,118.41,SUS
+1267,168,2022-01-06,Exame,Pediatria,Três Lagoas,160.98,Convênio
+1268,168,2021-02-11,Exame,Pediatria,Três Lagoas,314.88,Convênio
+1269,168,2022-09-26,Consulta,Clínica Médica,Três Lagoas,97.89,Particular
+1270,168,2021-03-26,Exame,Cardiologia,Três Lagoas,332.54,SUS
+1271,168,2021-06-21,Exame,Pediatria,Três Lagoas,179.39,Convênio
+1272,168,2022-10-17,Consulta,Clínica Médica,Três Lagoas,156.54,SUS
+1273,168,2022-09-06,Exame,Clínica Médica,Três Lagoas,274.66,SUS
+1274,168,2021-06-27,Emergência,Cardiologia,Três Lagoas,442.73,Particular
+1275,168,2021-06-21,Exame,Clínica Médica,Três Lagoas,169.85,SUS
+1276,168,2023-03-14,Consulta,Pediatria,Três Lagoas,107.81,Particular
+1277,169,2021-03-27,Consulta,Pediatria,Dourados,114.9,SUS
+1278,170,2021-08-23,Emergência,Ortopedia,Campo Grande,661.97,Convênio
+1279,170,2023-10-20,Consulta,Pediatria,Campo Grande,121.7,SUS
+1280,170,2023-08-19,Consulta,Pediatria,Campo Grande,141.11,Convênio
+1281,170,2022-05-21,Exame,Clínica Médica,Campo Grande,240.05,Convênio
+1282,170,2023-11-19,Consulta,Cardiologia,Campo Grande,112.28,Convênio
+1283,170,2022-03-07,Consulta,Clínica Médica,Campo Grande,164.33,Convênio
+1284,170,2023-09-12,Exame,Ortopedia,Campo Grande,180.51,SUS
+1285,170,2021-02-01,Exame,Pediatria,Campo Grande,281.16,SUS
+1286,170,2021-12-26,Emergência,Clínica Médica,Campo Grande,642.82,SUS
+1287,170,2023-09-18,Exame,Ortopedia,Campo Grande,301.19,Convênio
+1288,170,2023-03-31,Exame,Ortopedia,Campo Grande,229.12,Convênio
+1289,170,2023-01-12,Consulta,Cardiologia,Campo Grande,129.64,Convênio
+1290,170,2021-03-17,Exame,Pediatria,Campo Grande,370.92,Convênio
+1291,170,2022-06-06,Emergência,Clínica Médica,Campo Grande,416.13,SUS
+1292,171,2021-05-16,Emergência,Pediatria,Corumbá,742.48,Convênio
+1293,172,2022-03-16,Exame,Pediatria,Corumbá,237.41,SUS
+1294,172,2021-10-31,Consulta,Ortopedia,Corumbá,149.0,Convênio
+1295,172,2022-12-07,Consulta,Ortopedia,Corumbá,130.67,SUS
+1296,172,2021-11-23,Consulta,Cardiologia,Corumbá,113.33,SUS
+1297,172,2021-05-05,Emergência,Pediatria,Corumbá,876.07,Convênio
+1298,172,2021-03-01,Consulta,Cardiologia,Corumbá,113.79,SUS
+1299,172,2023-07-09,Exame,Cardiologia,Corumbá,311.41,Convênio
+1300,172,2022-07-11,Consulta,Ortopedia,Corumbá,169.21,Convênio
+1301,172,2023-07-24,Exame,Clínica Médica,Corumbá,253.49,Convênio
+1302,172,2021-08-06,Emergência,Ortopedia,Corumbá,734.98,SUS
+1303,172,2023-05-25,Emergência,Ortopedia,Corumbá,424.96,SUS
+1304,172,2023-11-25,Exame,Clínica Médica,Corumbá,187.33,SUS
+1305,172,2021-05-29,Exame,Pediatria,Corumbá,306.63,Particular
+1306,173,2023-06-28,Consulta,Ortopedia,Corumbá,166.46,Convênio
+1307,173,2021-04-30,Emergência,Ortopedia,Corumbá,725.9,Particular
+1308,173,2023-12-18,Exame,Ortopedia,Corumbá,369.26,SUS
+1309,173,2021-05-08,Exame,Ortopedia,Corumbá,225.66,Convênio
+1310,173,2022-10-12,Consulta,Pediatria,Corumbá,158.49,SUS
+1311,173,2022-03-25,Consulta,Cardiologia,Corumbá,82.49,SUS
+1312,173,2021-08-17,Emergência,Cardiologia,Corumbá,504.07,SUS
+1313,173,2022-07-25,Emergência,Ortopedia,Corumbá,486.22,Particular
+1314,173,2023-11-27,Consulta,Pediatria,Corumbá,89.83,Convênio
+1315,173,2022-06-09,Consulta,Clínica Médica,Corumbá,125.94,Convênio
+1316,174,2022-06-18,Consulta,Clínica Médica,Três Lagoas,139.43,Convênio
+1317,175,2021-10-02,Consulta,Ortopedia,Corumbá,156.62,SUS
+1318,175,2022-12-01,Consulta,Pediatria,Corumbá,111.21,Convênio
+1319,175,2023-07-29,Exame,Ortopedia,Corumbá,221.64,SUS
+1320,175,2021-04-12,Exame,Pediatria,Corumbá,218.16,Convênio
+1321,175,2022-12-04,Exame,Clínica Médica,Corumbá,389.57,SUS
+1322,175,2022-05-25,Consulta,Ortopedia,Corumbá,134.94,SUS
+1323,176,2021-07-22,Emergência,Ortopedia,Três Lagoas,342.75,SUS
+1324,176,2022-01-07,Emergência,Cardiologia,Três Lagoas,378.04,SUS
+1325,176,2022-09-02,Emergência,Clínica Médica,Três Lagoas,530.16,SUS
+1326,177,2022-03-24,Consulta,Cardiologia,Corumbá,169.13,Convênio
+1327,177,2021-12-22,Emergência,Pediatria,Corumbá,499.4,SUS
+1328,177,2023-08-24,Emergência,Clínica Médica,Corumbá,785.58,Convênio
+1329,177,2021-11-05,Exame,Cardiologia,Corumbá,173.23,Convênio
+1330,177,2023-12-30,Consulta,Cardiologia,Corumbá,148.45,SUS
+1331,177,2022-05-06,Exame,Ortopedia,Corumbá,205.95,SUS
+1332,177,2022-12-09,Exame,Ortopedia,Corumbá,324.9,SUS
+1333,178,2022-10-18,Exame,Clínica Médica,Três Lagoas,166.34,SUS
+1334,178,2023-08-09,Exame,Ortopedia,Três Lagoas,361.44,SUS
+1335,178,2021-06-09,Exame,Clínica Médica,Três Lagoas,181.85,Convênio
+1336,178,2021-12-18,Exame,Ortopedia,Três Lagoas,349.19,Convênio
+1337,178,2023-04-11,Emergência,Cardiologia,Três Lagoas,775.46,Convênio
+1338,178,2022-10-20,Exame,Pediatria,Três Lagoas,209.64,Convênio
+1339,178,2021-04-26,Emergência,Clínica Médica,Três Lagoas,589.42,SUS
+1340,178,2021-10-23,Exame,Cardiologia,Três Lagoas,323.51,SUS
+1341,178,2023-02-16,Exame,Pediatria,Três Lagoas,235.55,Convênio
+1342,178,2021-11-09,Consulta,Cardiologia,Três Lagoas,87.79,Convênio
+1343,178,2022-04-04,Consulta,Clínica Médica,Três Lagoas,126.29,Convênio
+1344,178,2022-08-28,Exame,Clínica Médica,Três Lagoas,388.97,SUS
+1345,178,2022-11-16,Emergência,Cardiologia,Três Lagoas,788.44,SUS
+1346,179,2022-04-25,Emergência,Pediatria,Corumbá,354.32,Convênio
+1347,179,2022-07-06,Emergência,Clínica Médica,Corumbá,681.68,Particular
+1348,179,2021-04-24,Consulta,Ortopedia,Corumbá,125.3,Convênio
+1349,179,2021-08-16,Exame,Pediatria,Corumbá,261.79,Convênio
+1350,179,2023-01-29,Emergência,Ortopedia,Corumbá,479.84,Particular
+1351,179,2023-01-01,Exame,Clínica Médica,Corumbá,378.78,Convênio
+1352,180,2022-05-02,Emergência,Pediatria,Campo Grande,542.52,Particular
+1353,180,2021-07-28,Exame,Clínica Médica,Campo Grande,375.27,SUS
+1354,180,2021-12-02,Consulta,Ortopedia,Campo Grande,162.08,Convênio
+1355,180,2021-07-24,Consulta,Pediatria,Campo Grande,166.57,Particular
+1356,180,2021-11-12,Exame,Ortopedia,Campo Grande,248.57,Convênio
+1357,180,2023-05-28,Emergência,Pediatria,Campo Grande,528.94,SUS
+1358,180,2023-12-13,Emergência,Cardiologia,Campo Grande,383.44,SUS
+1359,180,2023-10-12,Exame,Pediatria,Campo Grande,188.57,Convênio
+1360,180,2021-01-05,Consulta,Pediatria,Campo Grande,144.84,SUS
+1361,180,2023-11-18,Emergência,Pediatria,Campo Grande,694.76,Particular
+1362,181,2023-12-07,Emergência,Cardiologia,Dourados,816.09,Convênio
+1363,181,2022-11-10,Emergência,Cardiologia,Dourados,605.65,SUS
+1364,182,2021-02-22,Consulta,Cardiologia,Três Lagoas,140.46,SUS
+1365,182,2022-05-23,Emergência,Cardiologia,Três Lagoas,601.04,SUS
+1366,182,2023-05-27,Emergência,Clínica Médica,Três Lagoas,320.08,Convênio
+1367,182,2023-10-08,Emergência,Cardiologia,Três Lagoas,521.15,SUS
+1368,182,2022-10-06,Emergência,Ortopedia,Três Lagoas,738.11,SUS
+1369,182,2022-09-27,Exame,Clínica Médica,Três Lagoas,280.84,SUS
+1370,182,2021-03-03,Consulta,Clínica Médica,Três Lagoas,154.17,SUS
+1371,183,2022-01-21,Emergência,Clínica Médica,Três Lagoas,506.13,SUS
+1372,183,2023-11-12,Exame,Ortopedia,Três Lagoas,376.51,SUS
+1373,183,2022-05-24,Exame,Ortopedia,Três Lagoas,394.44,SUS
+1374,183,2023-03-15,Exame,Ortopedia,Três Lagoas,323.76,SUS
+1375,183,2023-11-11,Emergência,Cardiologia,Três Lagoas,456.27,Convênio
+1376,183,2022-06-24,Emergência,Ortopedia,Três Lagoas,330.97,SUS
+1377,183,2022-04-07,Emergência,Clínica Médica,Três Lagoas,472.09,Convênio
+1378,183,2022-09-20,Consulta,Ortopedia,Três Lagoas,165.14,SUS
+1379,183,2023-07-16,Exame,Ortopedia,Três Lagoas,220.24,SUS
+1380,183,2021-11-15,Consulta,Pediatria,Três Lagoas,140.38,Convênio
+1381,183,2021-10-18,Emergência,Ortopedia,Três Lagoas,784.7,SUS
+1382,184,2021-02-21,Exame,Clínica Médica,Dourados,281.85,SUS
+1383,184,2021-01-11,Exame,Pediatria,Dourados,391.84,Particular
+1384,184,2021-02-10,Exame,Cardiologia,Dourados,253.24,Convênio
+1385,184,2022-03-16,Consulta,Pediatria,Dourados,152.6,Convênio
+1386,184,2023-06-12,Consulta,Clínica Médica,Dourados,164.18,Convênio
+1387,184,2022-10-26,Emergência,Clínica Médica,Dourados,791.72,SUS
+1388,184,2021-05-04,Consulta,Cardiologia,Dourados,127.62,SUS
+1389,184,2021-02-27,Emergência,Pediatria,Dourados,853.48,Particular
+1390,184,2023-04-01,Exame,Ortopedia,Dourados,247.52,Convênio
+1391,184,2023-03-06,Consulta,Ortopedia,Dourados,123.47,SUS
+1392,184,2023-11-21,Exame,Clínica Médica,Dourados,228.92,SUS
+1393,184,2021-03-13,Consulta,Cardiologia,Dourados,143.74,Particular
+1394,184,2022-10-09,Emergência,Ortopedia,Dourados,815.01,Particular
+1395,185,2023-05-22,Consulta,Cardiologia,Três Lagoas,138.42,SUS
+1396,185,2022-04-29,Emergência,Pediatria,Três Lagoas,740.59,Convênio
+1397,185,2021-09-01,Emergência,Pediatria,Três Lagoas,714.17,SUS
+1398,185,2021-07-29,Exame,Clínica Médica,Três Lagoas,318.2,SUS
+1399,185,2021-08-07,Consulta,Cardiologia,Três Lagoas,132.53,SUS
+1400,186,2023-02-03,Emergência,Clínica Médica,Dourados,415.85,SUS
+1401,186,2022-08-15,Emergência,Pediatria,Dourados,863.1,SUS
+1402,186,2023-02-01,Emergência,Clínica Médica,Dourados,724.85,Convênio
+1403,186,2021-04-21,Consulta,Pediatria,Dourados,92.99,Particular
+1404,186,2022-01-05,Consulta,Cardiologia,Dourados,105.33,Convênio
+1405,186,2021-01-02,Emergência,Ortopedia,Dourados,683.27,Particular
+1406,187,2023-02-12,Emergência,Ortopedia,Corumbá,761.93,Particular
+1407,187,2023-06-04,Exame,Clínica Médica,Corumbá,168.5,SUS
+1408,187,2023-05-03,Exame,Ortopedia,Corumbá,398.99,SUS
+1409,187,2022-07-19,Exame,Pediatria,Corumbá,167.35,SUS
+1410,187,2021-05-30,Emergência,Clínica Médica,Corumbá,687.29,SUS
+1411,187,2022-07-31,Consulta,Clínica Médica,Corumbá,123.13,SUS
+1412,187,2022-04-03,Exame,Clínica Médica,Corumbá,175.82,Convênio
+1413,187,2023-03-07,Consulta,Cardiologia,Corumbá,105.06,Convênio
+1414,187,2021-02-11,Consulta,Clínica Médica,Corumbá,94.89,Particular
+1415,187,2023-01-07,Consulta,Ortopedia,Corumbá,106.64,Convênio
+1416,187,2022-07-23,Exame,Cardiologia,Corumbá,278.85,Convênio
+1417,187,2022-01-23,Exame,Clínica Médica,Corumbá,361.01,SUS
+1418,187,2022-09-18,Emergência,Cardiologia,Corumbá,530.65,SUS
+1419,188,2021-10-23,Exame,Clínica Médica,Três Lagoas,250.15,Convênio
+1420,188,2021-10-27,Exame,Clínica Médica,Três Lagoas,390.23,SUS
+1421,189,2022-06-08,Exame,Clínica Médica,Corumbá,194.15,Convênio
+1422,189,2022-07-14,Exame,Cardiologia,Corumbá,224.72,Convênio
+1423,189,2022-05-14,Consulta,Clínica Médica,Corumbá,115.93,Convênio
+1424,189,2021-03-07,Emergência,Clínica Médica,Corumbá,413.68,SUS
+1425,189,2023-02-27,Consulta,Pediatria,Corumbá,179.64,SUS
+1426,189,2021-09-12,Exame,Ortopedia,Corumbá,348.18,SUS
+1427,189,2023-02-23,Exame,Cardiologia,Corumbá,358.56,SUS
+1428,189,2022-10-22,Consulta,Clínica Médica,Corumbá,85.61,SUS
+1429,189,2023-01-22,Exame,Cardiologia,Corumbá,351.78,SUS
+1430,189,2023-10-08,Emergência,Pediatria,Corumbá,621.94,Particular
+1431,189,2022-03-12,Consulta,Clínica Médica,Corumbá,94.16,SUS
+1432,189,2023-11-17,Exame,Pediatria,Corumbá,304.59,Particular
+1433,189,2022-10-10,Emergência,Clínica Médica,Corumbá,308.62,Convênio
+1434,189,2022-01-16,Exame,Pediatria,Corumbá,174.32,Convênio
+1435,190,2022-01-21,Consulta,Pediatria,Campo Grande,139.5,SUS
+1436,190,2022-10-26,Consulta,Cardiologia,Campo Grande,122.62,Convênio
+1437,190,2022-11-29,Exame,Pediatria,Campo Grande,321.02,SUS
+1438,190,2023-03-10,Exame,Clínica Médica,Campo Grande,348.28,Convênio
+1439,190,2022-04-09,Emergência,Ortopedia,Campo Grande,337.93,SUS
+1440,190,2021-03-23,Consulta,Ortopedia,Campo Grande,96.81,Convênio
+1441,190,2022-09-26,Emergência,Clínica Médica,Campo Grande,446.19,SUS
+1442,190,2022-10-25,Consulta,Cardiologia,Campo Grande,164.74,SUS
+1443,190,2023-01-06,Consulta,Clínica Médica,Campo Grande,128.7,SUS
+1444,190,2022-08-07,Consulta,Ortopedia,Campo Grande,88.91,SUS
+1445,190,2022-04-14,Exame,Cardiologia,Campo Grande,348.06,Convênio
+1446,190,2022-11-07,Emergência,Ortopedia,Campo Grande,385.85,SUS
+1447,190,2023-11-24,Emergência,Pediatria,Campo Grande,443.55,SUS
+1448,190,2023-09-08,Emergência,Cardiologia,Campo Grande,657.76,Convênio
+1449,191,2023-04-09,Emergência,Cardiologia,Campo Grande,480.72,Convênio
+1450,191,2022-01-30,Consulta,Clínica Médica,Campo Grande,99.19,Convênio
+1451,191,2023-03-11,Emergência,Pediatria,Campo Grande,756.68,SUS
+1452,191,2023-02-19,Exame,Ortopedia,Campo Grande,314.83,Convênio
+1453,191,2022-02-17,Consulta,Cardiologia,Campo Grande,159.66,SUS
+1454,191,2022-11-06,Exame,Clínica Médica,Campo Grande,317.54,SUS
+1455,191,2021-10-23,Consulta,Cardiologia,Campo Grande,108.51,Convênio
+1456,191,2021-06-05,Exame,Cardiologia,Campo Grande,351.29,SUS
+1457,191,2021-12-17,Consulta,Pediatria,Campo Grande,85.25,SUS
+1458,191,2023-02-01,Consulta,Clínica Médica,Campo Grande,128.51,Convênio
+1459,192,2023-06-08,Emergência,Cardiologia,Dourados,647.86,SUS
+1460,192,2023-12-19,Consulta,Pediatria,Dourados,169.84,Convênio
+1461,193,2022-07-03,Exame,Cardiologia,Campo Grande,209.28,SUS
+1462,193,2023-07-01,Consulta,Cardiologia,Campo Grande,102.07,SUS
+1463,193,2021-01-06,Emergência,Pediatria,Campo Grande,834.29,SUS
+1464,193,2023-02-09,Consulta,Cardiologia,Campo Grande,125.5,Particular
+1465,193,2021-08-29,Exame,Ortopedia,Campo Grande,329.96,SUS
+1466,193,2023-01-01,Exame,Clínica Médica,Campo Grande,181.8,SUS
+1467,193,2023-05-01,Exame,Cardiologia,Campo Grande,362.91,SUS
+1468,193,2021-04-04,Exame,Ortopedia,Campo Grande,235.89,SUS
+1469,193,2023-03-01,Emergência,Pediatria,Campo Grande,776.74,SUS
+1470,193,2021-05-11,Emergência,Clínica Médica,Campo Grande,813.0,Particular
+1471,193,2022-07-02,Exame,Pediatria,Campo Grande,272.3,Particular
+1472,193,2021-11-28,Emergência,Clínica Médica,Campo Grande,577.66,SUS
+1473,193,2021-06-11,Emergência,Pediatria,Campo Grande,823.56,SUS
+1474,194,2021-04-15,Emergência,Pediatria,Corumbá,856.49,SUS
+1475,194,2022-07-23,Emergência,Clínica Médica,Corumbá,550.66,Particular
+1476,194,2021-03-23,Consulta,Clínica Médica,Corumbá,153.35,Particular
+1477,194,2022-06-12,Exame,Clínica Médica,Corumbá,269.82,SUS
+1478,194,2021-01-09,Exame,Clínica Médica,Corumbá,170.77,SUS
+1479,194,2023-11-27,Emergência,Pediatria,Corumbá,869.96,Convênio
+1480,195,2021-10-01,Consulta,Cardiologia,Três Lagoas,89.07,Convênio
+1481,195,2022-09-30,Emergência,Clínica Médica,Três Lagoas,721.98,SUS
+1482,195,2022-07-29,Exame,Cardiologia,Três Lagoas,184.66,SUS
+1483,195,2023-08-25,Consulta,Cardiologia,Três Lagoas,117.04,Convênio
+1484,195,2023-03-29,Emergência,Clínica Médica,Três Lagoas,816.23,Convênio
+1485,195,2022-03-10,Exame,Clínica Médica,Três Lagoas,233.23,Particular
+1486,196,2023-06-10,Exame,Pediatria,Corumbá,303.13,Convênio
+1487,196,2023-05-18,Emergência,Clínica Médica,Corumbá,828.51,SUS
+1488,196,2021-06-15,Emergência,Clínica Médica,Corumbá,704.79,Particular
+1489,196,2023-11-08,Consulta,Clínica Médica,Corumbá,126.54,SUS
+1490,196,2022-11-03,Exame,Clínica Médica,Corumbá,312.04,SUS
+1491,197,2021-06-09,Consulta,Clínica Médica,Dourados,103.86,Particular
+1492,197,2022-07-23,Emergência,Pediatria,Dourados,863.49,SUS
+1493,197,2022-02-14,Emergência,Ortopedia,Dourados,492.28,Convênio
+1494,197,2021-05-14,Emergência,Clínica Médica,Dourados,466.29,Convênio
+1495,197,2022-02-11,Exame,Clínica Médica,Dourados,271.56,SUS
+1496,197,2022-11-19,Exame,Ortopedia,Dourados,319.58,Convênio
+1497,197,2021-07-27,Exame,Clínica Médica,Dourados,349.98,Convênio
+1498,197,2022-03-15,Consulta,Clínica Médica,Dourados,125.79,Particular
+1499,197,2021-08-03,Exame,Clínica Médica,Dourados,222.09,Particular
+1500,198,2023-05-24,Exame,Pediatria,Dourados,186.99,SUS
+1501,198,2021-09-12,Consulta,Ortopedia,Dourados,142.73,SUS
+1502,199,2022-06-06,Exame,Clínica Médica,Dourados,260.97,SUS
+1503,199,2021-04-18,Exame,Pediatria,Dourados,155.51,SUS
+1504,199,2022-12-26,Emergência,Ortopedia,Dourados,547.02,Convênio
+1505,199,2022-11-04,Emergência,Cardiologia,Dourados,495.78,Convênio
+1506,199,2022-02-07,Exame,Ortopedia,Dourados,182.99,SUS
+1507,199,2021-11-10,Consulta,Ortopedia,Dourados,102.68,Convênio
+1508,199,2021-09-18,Exame,Ortopedia,Dourados,161.83,Convênio
+1509,200,2021-09-06,Consulta,Ortopedia,Corumbá,96.08,Convênio
+1510,200,2022-02-24,Consulta,Pediatria,Corumbá,163.93,Particular
+1511,200,2022-11-17,Consulta,Ortopedia,Corumbá,84.12,SUS
+1512,200,2021-01-30,Emergência,Pediatria,Corumbá,456.24,SUS
+1513,200,2023-01-09,Consulta,Ortopedia,Corumbá,83.47,Convênio
+1514,201,2022-05-25,Exame,Ortopedia,Dourados,393.87,SUS
+1515,201,2021-06-24,Consulta,Cardiologia,Dourados,120.46,Particular
+1516,201,2022-05-03,Consulta,Pediatria,Dourados,172.78,Particular
+1517,201,2023-02-03,Consulta,Ortopedia,Dourados,134.61,Particular
+1518,201,2022-06-04,Emergência,Ortopedia,Dourados,584.35,Convênio
+1519,201,2022-01-21,Emergência,Cardiologia,Dourados,779.75,Convênio
+1520,202,2021-02-11,Emergência,Clínica Médica,Campo Grande,324.05,SUS
+1521,202,2023-01-18,Exame,Pediatria,Campo Grande,304.38,SUS
+1522,202,2023-12-17,Exame,Pediatria,Campo Grande,231.59,SUS
+1523,202,2021-07-29,Emergência,Ortopedia,Campo Grande,768.77,SUS
+1524,202,2022-03-09,Consulta,Cardiologia,Campo Grande,133.84,SUS
+1525,202,2023-05-15,Emergência,Cardiologia,Campo Grande,352.43,Convênio
+1526,203,2021-02-17,Exame,Clínica Médica,Corumbá,277.89,Convênio
+1527,203,2023-09-06,Emergência,Cardiologia,Corumbá,388.77,SUS
+1528,203,2023-06-02,Exame,Ortopedia,Corumbá,153.05,SUS
+1529,203,2021-12-10,Exame,Clínica Médica,Corumbá,261.39,SUS
+1530,204,2021-03-16,Emergência,Ortopedia,Corumbá,782.21,Particular
+1531,204,2023-07-16,Consulta,Cardiologia,Corumbá,177.04,Convênio
+1532,204,2021-10-23,Emergência,Clínica Médica,Corumbá,383.74,Particular
+1533,204,2022-07-20,Consulta,Ortopedia,Corumbá,127.46,SUS
+1534,205,2023-08-24,Consulta,Ortopedia,Corumbá,143.88,SUS
+1535,205,2023-06-03,Exame,Pediatria,Corumbá,265.53,SUS
+1536,206,2023-01-29,Exame,Ortopedia,Dourados,272.65,SUS
+1537,206,2022-05-18,Emergência,Cardiologia,Dourados,635.57,SUS
+1538,206,2022-09-17,Consulta,Ortopedia,Dourados,80.24,SUS
+1539,206,2022-08-05,Exame,Cardiologia,Dourados,358.56,Particular
+1540,207,2021-07-02,Exame,Pediatria,Três Lagoas,376.7,SUS
+1541,207,2022-06-05,Consulta,Clínica Médica,Três Lagoas,107.72,SUS
+1542,208,2021-03-05,Emergência,Ortopedia,Três Lagoas,561.64,SUS
+1543,208,2022-05-07,Emergência,Clínica Médica,Três Lagoas,884.56,Convênio
+1544,208,2022-10-06,Exame,Ortopedia,Três Lagoas,293.82,SUS
+1545,208,2021-01-19,Consulta,Cardiologia,Três Lagoas,94.61,Convênio
+1546,208,2021-02-26,Emergência,Ortopedia,Três Lagoas,397.99,SUS
+1547,208,2023-10-23,Exame,Ortopedia,Três Lagoas,378.03,SUS
+1548,208,2021-06-13,Consulta,Clínica Médica,Três Lagoas,132.96,SUS
+1549,208,2021-04-10,Emergência,Clínica Médica,Três Lagoas,676.82,SUS
+1550,208,2022-09-04,Emergência,Ortopedia,Três Lagoas,626.23,Convênio
+1551,208,2022-04-14,Emergência,Ortopedia,Três Lagoas,462.88,Convênio
+1552,209,2021-11-30,Consulta,Ortopedia,Três Lagoas,131.82,SUS
+1553,209,2022-10-30,Exame,Pediatria,Três Lagoas,380.23,SUS
+1554,210,2022-10-14,Consulta,Clínica Médica,Dourados,163.16,SUS
+1555,210,2023-01-25,Exame,Pediatria,Dourados,169.1,SUS
+1556,211,2021-08-13,Exame,Pediatria,Campo Grande,322.76,SUS
+1557,211,2022-06-20,Exame,Ortopedia,Campo Grande,299.41,Particular
+1558,211,2022-05-05,Consulta,Clínica Médica,Campo Grande,82.88,Convênio
+1559,211,2022-07-10,Consulta,Pediatria,Campo Grande,149.42,SUS
+1560,211,2022-07-03,Exame,Clínica Médica,Campo Grande,182.55,SUS
+1561,211,2022-10-07,Exame,Clínica Médica,Campo Grande,346.01,Convênio
+1562,211,2022-03-03,Consulta,Clínica Médica,Campo Grande,155.73,Convênio
+1563,211,2021-01-06,Consulta,Clínica Médica,Campo Grande,159.31,SUS
+1564,211,2023-05-20,Exame,Clínica Médica,Campo Grande,213.25,SUS
+1565,211,2023-09-09,Exame,Clínica Médica,Campo Grande,338.64,Convênio
+1566,211,2021-03-26,Emergência,Pediatria,Campo Grande,840.7,SUS
+1567,211,2021-05-22,Emergência,Ortopedia,Campo Grande,354.47,SUS
+1568,211,2022-09-06,Emergência,Pediatria,Campo Grande,396.33,SUS
+1569,211,2021-07-28,Emergência,Clínica Médica,Campo Grande,359.46,Convênio
+1570,211,2022-07-01,Emergência,Ortopedia,Campo Grande,414.93,SUS
+1571,212,2023-08-15,Emergência,Cardiologia,Campo Grande,428.41,SUS
+1572,212,2022-01-19,Exame,Clínica Médica,Campo Grande,196.28,Convênio
+1573,212,2023-04-16,Consulta,Cardiologia,Campo Grande,178.13,Convênio
+1574,213,2022-01-31,Exame,Clínica Médica,Dourados,396.15,SUS
+1575,213,2021-10-04,Exame,Ortopedia,Dourados,183.98,SUS
+1576,213,2021-05-29,Emergência,Clínica Médica,Dourados,733.28,SUS
+1577,213,2023-09-19,Exame,Cardiologia,Dourados,246.2,SUS
+1578,214,2023-07-03,Emergência,Cardiologia,Três Lagoas,566.37,Particular
+1579,214,2022-01-30,Exame,Clínica Médica,Três Lagoas,256.99,Particular
+1580,214,2022-04-09,Exame,Clínica Médica,Três Lagoas,241.86,Particular
+1581,214,2021-05-25,Emergência,Cardiologia,Três Lagoas,363.1,SUS
+1582,214,2022-11-07,Emergência,Pediatria,Três Lagoas,351.0,Convênio
+1583,214,2021-07-29,Exame,Clínica Médica,Três Lagoas,297.64,SUS
+1584,214,2021-08-13,Emergência,Clínica Médica,Três Lagoas,886.71,Particular
+1585,214,2021-01-29,Exame,Cardiologia,Três Lagoas,234.66,Particular
+1586,214,2023-10-13,Consulta,Cardiologia,Três Lagoas,122.47,SUS
+1587,214,2021-01-10,Exame,Ortopedia,Três Lagoas,341.49,Convênio
+1588,215,2022-10-12,Exame,Cardiologia,Corumbá,300.79,SUS
+1589,215,2023-09-03,Exame,Cardiologia,Corumbá,186.84,SUS
+1590,215,2022-04-28,Consulta,Pediatria,Corumbá,128.93,SUS
+1591,215,2022-02-12,Emergência,Clínica Médica,Corumbá,317.83,Particular
+1592,215,2023-09-24,Consulta,Pediatria,Corumbá,82.67,SUS
+1593,215,2022-03-25,Exame,Ortopedia,Corumbá,231.74,Convênio
+1594,215,2021-07-05,Emergência,Cardiologia,Corumbá,756.1,Convênio
+1595,215,2023-12-10,Exame,Cardiologia,Corumbá,315.52,SUS
+1596,215,2021-11-25,Emergência,Clínica Médica,Corumbá,506.17,SUS
+1597,215,2023-03-20,Consulta,Clínica Médica,Corumbá,168.01,Particular
+1598,215,2023-09-23,Exame,Cardiologia,Corumbá,363.22,SUS
+1599,215,2023-01-17,Exame,Ortopedia,Corumbá,194.22,SUS
+1600,215,2022-10-24,Emergência,Ortopedia,Corumbá,558.41,SUS
+1601,216,2022-03-31,Exame,Cardiologia,Corumbá,292.21,Convênio
+1602,216,2022-10-29,Emergência,Cardiologia,Corumbá,623.64,Convênio
+1603,216,2022-10-28,Exame,Clínica Médica,Corumbá,189.08,Convênio
+1604,216,2021-12-21,Exame,Cardiologia,Corumbá,297.76,SUS
+1605,216,2021-06-18,Emergência,Ortopedia,Corumbá,759.88,Convênio
+1606,216,2021-12-16,Exame,Pediatria,Corumbá,297.62,SUS
+1607,216,2021-01-03,Exame,Clínica Médica,Corumbá,335.51,SUS
+1608,216,2023-12-26,Emergência,Ortopedia,Corumbá,358.41,SUS
+1609,216,2021-12-22,Exame,Pediatria,Corumbá,164.11,SUS
+1610,216,2021-08-02,Consulta,Clínica Médica,Corumbá,111.21,SUS
+1611,216,2022-05-21,Emergência,Ortopedia,Corumbá,482.95,SUS
+1612,216,2023-10-11,Consulta,Cardiologia,Corumbá,112.61,SUS
+1613,217,2023-12-30,Emergência,Clínica Médica,Corumbá,552.7,SUS
+1614,217,2022-11-15,Emergência,Ortopedia,Corumbá,313.34,SUS
+1615,217,2021-11-26,Exame,Clínica Médica,Corumbá,230.61,Convênio
+1616,217,2021-12-13,Exame,Ortopedia,Corumbá,318.78,SUS
+1617,217,2022-12-23,Exame,Ortopedia,Corumbá,341.23,SUS
+1618,217,2023-07-09,Consulta,Cardiologia,Corumbá,116.33,Convênio
+1619,217,2022-10-08,Consulta,Clínica Médica,Corumbá,164.73,SUS
+1620,217,2023-01-06,Emergência,Ortopedia,Corumbá,459.09,SUS
+1621,217,2022-07-16,Emergência,Clínica Médica,Corumbá,435.53,SUS
+1622,217,2022-11-27,Emergência,Ortopedia,Corumbá,356.84,Convênio
+1623,217,2021-08-28,Exame,Cardiologia,Corumbá,350.3,SUS
+1624,218,2023-05-21,Exame,Ortopedia,Dourados,312.88,Convênio
+1625,218,2023-06-20,Emergência,Ortopedia,Dourados,559.75,Convênio
+1626,218,2022-05-05,Consulta,Cardiologia,Dourados,105.13,SUS
+1627,218,2023-07-27,Emergência,Clínica Médica,Dourados,408.36,Convênio
+1628,218,2021-10-20,Emergência,Cardiologia,Dourados,817.63,Convênio
+1629,218,2022-04-11,Consulta,Cardiologia,Dourados,162.39,Convênio
+1630,218,2022-01-29,Exame,Cardiologia,Dourados,283.18,Particular
+1631,219,2022-10-12,Emergência,Pediatria,Campo Grande,577.49,SUS
+1632,219,2023-06-21,Consulta,Cardiologia,Campo Grande,156.55,Convênio
+1633,219,2022-03-21,Exame,Clínica Médica,Campo Grande,357.55,SUS
+1634,219,2021-06-20,Emergência,Ortopedia,Campo Grande,547.46,SUS
+1635,219,2022-06-22,Emergência,Pediatria,Campo Grande,712.11,SUS
+1636,219,2021-11-14,Exame,Clínica Médica,Campo Grande,187.49,SUS
+1637,219,2021-09-23,Consulta,Cardiologia,Campo Grande,111.05,Convênio
+1638,219,2022-06-05,Emergência,Clínica Médica,Campo Grande,553.21,Particular
+1639,219,2021-04-01,Consulta,Ortopedia,Campo Grande,93.64,SUS
+1640,219,2023-07-26,Exame,Clínica Médica,Campo Grande,194.0,Convênio
+1641,219,2023-05-14,Emergência,Clínica Médica,Campo Grande,311.95,SUS
+1642,219,2022-04-28,Exame,Cardiologia,Campo Grande,366.79,Convênio
+1643,219,2022-02-08,Exame,Cardiologia,Campo Grande,371.43,Convênio
+1644,219,2022-04-05,Emergência,Clínica Médica,Campo Grande,441.62,Convênio
+1645,219,2021-09-27,Emergência,Ortopedia,Campo Grande,648.25,Convênio
+1646,220,2022-05-19,Consulta,Ortopedia,Campo Grande,157.32,Convênio
+1647,220,2022-02-02,Exame,Pediatria,Campo Grande,334.31,Convênio
+1648,220,2023-02-13,Exame,Pediatria,Campo Grande,176.7,SUS
+1649,220,2022-05-11,Exame,Clínica Médica,Campo Grande,213.58,SUS
+1650,220,2022-12-22,Exame,Clínica Médica,Campo Grande,324.9,SUS
+1651,220,2022-11-28,Exame,Pediatria,Campo Grande,268.71,SUS
+1652,220,2022-05-04,Exame,Ortopedia,Campo Grande,384.24,Particular
+1653,220,2022-03-15,Exame,Clínica Médica,Campo Grande,355.34,Convênio
+1654,221,2023-10-31,Emergência,Pediatria,Campo Grande,864.51,Convênio
+1655,221,2022-04-21,Exame,Ortopedia,Campo Grande,227.32,Convênio
+1656,221,2023-03-03,Emergência,Cardiologia,Campo Grande,820.17,SUS
+1657,221,2021-03-31,Exame,Ortopedia,Campo Grande,390.19,SUS
+1658,221,2023-06-25,Exame,Pediatria,Campo Grande,355.68,SUS
+1659,221,2023-01-01,Exame,Cardiologia,Campo Grande,372.56,SUS
+1660,221,2021-11-24,Emergência,Cardiologia,Campo Grande,787.35,SUS
+1661,221,2022-08-10,Consulta,Cardiologia,Campo Grande,88.01,SUS
+1662,221,2023-06-16,Exame,Ortopedia,Campo Grande,381.62,Convênio
+1663,221,2023-02-26,Emergência,Clínica Médica,Campo Grande,851.13,SUS
+1664,221,2021-04-19,Consulta,Ortopedia,Campo Grande,130.63,Convênio
+1665,222,2021-02-25,Exame,Pediatria,Três Lagoas,340.49,Convênio
+1666,222,2021-02-08,Emergência,Clínica Médica,Três Lagoas,684.66,SUS
+1667,222,2021-09-12,Exame,Clínica Médica,Três Lagoas,226.39,SUS
+1668,222,2021-01-22,Consulta,Pediatria,Três Lagoas,131.64,SUS
+1669,222,2021-01-24,Emergência,Ortopedia,Três Lagoas,775.59,Convênio
+1670,222,2022-12-12,Exame,Ortopedia,Três Lagoas,333.79,SUS
+1671,222,2022-04-11,Consulta,Ortopedia,Três Lagoas,162.68,Convênio
+1672,223,2022-04-25,Exame,Cardiologia,Campo Grande,248.37,SUS
+1673,223,2021-03-20,Emergência,Pediatria,Campo Grande,868.87,SUS
+1674,223,2023-06-28,Consulta,Pediatria,Campo Grande,99.83,Particular
+1675,223,2023-01-05,Consulta,Ortopedia,Campo Grande,122.89,SUS
+1676,224,2023-06-26,Exame,Clínica Médica,Campo Grande,291.81,SUS
+1677,224,2022-08-25,Emergência,Cardiologia,Campo Grande,764.02,SUS
+1678,224,2022-08-28,Emergência,Pediatria,Campo Grande,434.69,SUS
+1679,225,2022-12-29,Exame,Cardiologia,Três Lagoas,245.52,Convênio
+1680,225,2022-04-21,Consulta,Ortopedia,Três Lagoas,179.52,Convênio
+1681,225,2021-12-31,Emergência,Cardiologia,Três Lagoas,551.0,Convênio
+1682,225,2023-04-11,Consulta,Pediatria,Três Lagoas,177.61,SUS
+1683,226,2021-06-17,Consulta,Cardiologia,Corumbá,148.43,SUS
+1684,226,2023-05-27,Consulta,Ortopedia,Corumbá,93.32,SUS
+1685,226,2022-06-01,Emergência,Cardiologia,Corumbá,427.33,SUS
+1686,226,2022-04-20,Emergência,Clínica Médica,Corumbá,658.32,SUS
+1687,226,2022-02-21,Consulta,Pediatria,Corumbá,85.21,Convênio
+1688,226,2021-04-20,Exame,Clínica Médica,Corumbá,399.18,Particular
+1689,226,2023-11-06,Consulta,Ortopedia,Corumbá,141.97,SUS
+1690,226,2021-01-10,Exame,Clínica Médica,Corumbá,183.06,Convênio
+1691,226,2022-09-25,Emergência,Cardiologia,Corumbá,401.92,SUS
+1692,226,2021-12-21,Exame,Ortopedia,Corumbá,182.98,Particular
+1693,227,2022-11-11,Consulta,Pediatria,Corumbá,111.33,SUS
+1694,227,2022-02-16,Exame,Ortopedia,Corumbá,358.7,Particular
+1695,227,2023-08-28,Exame,Ortopedia,Corumbá,369.23,SUS
+1696,227,2023-05-18,Emergência,Ortopedia,Corumbá,835.6,SUS
+1697,227,2022-07-07,Emergência,Pediatria,Corumbá,758.21,Particular
+1698,227,2021-04-11,Emergência,Cardiologia,Corumbá,694.45,Particular
+1699,227,2022-07-18,Consulta,Pediatria,Corumbá,85.46,SUS
+1700,227,2023-05-30,Consulta,Cardiologia,Corumbá,96.36,SUS
+1701,227,2022-03-29,Exame,Cardiologia,Corumbá,373.79,SUS
+1702,227,2023-09-11,Consulta,Cardiologia,Corumbá,178.88,SUS
+1703,227,2022-12-08,Exame,Pediatria,Corumbá,361.46,SUS
+1704,227,2023-10-03,Consulta,Ortopedia,Corumbá,100.37,SUS
+1705,228,2021-11-14,Emergência,Pediatria,Dourados,463.67,SUS
+1706,228,2023-07-06,Emergência,Pediatria,Dourados,302.48,Particular
+1707,228,2023-04-14,Exame,Cardiologia,Dourados,211.54,Particular
+1708,229,2023-09-25,Exame,Clínica Médica,Campo Grande,320.33,SUS
+1709,229,2022-05-10,Exame,Clínica Médica,Campo Grande,382.29,SUS
+1710,229,2021-04-30,Exame,Cardiologia,Campo Grande,170.27,SUS
+1711,229,2022-12-22,Exame,Clínica Médica,Campo Grande,217.33,Convênio
+1712,229,2023-12-04,Exame,Cardiologia,Campo Grande,314.04,Particular
+1713,229,2023-03-08,Exame,Pediatria,Campo Grande,399.96,Particular
+1714,229,2022-05-27,Consulta,Ortopedia,Campo Grande,160.16,Particular
+1715,229,2022-01-18,Exame,Cardiologia,Campo Grande,335.95,Convênio
+1716,229,2023-03-02,Consulta,Cardiologia,Campo Grande,97.8,SUS
+1717,229,2023-05-01,Consulta,Cardiologia,Campo Grande,100.82,SUS
+1718,229,2021-03-06,Exame,Pediatria,Campo Grande,338.14,SUS
+1719,230,2021-01-18,Exame,Ortopedia,Três Lagoas,333.97,Convênio
+1720,230,2021-01-11,Emergência,Clínica Médica,Três Lagoas,515.43,Convênio
+1721,231,2023-01-26,Emergência,Cardiologia,Três Lagoas,567.27,SUS
+1722,231,2023-03-22,Exame,Clínica Médica,Três Lagoas,300.09,SUS
+1723,231,2023-05-25,Exame,Cardiologia,Três Lagoas,303.47,Convênio
+1724,231,2022-08-18,Emergência,Ortopedia,Três Lagoas,324.26,SUS
+1725,231,2021-04-17,Exame,Pediatria,Três Lagoas,311.9,Convênio
+1726,231,2021-09-05,Exame,Clínica Médica,Três Lagoas,311.81,SUS
+1727,231,2022-01-31,Exame,Cardiologia,Três Lagoas,169.8,SUS
+1728,231,2022-05-18,Exame,Ortopedia,Três Lagoas,181.95,SUS
+1729,231,2021-08-20,Consulta,Clínica Médica,Três Lagoas,109.55,SUS
+1730,231,2022-10-14,Emergência,Clínica Médica,Três Lagoas,327.06,SUS
+1731,231,2022-10-21,Emergência,Ortopedia,Três Lagoas,356.69,SUS
+1732,231,2021-09-28,Exame,Clínica Médica,Três Lagoas,170.44,SUS
+1733,231,2021-10-04,Consulta,Pediatria,Três Lagoas,126.29,Convênio
+1734,231,2021-09-27,Exame,Ortopedia,Três Lagoas,254.06,SUS
+1735,232,2021-11-17,Emergência,Ortopedia,Corumbá,784.7,SUS
+1736,232,2021-09-03,Consulta,Ortopedia,Corumbá,87.82,SUS
+1737,232,2022-07-17,Emergência,Clínica Médica,Corumbá,620.63,SUS
+1738,232,2023-05-20,Exame,Cardiologia,Corumbá,192.93,SUS
+1739,232,2021-05-13,Exame,Cardiologia,Corumbá,367.2,Convênio
+1740,232,2023-05-24,Exame,Ortopedia,Corumbá,393.48,Convênio
+1741,233,2022-04-08,Exame,Pediatria,Corumbá,183.78,SUS
+1742,233,2021-08-16,Consulta,Pediatria,Corumbá,149.6,Convênio
+1743,233,2022-06-12,Consulta,Pediatria,Corumbá,144.86,SUS
+1744,233,2023-09-16,Exame,Pediatria,Corumbá,364.55,Convênio
+1745,233,2023-06-06,Consulta,Cardiologia,Corumbá,126.34,SUS
+1746,233,2021-06-02,Exame,Pediatria,Corumbá,191.53,SUS
+1747,233,2021-09-27,Emergência,Cardiologia,Corumbá,878.32,Convênio
+1748,233,2023-11-11,Consulta,Pediatria,Corumbá,138.52,Particular
+1749,233,2023-08-20,Exame,Clínica Médica,Corumbá,358.46,Convênio
+1750,233,2022-05-21,Exame,Cardiologia,Corumbá,307.6,SUS
+1751,233,2023-07-14,Exame,Ortopedia,Corumbá,334.27,Convênio
+1752,233,2022-09-28,Consulta,Cardiologia,Corumbá,128.61,SUS
+1753,234,2021-06-08,Emergência,Clínica Médica,Campo Grande,645.84,SUS
+1754,234,2023-06-29,Exame,Cardiologia,Campo Grande,254.28,Particular
+1755,234,2022-07-08,Consulta,Ortopedia,Campo Grande,173.9,SUS
+1756,234,2022-09-19,Exame,Ortopedia,Campo Grande,155.2,Convênio
+1757,235,2023-11-07,Exame,Pediatria,Dourados,208.03,SUS
+1758,235,2022-12-23,Emergência,Cardiologia,Dourados,503.49,Particular
+1759,235,2021-07-08,Consulta,Cardiologia,Dourados,152.3,Particular
+1760,235,2022-07-21,Exame,Ortopedia,Dourados,318.28,Convênio
+1761,235,2021-01-16,Exame,Pediatria,Dourados,361.13,Convênio
+1762,235,2023-06-26,Exame,Cardiologia,Dourados,171.55,Convênio
+1763,235,2023-07-22,Consulta,Cardiologia,Dourados,95.63,SUS
+1764,235,2023-01-09,Consulta,Cardiologia,Dourados,174.31,Convênio
+1765,235,2021-11-28,Exame,Clínica Médica,Dourados,289.21,SUS
+1766,235,2023-01-24,Exame,Pediatria,Dourados,239.26,Particular
+1767,235,2022-05-12,Consulta,Clínica Médica,Dourados,169.45,Convênio
+1768,235,2022-09-05,Consulta,Pediatria,Dourados,91.4,SUS
+1769,236,2023-05-12,Exame,Ortopedia,Dourados,235.08,SUS
+1770,236,2023-11-10,Consulta,Pediatria,Dourados,135.7,Convênio
+1771,237,2023-05-16,Emergência,Cardiologia,Campo Grande,867.76,SUS
+1772,237,2021-05-23,Consulta,Clínica Médica,Campo Grande,158.17,Particular
+1773,237,2022-08-13,Emergência,Clínica Médica,Campo Grande,363.25,SUS
+1774,237,2023-09-13,Consulta,Ortopedia,Campo Grande,95.7,Particular
+1775,237,2023-11-24,Emergência,Clínica Médica,Campo Grande,603.54,SUS
+1776,237,2021-11-19,Consulta,Pediatria,Campo Grande,113.46,Convênio
+1777,237,2023-02-04,Consulta,Cardiologia,Campo Grande,123.91,Convênio
+1778,237,2021-08-29,Consulta,Ortopedia,Campo Grande,160.91,SUS
+1779,237,2021-07-30,Exame,Ortopedia,Campo Grande,171.31,SUS
+1780,237,2023-08-06,Emergência,Pediatria,Campo Grande,516.39,Convênio
+1781,237,2022-10-20,Consulta,Pediatria,Campo Grande,132.97,Convênio
+1782,237,2022-08-15,Consulta,Cardiologia,Campo Grande,121.34,Convênio
+1783,237,2021-11-07,Exame,Ortopedia,Campo Grande,279.04,Particular
+1784,237,2022-05-06,Consulta,Clínica Médica,Campo Grande,157.02,SUS
+1785,238,2022-01-23,Exame,Cardiologia,Três Lagoas,343.09,SUS
+1786,238,2023-08-15,Consulta,Pediatria,Três Lagoas,83.71,SUS
+1787,239,2023-08-18,Emergência,Ortopedia,Campo Grande,779.44,Particular
+1788,239,2023-08-02,Exame,Ortopedia,Campo Grande,320.22,SUS
+1789,239,2021-12-03,Emergência,Clínica Médica,Campo Grande,845.54,Convênio
+1790,239,2022-12-06,Exame,Pediatria,Campo Grande,302.6,Particular
+1791,239,2022-07-25,Emergência,Cardiologia,Campo Grande,686.33,SUS
+1792,239,2021-03-26,Emergência,Cardiologia,Campo Grande,787.1,SUS
+1793,239,2021-02-12,Consulta,Ortopedia,Campo Grande,88.43,Particular
+1794,239,2023-04-08,Exame,Pediatria,Campo Grande,335.01,Convênio
+1795,239,2021-07-16,Emergência,Clínica Médica,Campo Grande,470.36,Particular
+1796,239,2023-11-04,Emergência,Pediatria,Campo Grande,612.8,Convênio
+1797,239,2023-05-22,Consulta,Ortopedia,Campo Grande,159.66,SUS
+1798,239,2021-05-13,Consulta,Cardiologia,Campo Grande,110.39,Convênio
+1799,239,2021-09-21,Emergência,Ortopedia,Campo Grande,335.97,SUS
+1800,239,2022-01-30,Exame,Clínica Médica,Campo Grande,238.62,Convênio
+1801,239,2022-08-22,Emergência,Clínica Médica,Campo Grande,569.24,Particular
+1802,240,2021-12-23,Consulta,Pediatria,Três Lagoas,178.9,Convênio
+1803,240,2021-03-13,Exame,Pediatria,Três Lagoas,316.73,SUS
+1804,240,2023-11-15,Emergência,Clínica Médica,Três Lagoas,742.51,SUS
+1805,240,2021-04-19,Exame,Ortopedia,Três Lagoas,198.14,SUS
+1806,240,2022-09-11,Exame,Cardiologia,Três Lagoas,327.91,SUS
+1807,240,2021-07-18,Consulta,Pediatria,Três Lagoas,122.49,SUS
+1808,240,2023-09-06,Exame,Cardiologia,Três Lagoas,169.52,SUS
+1809,240,2022-01-14,Emergência,Ortopedia,Três Lagoas,767.29,Convênio
+1810,241,2022-04-22,Emergência,Cardiologia,Corumbá,564.05,SUS
+1811,241,2022-03-02,Emergência,Pediatria,Corumbá,794.29,Particular
+1812,241,2021-01-03,Emergência,Pediatria,Corumbá,726.69,SUS
+1813,241,2022-05-09,Emergência,Pediatria,Corumbá,617.48,SUS
+1814,241,2021-04-12,Exame,Ortopedia,Corumbá,336.62,SUS
+1815,241,2021-06-13,Consulta,Clínica Médica,Corumbá,120.86,Convênio
+1816,241,2023-05-02,Exame,Pediatria,Corumbá,160.07,Convênio
+1817,241,2021-01-19,Consulta,Ortopedia,Corumbá,179.1,SUS
+1818,241,2022-04-13,Exame,Pediatria,Corumbá,347.8,SUS
+1819,241,2021-09-04,Emergência,Ortopedia,Corumbá,862.09,SUS
+1820,242,2023-05-11,Consulta,Clínica Médica,Três Lagoas,153.97,SUS
+1821,242,2023-01-15,Consulta,Clínica Médica,Três Lagoas,86.76,SUS
+1822,242,2021-01-29,Exame,Cardiologia,Três Lagoas,227.43,SUS
+1823,242,2022-04-03,Exame,Pediatria,Três Lagoas,268.81,Convênio
+1824,242,2022-07-13,Consulta,Cardiologia,Três Lagoas,126.09,SUS
+1825,242,2023-04-28,Emergência,Ortopedia,Três Lagoas,819.81,SUS
+1826,242,2022-10-26,Consulta,Cardiologia,Três Lagoas,146.45,Convênio
+1827,242,2022-03-12,Exame,Clínica Médica,Três Lagoas,248.85,SUS
+1828,242,2023-10-03,Emergência,Clínica Médica,Três Lagoas,741.55,Particular
+1829,242,2023-11-22,Consulta,Ortopedia,Três Lagoas,137.2,Convênio
+1830,242,2023-06-25,Emergência,Clínica Médica,Três Lagoas,686.35,Convênio
+1831,242,2022-10-19,Consulta,Clínica Médica,Três Lagoas,134.18,Particular
+1832,242,2023-09-22,Emergência,Clínica Médica,Três Lagoas,750.34,SUS
+1833,242,2023-01-23,Consulta,Clínica Médica,Três Lagoas,133.19,Convênio
+1834,242,2021-04-29,Exame,Cardiologia,Três Lagoas,211.32,Convênio
+1835,243,2022-11-13,Exame,Clínica Médica,Três Lagoas,272.87,Convênio
+1836,243,2022-06-20,Exame,Ortopedia,Três Lagoas,253.73,SUS
+1837,244,2022-06-04,Consulta,Pediatria,Três Lagoas,89.93,SUS
+1838,244,2022-12-04,Exame,Clínica Médica,Três Lagoas,213.89,SUS
+1839,244,2023-08-15,Consulta,Pediatria,Três Lagoas,120.73,SUS
+1840,244,2021-08-13,Consulta,Clínica Médica,Três Lagoas,112.53,Convênio
+1841,244,2021-10-06,Emergência,Ortopedia,Três Lagoas,533.96,SUS
+1842,244,2021-03-25,Consulta,Cardiologia,Três Lagoas,112.42,SUS
+1843,244,2023-05-20,Consulta,Pediatria,Três Lagoas,103.96,SUS
+1844,245,2023-02-10,Consulta,Cardiologia,Corumbá,111.83,SUS
+1845,245,2021-07-26,Consulta,Pediatria,Corumbá,120.75,SUS
+1846,245,2022-02-10,Consulta,Clínica Médica,Corumbá,176.35,SUS
+1847,245,2021-11-12,Consulta,Pediatria,Corumbá,145.16,Convênio
+1848,245,2023-06-05,Exame,Pediatria,Corumbá,261.5,Convênio
+1849,245,2023-01-20,Consulta,Pediatria,Corumbá,178.53,SUS
+1850,245,2023-08-23,Emergência,Cardiologia,Corumbá,876.81,Particular
+1851,245,2022-01-19,Consulta,Ortopedia,Corumbá,126.47,SUS
+1852,246,2022-09-18,Consulta,Ortopedia,Dourados,172.18,SUS
+1853,246,2023-10-22,Emergência,Ortopedia,Dourados,708.0,SUS
+1854,246,2022-05-28,Emergência,Ortopedia,Dourados,804.41,SUS
+1855,246,2022-12-06,Consulta,Clínica Médica,Dourados,133.41,SUS
+1856,246,2022-04-02,Exame,Pediatria,Dourados,324.61,SUS
+1857,246,2022-11-22,Emergência,Cardiologia,Dourados,467.67,Convênio
+1858,246,2021-11-27,Consulta,Ortopedia,Dourados,175.74,Convênio
+1859,246,2023-07-12,Emergência,Cardiologia,Dourados,681.1,Particular
+1860,246,2021-10-13,Exame,Ortopedia,Dourados,395.76,SUS
+1861,246,2022-11-23,Consulta,Clínica Médica,Dourados,139.95,SUS
+1862,246,2023-06-22,Emergência,Cardiologia,Dourados,853.35,SUS
+1863,247,2023-10-10,Emergência,Cardiologia,Campo Grande,633.47,SUS
+1864,248,2022-04-09,Emergência,Clínica Médica,Corumbá,826.03,SUS
+1865,248,2023-09-20,Emergência,Cardiologia,Corumbá,799.25,SUS
+1866,248,2022-01-22,Emergência,Cardiologia,Corumbá,883.22,SUS
+1867,248,2021-07-04,Emergência,Clínica Médica,Corumbá,406.31,SUS
+1868,248,2022-05-02,Consulta,Cardiologia,Corumbá,173.62,SUS
+1869,248,2022-09-29,Consulta,Ortopedia,Corumbá,81.98,SUS
+1870,248,2023-06-03,Emergência,Clínica Médica,Corumbá,514.69,Particular
+1871,248,2021-05-11,Emergência,Pediatria,Corumbá,785.05,Convênio
+1872,248,2022-02-01,Consulta,Clínica Médica,Corumbá,176.73,Particular
+1873,248,2023-06-17,Exame,Pediatria,Corumbá,326.01,SUS
+1874,248,2021-02-07,Consulta,Cardiologia,Corumbá,162.11,SUS
+1875,248,2022-10-23,Consulta,Cardiologia,Corumbá,136.91,Particular
+1876,248,2022-09-14,Consulta,Pediatria,Corumbá,145.98,Convênio
+1877,249,2023-05-02,Emergência,Pediatria,Dourados,455.77,SUS
+1878,249,2022-10-09,Emergência,Clínica Médica,Dourados,464.6,Convênio
+1879,250,2022-08-11,Emergência,Cardiologia,Três Lagoas,572.36,Convênio
+1880,250,2023-03-16,Emergência,Ortopedia,Três Lagoas,690.02,Convênio
+1881,250,2022-06-16,Exame,Clínica Médica,Três Lagoas,251.72,Convênio
+1882,250,2023-12-20,Emergência,Clínica Médica,Três Lagoas,597.34,SUS
+1883,250,2022-05-12,Emergência,Cardiologia,Três Lagoas,466.76,SUS
+1884,250,2021-01-22,Emergência,Pediatria,Três Lagoas,303.1,SUS
+1885,250,2022-06-04,Exame,Clínica Médica,Três Lagoas,292.95,SUS
+1886,250,2021-03-06,Emergência,Clínica Médica,Três Lagoas,713.73,SUS
+1887,250,2023-02-15,Consulta,Clínica Médica,Três Lagoas,112.92,SUS
+1888,250,2022-01-04,Emergência,Cardiologia,Três Lagoas,316.72,Convênio
+1889,250,2021-11-14,Consulta,Ortopedia,Três Lagoas,142.63,Convênio
+1890,250,2022-09-05,Exame,Ortopedia,Três Lagoas,268.39,SUS
+1891,251,2023-06-29,Exame,Clínica Médica,Campo Grande,209.19,SUS
+1892,251,2021-07-13,Emergência,Cardiologia,Campo Grande,758.46,Convênio
+1893,251,2022-06-14,Emergência,Clínica Médica,Campo Grande,884.72,SUS
+1894,251,2021-02-24,Exame,Clínica Médica,Campo Grande,361.92,SUS
+1895,251,2022-05-03,Consulta,Clínica Médica,Campo Grande,160.24,SUS
+1896,251,2021-11-05,Exame,Clínica Médica,Campo Grande,257.96,Convênio
+1897,251,2023-11-01,Emergência,Cardiologia,Campo Grande,331.32,SUS
+1898,251,2023-02-23,Exame,Pediatria,Campo Grande,337.99,SUS
+1899,251,2021-10-20,Emergência,Cardiologia,Campo Grande,674.4,Convênio
+1900,251,2023-03-13,Exame,Clínica Médica,Campo Grande,257.03,SUS
+1901,251,2021-02-14,Exame,Clínica Médica,Campo Grande,318.94,Convênio
+1902,251,2021-10-13,Exame,Clínica Médica,Campo Grande,296.95,SUS
+1903,251,2021-01-18,Consulta,Pediatria,Campo Grande,151.33,SUS
+1904,251,2022-10-22,Emergência,Ortopedia,Campo Grande,605.34,SUS
+1905,252,2023-12-06,Emergência,Pediatria,Corumbá,411.55,Convênio
+1906,252,2021-07-08,Consulta,Cardiologia,Corumbá,111.17,SUS
+1907,252,2021-01-29,Emergência,Ortopedia,Corumbá,752.62,Particular
+1908,252,2021-02-21,Emergência,Pediatria,Corumbá,765.3,Particular
+1909,252,2023-11-08,Exame,Ortopedia,Corumbá,235.73,SUS
+1910,252,2022-05-04,Consulta,Pediatria,Corumbá,145.77,SUS
+1911,252,2022-06-28,Consulta,Clínica Médica,Corumbá,161.92,SUS
+1912,253,2023-03-01,Consulta,Pediatria,Três Lagoas,144.06,Particular
+1913,253,2022-05-30,Consulta,Cardiologia,Três Lagoas,146.79,SUS
+1914,253,2021-09-05,Emergência,Ortopedia,Três Lagoas,811.21,Convênio
+1915,253,2021-05-01,Emergência,Clínica Médica,Três Lagoas,497.17,SUS
+1916,253,2023-03-27,Exame,Cardiologia,Três Lagoas,377.64,Particular
+1917,253,2023-07-25,Consulta,Pediatria,Três Lagoas,143.88,Particular
+1918,253,2022-06-30,Exame,Ortopedia,Três Lagoas,209.75,Convênio
+1919,254,2022-10-09,Consulta,Clínica Médica,Corumbá,162.61,SUS
+1920,254,2021-09-10,Exame,Clínica Médica,Corumbá,239.47,SUS
+1921,254,2022-07-24,Consulta,Ortopedia,Corumbá,99.44,SUS
+1922,254,2022-02-04,Consulta,Ortopedia,Corumbá,99.91,Particular
+1923,254,2022-09-24,Consulta,Pediatria,Corumbá,106.2,SUS
+1924,254,2023-11-06,Exame,Pediatria,Corumbá,211.49,Convênio
+1925,254,2023-05-27,Consulta,Clínica Médica,Corumbá,106.18,SUS
+1926,254,2022-05-03,Consulta,Clínica Médica,Corumbá,93.72,Convênio
+1927,254,2021-05-23,Exame,Pediatria,Corumbá,226.27,Particular
+1928,254,2023-01-23,Exame,Cardiologia,Corumbá,315.23,Convênio
+1929,254,2023-04-15,Emergência,Pediatria,Corumbá,386.66,SUS
+1930,254,2021-10-04,Consulta,Ortopedia,Corumbá,117.82,SUS
+1931,254,2022-06-09,Exame,Pediatria,Corumbá,394.25,Convênio
+1932,255,2021-09-28,Emergência,Ortopedia,Campo Grande,812.66,Convênio
+1933,255,2022-07-24,Consulta,Ortopedia,Campo Grande,85.33,SUS
+1934,255,2023-03-16,Consulta,Cardiologia,Campo Grande,176.84,Particular
+1935,255,2022-03-27,Consulta,Clínica Médica,Campo Grande,158.47,Convênio
+1936,255,2021-12-02,Consulta,Ortopedia,Campo Grande,155.13,SUS
+1937,255,2021-08-20,Exame,Ortopedia,Campo Grande,194.75,SUS
+1938,255,2023-12-30,Emergência,Cardiologia,Campo Grande,729.39,Convênio
+1939,255,2021-05-21,Exame,Clínica Médica,Campo Grande,250.24,SUS
+1940,255,2022-12-29,Consulta,Pediatria,Campo Grande,100.3,SUS
+1941,255,2021-12-18,Exame,Cardiologia,Campo Grande,256.26,SUS
+1942,255,2022-07-19,Emergência,Ortopedia,Campo Grande,805.46,SUS
+1943,255,2023-12-18,Emergência,Ortopedia,Campo Grande,750.97,SUS
+1944,255,2023-03-01,Exame,Clínica Médica,Campo Grande,207.54,SUS
+1945,255,2023-03-14,Exame,Cardiologia,Campo Grande,234.09,SUS
+1946,255,2021-07-14,Exame,Cardiologia,Campo Grande,241.88,SUS
+1947,256,2022-07-12,Exame,Ortopedia,Três Lagoas,260.42,SUS
+1948,256,2023-05-27,Emergência,Ortopedia,Três Lagoas,840.89,SUS
+1949,256,2023-01-05,Emergência,Ortopedia,Três Lagoas,686.19,SUS
+1950,256,2021-10-22,Consulta,Clínica Médica,Três Lagoas,87.13,SUS
+1951,256,2022-09-07,Emergência,Ortopedia,Três Lagoas,417.99,SUS
+1952,256,2022-07-21,Exame,Ortopedia,Três Lagoas,353.89,SUS
+1953,257,2021-10-07,Emergência,Clínica Médica,Dourados,847.43,Convênio
+1954,257,2021-06-13,Exame,Cardiologia,Dourados,236.66,SUS
+1955,257,2021-05-29,Exame,Clínica Médica,Dourados,339.45,Convênio
+1956,257,2022-06-15,Exame,Pediatria,Dourados,397.32,Convênio
+1957,258,2021-09-07,Consulta,Cardiologia,Corumbá,154.91,SUS
+1958,258,2022-01-18,Consulta,Cardiologia,Corumbá,158.6,SUS
+1959,258,2023-06-13,Emergência,Clínica Médica,Corumbá,504.4,Convênio
+1960,258,2022-05-10,Exame,Cardiologia,Corumbá,257.2,Convênio
+1961,258,2023-04-19,Consulta,Clínica Médica,Corumbá,165.29,SUS
+1962,258,2022-12-16,Exame,Ortopedia,Corumbá,368.44,SUS
+1963,258,2021-08-14,Emergência,Ortopedia,Corumbá,786.24,SUS
+1964,258,2022-01-23,Exame,Cardiologia,Corumbá,256.43,SUS
+1965,258,2022-08-03,Emergência,Clínica Médica,Corumbá,495.65,SUS
+1966,258,2022-08-19,Emergência,Pediatria,Corumbá,853.29,Convênio
+1967,258,2021-02-03,Exame,Cardiologia,Corumbá,349.79,Convênio
+1968,258,2023-02-28,Exame,Cardiologia,Corumbá,247.66,SUS
+1969,258,2023-01-27,Consulta,Cardiologia,Corumbá,112.88,SUS
+1970,258,2023-07-07,Emergência,Clínica Médica,Corumbá,355.94,Particular
+1971,259,2023-07-07,Consulta,Clínica Médica,Dourados,140.34,Convênio
+1972,259,2022-01-25,Consulta,Cardiologia,Dourados,171.13,SUS
+1973,259,2021-01-27,Exame,Clínica Médica,Dourados,222.78,SUS
+1974,259,2023-04-20,Exame,Pediatria,Dourados,279.63,SUS
+1975,259,2023-02-26,Exame,Pediatria,Dourados,252.72,Particular
+1976,259,2023-11-29,Consulta,Clínica Médica,Dourados,121.84,SUS
+1977,259,2021-07-11,Exame,Pediatria,Dourados,366.42,Particular
+1978,259,2023-07-30,Consulta,Cardiologia,Dourados,161.79,SUS
+1979,259,2023-04-28,Consulta,Pediatria,Dourados,173.92,Convênio
+1980,259,2023-05-10,Emergência,Pediatria,Dourados,575.37,Convênio
+1981,259,2023-10-11,Consulta,Cardiologia,Dourados,124.57,Particular
+1982,260,2022-02-07,Emergência,Cardiologia,Dourados,641.54,SUS
+1983,260,2023-05-11,Exame,Clínica Médica,Dourados,159.77,SUS
+1984,260,2022-10-31,Exame,Ortopedia,Dourados,379.72,Convênio
+1985,260,2021-05-25,Emergência,Cardiologia,Dourados,775.41,Convênio
+1986,260,2023-09-04,Emergência,Cardiologia,Dourados,809.91,Convênio
+1987,260,2022-11-01,Consulta,Cardiologia,Dourados,141.77,SUS
+1988,260,2022-11-24,Exame,Clínica Médica,Dourados,314.77,SUS
+1989,260,2023-10-03,Exame,Pediatria,Dourados,160.92,Convênio
+1990,260,2022-10-14,Exame,Clínica Médica,Dourados,284.43,Particular
+1991,260,2023-07-25,Emergência,Cardiologia,Dourados,841.34,Convênio
+1992,261,2021-05-30,Exame,Ortopedia,Campo Grande,176.31,SUS
+1993,261,2023-01-23,Exame,Clínica Médica,Campo Grande,213.19,SUS
+1994,261,2022-02-15,Exame,Cardiologia,Campo Grande,309.72,SUS
+1995,261,2021-07-05,Exame,Pediatria,Campo Grande,249.84,SUS
+1996,261,2023-04-21,Exame,Pediatria,Campo Grande,212.65,SUS
+1997,261,2022-02-11,Exame,Cardiologia,Campo Grande,266.06,Convênio
+1998,261,2022-04-18,Consulta,Cardiologia,Campo Grande,145.7,SUS
+1999,262,2023-12-24,Exame,Clínica Médica,Corumbá,192.65,Convênio
+2000,262,2023-06-08,Emergência,Cardiologia,Corumbá,476.49,SUS
+2001,262,2023-08-25,Consulta,Ortopedia,Corumbá,156.36,SUS
+2002,263,2023-06-14,Exame,Pediatria,Corumbá,328.6,SUS
+2003,263,2022-08-25,Exame,Clínica Médica,Corumbá,359.13,Convênio
+2004,263,2021-08-01,Exame,Clínica Médica,Corumbá,261.0,Convênio
+2005,264,2023-10-08,Consulta,Pediatria,Corumbá,117.46,Particular
+2006,265,2023-11-09,Consulta,Ortopedia,Campo Grande,178.93,SUS
+2007,265,2023-11-06,Consulta,Clínica Médica,Campo Grande,86.32,Convênio
+2008,265,2022-12-02,Emergência,Cardiologia,Campo Grande,400.23,SUS
+2009,265,2021-12-01,Emergência,Pediatria,Campo Grande,496.28,SUS
+2010,266,2022-09-19,Emergência,Pediatria,Dourados,556.73,SUS
+2011,266,2023-10-03,Consulta,Clínica Médica,Dourados,112.34,SUS
+2012,266,2021-07-23,Exame,Pediatria,Dourados,153.0,Convênio
+2013,266,2021-01-22,Exame,Ortopedia,Dourados,314.49,SUS
+2014,266,2023-01-29,Emergência,Pediatria,Dourados,326.36,Convênio
+2015,266,2021-03-06,Exame,Clínica Médica,Dourados,299.72,SUS
+2016,266,2021-10-23,Emergência,Pediatria,Dourados,894.32,SUS
+2017,266,2023-04-08,Exame,Cardiologia,Dourados,299.97,Particular
+2018,266,2021-04-20,Emergência,Pediatria,Dourados,762.84,Particular
+2019,266,2021-01-02,Exame,Ortopedia,Dourados,340.43,SUS
+2020,267,2022-06-05,Consulta,Cardiologia,Corumbá,140.85,SUS
+2021,267,2022-06-10,Exame,Clínica Médica,Corumbá,335.45,SUS
+2022,267,2023-11-24,Consulta,Clínica Médica,Corumbá,155.89,SUS
+2023,267,2022-08-12,Exame,Pediatria,Corumbá,257.12,SUS
+2024,267,2023-03-13,Emergência,Cardiologia,Corumbá,382.53,SUS
+2025,267,2021-01-09,Exame,Clínica Médica,Corumbá,243.94,SUS
+2026,267,2023-08-01,Consulta,Cardiologia,Corumbá,139.81,Particular
+2027,267,2023-10-25,Emergência,Ortopedia,Corumbá,380.56,Particular
+2028,267,2021-03-25,Emergência,Cardiologia,Corumbá,323.76,Convênio
+2029,267,2021-12-02,Emergência,Pediatria,Corumbá,750.33,Convênio
+2030,267,2023-06-28,Emergência,Clínica Médica,Corumbá,445.35,SUS
+2031,267,2023-08-25,Emergência,Pediatria,Corumbá,780.87,Particular
+2032,267,2021-05-13,Emergência,Pediatria,Corumbá,612.88,Particular
+2033,267,2021-04-15,Exame,Cardiologia,Corumbá,166.15,Convênio
+2034,268,2022-02-26,Consulta,Pediatria,Dourados,94.15,Convênio
+2035,268,2023-10-15,Consulta,Pediatria,Dourados,139.26,SUS
+2036,269,2021-12-14,Exame,Pediatria,Campo Grande,227.87,Convênio
+2037,269,2022-08-21,Consulta,Ortopedia,Campo Grande,140.59,SUS
+2038,269,2022-12-20,Exame,Pediatria,Campo Grande,391.93,Convênio
+2039,269,2021-03-26,Exame,Ortopedia,Campo Grande,270.29,Particular
+2040,270,2021-10-27,Consulta,Cardiologia,Corumbá,122.27,SUS
+2041,270,2021-08-30,Consulta,Clínica Médica,Corumbá,159.36,Convênio
+2042,270,2021-06-22,Exame,Ortopedia,Corumbá,170.81,SUS
+2043,270,2023-03-01,Emergência,Pediatria,Corumbá,631.71,SUS
+2044,270,2023-12-02,Exame,Ortopedia,Corumbá,226.46,SUS
+2045,270,2021-03-16,Exame,Ortopedia,Corumbá,270.21,Convênio
+2046,270,2021-07-17,Consulta,Pediatria,Corumbá,99.57,Convênio
+2047,271,2022-06-09,Emergência,Cardiologia,Campo Grande,524.55,Convênio
+2048,272,2021-04-05,Exame,Cardiologia,Corumbá,243.29,Particular
+2049,272,2022-10-20,Exame,Cardiologia,Corumbá,297.08,Convênio
+2050,272,2023-09-17,Consulta,Pediatria,Corumbá,92.45,Particular
+2051,272,2022-05-01,Consulta,Ortopedia,Corumbá,175.71,Convênio
+2052,272,2022-10-22,Emergência,Ortopedia,Corumbá,680.99,Convênio
+2053,272,2022-05-23,Emergência,Cardiologia,Corumbá,531.2,SUS
+2054,272,2022-04-24,Emergência,Ortopedia,Corumbá,586.64,SUS
+2055,272,2022-11-28,Emergência,Pediatria,Corumbá,316.95,Convênio
+2056,272,2022-12-14,Exame,Pediatria,Corumbá,386.07,Convênio
+2057,272,2023-06-14,Exame,Pediatria,Corumbá,294.59,SUS
+2058,272,2022-09-26,Consulta,Cardiologia,Corumbá,89.23,SUS
+2059,272,2023-11-19,Exame,Clínica Médica,Corumbá,393.54,Convênio
+2060,272,2023-03-20,Emergência,Pediatria,Corumbá,825.6,Particular
+2061,272,2022-12-06,Exame,Cardiologia,Corumbá,225.55,SUS
+2062,272,2023-10-19,Emergência,Clínica Médica,Corumbá,546.97,SUS
+2063,273,2021-05-17,Consulta,Cardiologia,Três Lagoas,100.95,SUS
+2064,273,2023-08-13,Emergência,Cardiologia,Três Lagoas,892.22,SUS
+2065,274,2021-10-31,Consulta,Cardiologia,Campo Grande,121.78,Convênio
+2066,275,2022-03-30,Emergência,Pediatria,Três Lagoas,405.84,SUS
+2067,275,2022-10-22,Emergência,Clínica Médica,Três Lagoas,591.88,SUS
+2068,275,2022-08-28,Exame,Pediatria,Três Lagoas,203.14,Convênio
+2069,275,2023-10-06,Consulta,Pediatria,Três Lagoas,160.92,Convênio
+2070,275,2023-03-09,Exame,Cardiologia,Três Lagoas,367.9,Particular
+2071,275,2023-08-17,Emergência,Pediatria,Três Lagoas,365.52,Particular
+2072,275,2023-03-29,Consulta,Ortopedia,Três Lagoas,117.77,SUS
+2073,275,2023-07-01,Consulta,Cardiologia,Três Lagoas,138.56,SUS
+2074,275,2022-08-31,Exame,Clínica Médica,Três Lagoas,175.2,Convênio
+2075,275,2021-08-17,Exame,Clínica Médica,Três Lagoas,151.81,Convênio
+2076,275,2022-04-28,Consulta,Cardiologia,Três Lagoas,159.18,SUS
+2077,276,2022-09-11,Exame,Cardiologia,Três Lagoas,234.26,SUS
+2078,276,2021-09-29,Exame,Ortopedia,Três Lagoas,372.54,SUS
+2079,276,2021-05-07,Consulta,Cardiologia,Três Lagoas,146.51,Particular
+2080,276,2022-01-31,Emergência,Ortopedia,Três Lagoas,513.62,SUS
+2081,276,2023-10-24,Consulta,Cardiologia,Três Lagoas,167.05,SUS
+2082,276,2021-10-31,Emergência,Clínica Médica,Três Lagoas,855.02,Convênio
+2083,276,2022-12-22,Emergência,Pediatria,Três Lagoas,618.38,SUS
+2084,276,2023-03-16,Exame,Cardiologia,Três Lagoas,321.55,SUS
+2085,276,2022-12-04,Emergência,Ortopedia,Três Lagoas,412.76,SUS
+2086,276,2021-05-17,Consulta,Ortopedia,Três Lagoas,167.34,Convênio
+2087,277,2022-02-22,Consulta,Clínica Médica,Corumbá,120.02,Convênio
+2088,277,2021-08-10,Exame,Cardiologia,Corumbá,382.87,SUS
+2089,277,2022-04-17,Emergência,Cardiologia,Corumbá,843.12,Particular
+2090,277,2023-07-30,Exame,Clínica Médica,Corumbá,327.99,Convênio
+2091,277,2023-02-22,Consulta,Cardiologia,Corumbá,88.71,SUS
+2092,277,2023-10-24,Consulta,Cardiologia,Corumbá,175.51,Particular
+2093,277,2021-05-18,Emergência,Pediatria,Corumbá,446.01,SUS
+2094,277,2023-04-18,Emergência,Clínica Médica,Corumbá,363.28,Convênio
+2095,277,2022-08-18,Consulta,Cardiologia,Corumbá,112.65,Particular
+2096,277,2021-10-01,Exame,Cardiologia,Corumbá,214.41,SUS
+2097,277,2023-05-20,Emergência,Cardiologia,Corumbá,381.45,SUS
+2098,278,2022-06-12,Consulta,Clínica Médica,Três Lagoas,156.63,Particular
+2099,278,2021-10-09,Emergência,Cardiologia,Três Lagoas,846.1,SUS
+2100,279,2022-08-23,Consulta,Clínica Médica,Corumbá,91.57,SUS
+2101,279,2021-11-07,Consulta,Pediatria,Corumbá,154.06,SUS
+2102,279,2023-11-07,Emergência,Pediatria,Corumbá,643.7,Particular
+2103,279,2023-01-20,Exame,Clínica Médica,Corumbá,294.23,Particular
+2104,279,2023-04-09,Exame,Cardiologia,Corumbá,283.9,SUS
+2105,279,2021-05-23,Exame,Pediatria,Corumbá,241.26,SUS
+2106,279,2022-01-29,Emergência,Clínica Médica,Corumbá,654.47,Convênio
+2107,279,2023-04-13,Exame,Ortopedia,Corumbá,363.09,SUS
+2108,279,2023-08-06,Consulta,Pediatria,Corumbá,109.68,Convênio
+2109,279,2022-08-15,Exame,Ortopedia,Corumbá,186.86,Convênio
+2110,279,2021-03-13,Consulta,Clínica Médica,Corumbá,164.91,Convênio
+2111,280,2022-10-08,Exame,Ortopedia,Três Lagoas,322.15,SUS
+2112,280,2021-09-07,Emergência,Pediatria,Três Lagoas,678.65,Convênio
+2113,280,2021-10-30,Exame,Clínica Médica,Três Lagoas,391.62,SUS
+2114,280,2023-04-28,Exame,Pediatria,Três Lagoas,329.19,SUS
+2115,280,2022-03-25,Emergência,Pediatria,Três Lagoas,853.89,Convênio
+2116,280,2022-12-19,Exame,Pediatria,Três Lagoas,224.78,Convênio
+2117,280,2021-11-25,Consulta,Cardiologia,Três Lagoas,113.74,SUS
+2118,280,2023-10-26,Exame,Ortopedia,Três Lagoas,247.77,Convênio
+2119,280,2022-11-13,Exame,Cardiologia,Três Lagoas,198.77,Convênio
+2120,280,2021-06-10,Consulta,Clínica Médica,Três Lagoas,155.23,SUS
+2121,281,2023-06-12,Exame,Cardiologia,Três Lagoas,294.29,Convênio
+2122,281,2023-07-24,Emergência,Pediatria,Três Lagoas,838.33,SUS
+2123,281,2021-06-14,Consulta,Clínica Médica,Três Lagoas,99.57,Convênio
+2124,281,2023-03-11,Exame,Pediatria,Três Lagoas,293.92,Convênio
+2125,281,2023-11-02,Exame,Pediatria,Três Lagoas,256.78,Particular
+2126,281,2021-10-24,Consulta,Pediatria,Três Lagoas,177.42,SUS
+2127,281,2021-01-03,Consulta,Ortopedia,Três Lagoas,131.54,SUS
+2128,281,2023-07-09,Emergência,Cardiologia,Três Lagoas,389.14,SUS
+2129,281,2022-01-14,Consulta,Cardiologia,Três Lagoas,104.09,SUS
+2130,281,2022-04-23,Exame,Cardiologia,Três Lagoas,388.64,Convênio
+2131,281,2023-03-15,Emergência,Clínica Médica,Três Lagoas,702.44,Particular
+2132,281,2022-06-16,Exame,Ortopedia,Três Lagoas,312.58,Particular
+2133,281,2021-02-11,Emergência,Clínica Médica,Três Lagoas,520.39,Convênio
+2134,281,2023-03-06,Consulta,Pediatria,Três Lagoas,128.92,SUS
+2135,282,2023-10-27,Exame,Pediatria,Corumbá,173.64,Convênio
+2136,283,2022-01-05,Emergência,Pediatria,Corumbá,479.02,Convênio
+2137,283,2021-06-22,Consulta,Pediatria,Corumbá,151.38,SUS
+2138,283,2022-02-22,Exame,Cardiologia,Corumbá,154.94,Convênio
+2139,283,2022-08-18,Consulta,Clínica Médica,Corumbá,138.47,SUS
+2140,283,2023-03-27,Consulta,Pediatria,Corumbá,169.76,Particular
+2141,283,2023-08-26,Emergência,Cardiologia,Corumbá,303.19,Convênio
+2142,283,2022-01-27,Exame,Pediatria,Corumbá,182.2,SUS
+2143,284,2021-04-12,Consulta,Clínica Médica,Dourados,165.15,Convênio
+2144,284,2023-09-27,Consulta,Ortopedia,Dourados,130.61,Particular
+2145,284,2021-07-05,Emergência,Clínica Médica,Dourados,886.26,SUS
+2146,284,2022-05-06,Consulta,Ortopedia,Dourados,174.62,SUS
+2147,284,2023-09-17,Emergência,Cardiologia,Dourados,383.91,SUS
+2148,284,2021-01-18,Emergência,Ortopedia,Dourados,846.47,SUS
+2149,284,2022-07-10,Emergência,Clínica Médica,Dourados,425.9,SUS
+2150,284,2021-04-17,Emergência,Pediatria,Dourados,442.26,Convênio
+2151,284,2022-08-16,Consulta,Pediatria,Dourados,163.26,SUS
+2152,284,2023-05-29,Emergência,Ortopedia,Dourados,655.07,Convênio
+2153,284,2022-11-19,Consulta,Ortopedia,Dourados,122.2,Convênio
+2154,285,2021-05-17,Emergência,Clínica Médica,Corumbá,540.04,Particular
+2155,285,2021-05-01,Exame,Pediatria,Corumbá,385.05,Convênio
+2156,285,2023-04-14,Emergência,Ortopedia,Corumbá,677.74,SUS
+2157,285,2023-08-11,Emergência,Ortopedia,Corumbá,415.58,Convênio
+2158,285,2023-04-27,Emergência,Pediatria,Corumbá,792.3,Convênio
+2159,286,2022-01-28,Exame,Clínica Médica,Dourados,258.41,Particular
+2160,286,2023-06-08,Emergência,Clínica Médica,Dourados,462.08,SUS
+2161,286,2021-03-03,Emergência,Clínica Médica,Dourados,339.58,SUS
+2162,286,2021-01-10,Exame,Pediatria,Dourados,344.52,Particular
+2163,286,2021-10-13,Consulta,Pediatria,Dourados,89.79,SUS
+2164,286,2022-02-03,Exame,Clínica Médica,Dourados,345.68,Particular
+2165,286,2023-06-24,Consulta,Cardiologia,Dourados,167.55,SUS
+2166,287,2023-09-27,Emergência,Ortopedia,Três Lagoas,469.2,Convênio
+2167,287,2021-05-17,Emergência,Ortopedia,Três Lagoas,328.78,SUS
+2168,288,2023-12-24,Consulta,Cardiologia,Corumbá,154.13,SUS
+2169,288,2023-08-07,Exame,Pediatria,Corumbá,214.77,Convênio
+2170,288,2023-07-04,Emergência,Ortopedia,Corumbá,527.28,SUS
+2171,288,2022-12-13,Consulta,Ortopedia,Corumbá,143.92,Particular
+2172,288,2023-01-18,Emergência,Cardiologia,Corumbá,706.93,Convênio
+2173,288,2023-08-15,Emergência,Ortopedia,Corumbá,563.38,SUS
+2174,288,2023-04-28,Exame,Cardiologia,Corumbá,218.96,SUS
+2175,288,2023-03-14,Emergência,Pediatria,Corumbá,828.83,Particular
+2176,288,2022-04-21,Exame,Ortopedia,Corumbá,171.74,Convênio
+2177,288,2023-01-21,Exame,Clínica Médica,Corumbá,361.31,Convênio
+2178,288,2022-10-17,Consulta,Pediatria,Corumbá,174.49,Convênio
+2179,288,2021-08-10,Emergência,Cardiologia,Corumbá,746.05,SUS
+2180,288,2021-09-07,Consulta,Pediatria,Corumbá,122.4,Particular
+2181,289,2022-07-21,Emergência,Clínica Médica,Corumbá,706.06,Convênio
+2182,289,2021-12-25,Exame,Clínica Médica,Corumbá,197.55,SUS
+2183,289,2021-07-23,Emergência,Ortopedia,Corumbá,620.59,SUS
+2184,289,2022-03-24,Consulta,Clínica Médica,Corumbá,146.12,Particular
+2185,289,2021-12-27,Emergência,Pediatria,Corumbá,401.12,SUS
+2186,289,2021-03-07,Consulta,Ortopedia,Corumbá,163.94,SUS
+2187,289,2022-10-10,Consulta,Ortopedia,Corumbá,117.91,SUS
+2188,289,2022-03-07,Consulta,Clínica Médica,Corumbá,147.91,SUS
+2189,290,2022-07-24,Exame,Cardiologia,Três Lagoas,203.27,SUS
+2190,290,2022-12-02,Consulta,Clínica Médica,Três Lagoas,172.91,Particular
+2191,290,2023-01-28,Exame,Clínica Médica,Três Lagoas,362.09,Particular
+2192,290,2021-03-08,Exame,Ortopedia,Três Lagoas,265.09,SUS
+2193,290,2022-06-21,Exame,Pediatria,Três Lagoas,237.43,SUS
+2194,291,2023-09-27,Consulta,Clínica Médica,Três Lagoas,129.2,SUS
+2195,291,2022-10-20,Emergência,Clínica Médica,Três Lagoas,392.23,SUS
+2196,291,2021-05-23,Exame,Ortopedia,Três Lagoas,342.36,SUS
+2197,291,2021-11-17,Consulta,Ortopedia,Três Lagoas,117.43,SUS
+2198,291,2021-03-19,Exame,Ortopedia,Três Lagoas,284.11,Particular
+2199,291,2021-02-19,Consulta,Cardiologia,Três Lagoas,145.63,Particular
+2200,291,2023-05-05,Consulta,Clínica Médica,Três Lagoas,154.71,SUS
+2201,292,2021-12-11,Consulta,Cardiologia,Dourados,84.03,SUS
+2202,292,2022-11-11,Exame,Pediatria,Dourados,375.25,Convênio
+2203,292,2023-06-20,Emergência,Ortopedia,Dourados,587.58,SUS
+2204,292,2023-02-28,Consulta,Pediatria,Dourados,135.01,SUS
+2205,292,2021-09-27,Exame,Cardiologia,Dourados,345.08,Convênio
+2206,292,2022-11-10,Emergência,Cardiologia,Dourados,745.14,Convênio
+2207,293,2023-12-11,Consulta,Ortopedia,Campo Grande,92.61,Convênio
+2208,293,2023-12-25,Emergência,Clínica Médica,Campo Grande,710.66,SUS
+2209,293,2022-07-11,Emergência,Clínica Médica,Campo Grande,557.8,Convênio
+2210,294,2021-06-28,Exame,Cardiologia,Corumbá,170.65,SUS
+2211,294,2022-01-14,Consulta,Pediatria,Corumbá,152.92,Convênio
+2212,294,2023-04-18,Consulta,Ortopedia,Corumbá,91.5,SUS
+2213,294,2021-02-27,Emergência,Pediatria,Corumbá,792.37,SUS
+2214,294,2021-01-14,Exame,Pediatria,Corumbá,352.49,Convênio
+2215,294,2023-09-19,Consulta,Pediatria,Corumbá,139.12,Particular
+2216,294,2022-06-16,Consulta,Ortopedia,Corumbá,120.13,SUS
+2217,295,2022-02-06,Exame,Clínica Médica,Dourados,199.91,SUS
+2218,295,2021-03-07,Exame,Pediatria,Dourados,226.61,SUS
+2219,295,2021-05-24,Consulta,Cardiologia,Dourados,127.92,SUS
+2220,295,2023-04-26,Emergência,Ortopedia,Dourados,366.03,SUS
+2221,296,2022-07-21,Emergência,Clínica Médica,Três Lagoas,491.9,SUS
+2222,296,2023-04-03,Consulta,Ortopedia,Três Lagoas,85.21,SUS
+2223,296,2022-04-28,Consulta,Clínica Médica,Três Lagoas,108.02,SUS
+2224,296,2022-06-27,Exame,Ortopedia,Três Lagoas,387.08,SUS
+2225,296,2023-05-04,Exame,Clínica Médica,Três Lagoas,174.22,SUS
+2226,297,2021-09-16,Exame,Ortopedia,Dourados,352.51,SUS
+2227,297,2021-03-18,Consulta,Cardiologia,Dourados,101.0,Convênio
+2228,297,2022-05-08,Consulta,Clínica Médica,Dourados,93.05,Particular
+2229,297,2023-12-01,Consulta,Pediatria,Dourados,171.22,Convênio
+2230,297,2021-11-05,Consulta,Clínica Médica,Dourados,172.55,Convênio
+2231,297,2022-03-23,Emergência,Cardiologia,Dourados,480.89,Convênio
+2232,297,2022-07-07,Consulta,Pediatria,Dourados,95.37,SUS
+2233,297,2023-03-12,Consulta,Ortopedia,Dourados,151.16,SUS
+2234,297,2022-04-10,Exame,Cardiologia,Dourados,329.33,SUS
+2235,297,2023-05-20,Consulta,Clínica Médica,Dourados,132.38,SUS
+2236,297,2023-03-23,Consulta,Pediatria,Dourados,149.67,Convênio
+2237,298,2023-11-10,Emergência,Pediatria,Campo Grande,883.48,SUS
+2238,298,2022-03-24,Emergência,Clínica Médica,Campo Grande,597.02,Convênio
+2239,298,2021-11-02,Consulta,Cardiologia,Campo Grande,130.93,SUS
+2240,298,2022-08-27,Exame,Clínica Médica,Campo Grande,201.73,Convênio
+2241,298,2023-06-25,Consulta,Clínica Médica,Campo Grande,139.21,Convênio
+2242,299,2023-11-07,Emergência,Ortopedia,Corumbá,615.04,Convênio
+2243,299,2021-01-28,Consulta,Clínica Médica,Corumbá,106.85,SUS
+2244,299,2022-05-07,Consulta,Ortopedia,Corumbá,133.36,SUS
+2245,299,2023-02-10,Consulta,Ortopedia,Corumbá,174.2,Convênio
+2246,299,2023-06-02,Consulta,Pediatria,Corumbá,159.06,SUS
+2247,299,2022-11-25,Consulta,Ortopedia,Corumbá,80.14,SUS
+2248,299,2023-10-15,Emergência,Clínica Médica,Corumbá,521.47,Convênio
+2249,299,2023-05-17,Emergência,Pediatria,Corumbá,458.42,Particular
+2250,299,2022-01-12,Exame,Clínica Médica,Corumbá,223.72,Particular
+2251,299,2021-05-20,Emergência,Pediatria,Corumbá,794.36,Convênio
+2252,299,2022-03-03,Emergência,Clínica Médica,Corumbá,406.04,Particular
+2253,299,2021-05-27,Emergência,Clínica Médica,Corumbá,820.79,Convênio
+2254,299,2022-06-03,Emergência,Ortopedia,Corumbá,529.19,Convênio
+2255,299,2022-09-26,Emergência,Cardiologia,Corumbá,630.53,Convênio
+2256,299,2023-09-25,Consulta,Cardiologia,Corumbá,100.39,SUS
+2257,300,2023-05-18,Consulta,Pediatria,Corumbá,123.39,Convênio
+2258,300,2022-06-19,Exame,Pediatria,Corumbá,195.38,SUS
+2259,300,2022-05-28,Consulta,Pediatria,Corumbá,129.05,SUS
