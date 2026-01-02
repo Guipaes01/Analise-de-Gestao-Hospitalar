@@ -1,0 +1,11 @@
+10. Qual município concentra o maior volume de atendimentos?
+
+Corumbá é o município com maior volume de atendimentos na base analisada.
+
+SELECT
+    municipio,
+    COUNT(*) AS total_atendimentos
+FROM atendimentos
+GROUP BY municipio
+ORDER BY total_atendimentos DESC
+LIMIT 1;
