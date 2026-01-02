@@ -1,0 +1,10 @@
+9. Qual é o custo médio por tipo de atendimento?
+
+Atendimentos de emergência possuem o maior custo médio, seguidos por exames e consultas.
+
+SELECT
+    tipo_atendimento,
+    ROUND(AVG(custo_atendimento), 2) AS custo_medio
+FROM atendimentos
+GROUP BY tipo_atendimento
+ORDER BY custo_medio DESC;
