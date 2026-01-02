@@ -1,0 +1,13 @@
+Pergunta 11: Qual a proporção de pacientes que possuem plano de saúde privado versus os que dependem exclusivamente do atendimento público?
+
+A maioria dos pacientes não possui plano de saúde, dependendo do atendimento público.
+
+SELECT
+    possui_plano_saude,
+    COUNT(*) AS total_pacientes,
+    ROUND(
+        (COUNT(*) * 100.0) / (SELECT COUNT(*) FROM pacientes),
+        2
+    ) AS percentual
+FROM pacientes
+GROUP BY possui_plano_saude;
