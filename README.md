@@ -29,6 +29,8 @@ O foco está na análise de **custos operacionais, estoque de medicamentos, recu
 ┃ ┗ 📄 dim_unidade.csv   
 ┣ 📂 sql   
 ┃ ┗ 📄 consultas.sql   
+┣ 📂 Perguntas de negocios   
+┃ ┗ 📄 Perguntas de 1 ao 12  
 ┣ 📂 python   
 ┃ ┗ 📄 geracao_dados.py   
 ┣ 📂 powerbi   
