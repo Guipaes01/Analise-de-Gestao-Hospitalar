@@ -1,0 +1,13 @@
+4. Quais medicamentos estão abaixo do estoque mínimo de segurança?
+
+Alguns medicamentos apresentam estoque abaixo do mínimo, com destaque para o Clonazepam em Campo Grande, indicando risco de desabastecimento.
+
+SELECT
+    medicamento_id,
+    nome_medicamento,
+    municipio,
+    quantidade_estoque,
+    estoque_minimo
+FROM medicamentos_estoque
+WHERE quantidade_estoque < estoque_minimo
+ORDER BY municipio, nome_medicamento;
