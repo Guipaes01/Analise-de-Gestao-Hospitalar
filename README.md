@@ -30,7 +30,7 @@ O foco está na análise de **custos operacionais, estoque de medicamentos, recu
 ┣ 📂 sql   
 ┃ ┗ 📄 consultas.sql   
 ┣ 📂 Perguntas de negocios   
-┃ ┗ 📄 Perguntas de 1 ao 12  
+┃ ┗ 📄 Perguntas  
 ┣ 📂 python   
 ┃ ┗ 📄 geracao_dados.py   
 ┣ 📂 powerbi   
