@@ -1,0 +1,27 @@
+3. Qual a relação entre folha salarial e custos operacionais fixos por unidade?
+
+A folha salarial representa uma parcela relevante dos custos fixos, com maior impacto nas unidades hospitalares quando comparadas às UPAs e clínicas.
+
+WITH folha AS (
+    SELECT
+        id_unidade,
+        SUM(salario_mensal) AS total_folha
+    FROM salarios_profissionais
+    GROUP BY id_unidade
+),
+custos AS (
+    SELECT
+        id_unidade,
+        SUM(valor) AS total_custos
+    FROM custos_fixos
+    WHERE ano BETWEEN 2021 AND 2023
+    GROUP BY id_unidade
+)
+SELECT
+    d.unidade,
+    ROUND(f.total_folha, 2) AS total_folha,
+    ROUND(c.total_custos, 2) AS total_custos,
+    ROUND((f.total_folha / NULLIF(c.total_custos, 0)) * 100, 2) AS percentual_folha
+FROM folha f
+JOIN custos c ON f.id_unidade = c.id_unidade
+JOIN dim_unidade d ON d.id_unidade = f.id_unidade;
