@@ -1,0 +1,11 @@
+2. Qual unidade possui o maior custo fixo acumulado no período de 3 anos?
+
+O Hospital Regional apresenta o maior custo fixo acumulado entre 2021 e 2023.
+
+SELECT
+    unidade,
+    ROUND(SUM(valor), 2) AS custo_total_3_anos
+FROM custos_fixos
+WHERE ano BETWEEN 2021 AND 2023
+GROUP BY unidade
+ORDER BY custo_total_3_anos DESC;
